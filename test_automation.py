@@ -2,7 +2,7 @@ import sys,unittest,copy
 from pathlib import Path
 from datetime import date
 sys.path.insert(0,str(Path(__file__).resolve().parent))
-from monitor_events import ical_events,entity,reconcile,public_fingerprint,checked_url,opencity_events
+from monitor_events import ical_events,entity,reconcile,public_fingerprint,checked_url,opencity_events,alert_fingerprint
 from validate_feed import validate
 
 SOURCE={'id':'proloco','owner':'ProMontevecchia','hosts':['calendar.google.com','www.promontevecchia.it'],'page':'https://www.promontevecchia.it/','area':'Montevecchia'}
@@ -56,6 +56,15 @@ class Calendars(unittest.TestCase):
         row=entity(self.read(BASE)[0][0],SOURCE,TODAY);a={'events':[row],'sourceChecks':[]};b=copy.deepcopy(a)
         b['events'][0]['verified']='2026-10-20';b['events'][0]['automation']['lastSeen']='2026-10-20'
         self.assertEqual(public_fingerprint(a),public_fingerprint(b))
+    def test_reordered_source_warnings_do_not_notify(self):
+        a=[{'id':'proloco','issues':['Luogo mancante B','Luogo mancante A'],'ok':True},{'id':'parco','issues':[],'ok':True}]
+        b=[copy.deepcopy(a[1]),copy.deepcopy(a[0])];b[1]['issues'].reverse()
+        self.assertEqual(alert_fingerprint(a),alert_fingerprint(b))
+        self.assertEqual(public_fingerprint({'events':[],'sourceChecks':a}),public_fingerprint({'events':[],'sourceChecks':b}))
+    def test_new_warning_occurrence_is_significant(self):
+        a=[{'id':'proloco','issues':['Luogo mancante'],'ok':True}];b=copy.deepcopy(a)
+        b[0]['issues'].append('Luogo mancante')
+        self.assertNotEqual(alert_fingerprint(a),alert_fingerprint(b))
     def test_foreign_redirect_rejected(self):
         for url in ['http://www.promontevecchia.it/','https://127.0.0.1/','https://x@www.promontevecchia.it/','https://www.promontevecchia.it.evil.test/']:
             with self.assertRaises(ValueError):checked_url(url,SOURCE['hosts'])
