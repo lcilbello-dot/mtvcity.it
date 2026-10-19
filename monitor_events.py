@@ -270,8 +270,16 @@ def reconcile(previous, found, healthy, today):
         elif e['endDate']<today.isoformat() and e['publication']=='published':e['publication']='archive'
     return sorted(merged.values(),key=lambda e:(e['startDate'],e['id']))
 
+def alert_facts(checks):
+    # Calendar providers may reorder unchanged VEVENT blocks on every request.
+    # Retain repeated warnings (different occurrences), but ignore their order.
+    return sorted([{'source':s['id'],'issues':sorted(s.get('issues',[])),'ok':s['ok']} for s in checks],key=lambda s:s['source'])
+
+def alert_fingerprint(checks):
+    return digest(alert_facts(checks))
+
 def public_fingerprint(feed):
-    return digest({'events':[{k:v for k,v in e.items() if k not in ['verified','automation']} for e in feed.get('events',[])], 'issues':[{'source':s['id'],'issues':s.get('issues',[]),'ok':s['ok']} for s in feed.get('sourceChecks',[])]})
+    return digest({'events':[{k:v for k,v in e.items() if k not in ['verified','automation']} for e in sorted(feed.get('events',[]),key=lambda e:e['id'])], 'issues':alert_facts(feed.get('sourceChecks',[]))})
 
 def main(argv=None):
     parser=argparse.ArgumentParser();parser.add_argument('--fixtures',type=Path);parser.add_argument('--apply',action='store_true');parser.add_argument('--today',type=date.fromisoformat);parser.add_argument('--output',type=Path,default=ROOT/'run');args=parser.parse_args(argv)
@@ -326,6 +334,7 @@ def main(argv=None):
                 found.append(event)
         except Exception as error:
             check['issues']=[type(error).__name__+': '+str(error)[:240]]
+        check['issues']=sorted(check['issues'])
         checks.append(check)
         all_sources.append({'id':'AUTO-'+source['id'],'owner':source['owner'],'title':'Calendario ufficiale: '+source['owner'],'url':source['page'],'checked':today.isoformat(),'note':'Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata.'})
     # Same facts from two calendars are represented once. Conflicting dates remain separate and flagged.
@@ -342,8 +351,9 @@ def main(argv=None):
     args.output.mkdir(parents=True,exist_ok=True);write_json(args.output/'proposal.json',feed)
     previous_state=read_json(ROOT/'state.json',{})
     state={'checkedAt':now,'sources':checks,'lastPublishedFingerprint':public_fingerprint(feed)}
-    source_alert_changed=digest([{k:c[k] for k in ['id','ok','issues']} for c in checks])!=previous_state.get('alertFingerprint')
-    state['alertFingerprint']=digest([{k:c[k] for k in ['id','ok','issues']} for c in checks])
+    previous_alert=alert_fingerprint(previous_state['sources']) if 'sources' in previous_state else previous_state.get('alertFingerprint')
+    state['alertFingerprint']=alert_fingerprint(checks)
+    source_alert_changed=state['alertFingerprint']!=previous_alert
     write_json(args.output/'state.json',state)
     if args.apply:
         write_json(ROOT/'events-feed.json',feed);write_json(ROOT/'state.json',state)
