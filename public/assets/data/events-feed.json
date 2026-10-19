@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T17:58:17+02:00",
+  "generatedAt": "2026-10-19T18:23:26+02:00",
   "events": [
     {
       "id": "auto-comune-a8388be5610e3c49ca53",
@@ -66,7 +66,7 @@
         "identity": "1991|1788282000-1791482400",
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -133,7 +133,7 @@
         "identity": "1993|1788892200-1792008000",
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -200,7 +200,7 @@
         "identity": "1995|1789027200-1792008000",
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -267,7 +267,7 @@
         "identity": "2005|1791151200-1793401200",
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -334,7 +334,7 @@
         "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-10-06T20:30:00+02:00",
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -402,7 +402,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -469,7 +469,7 @@
         "identity": "4o26oc06i9kum6p20vflj8d2nq@google.com|2026-10-10T16:30:00+00:00",
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -536,7 +536,7 @@
         "identity": "4livm3jo3r26j11r1mifijcbsu@google.com|2026-10-11T08:00:00+00:00",
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -604,7 +604,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -671,7 +671,7 @@
         "identity": "2023|1792425600-1792431000",
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -738,7 +738,7 @@
         "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-10-20T20:30:00+02:00",
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -805,7 +805,7 @@
         "identity": "coomcdb574rj2b9oc5h3gb9kclj3ab9occr32b9o74rjachncdgj8dj46o@google.com|2026-10-23T16:00:00+00:00",
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -872,7 +872,7 @@
         "identity": "1997|1792828800-1792958400",
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -939,7 +939,7 @@
         "identity": "2026-10-25|trekkingdautunno",
         "publisherOnly": false,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -1007,7 +1007,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -1074,7 +1074,7 @@
         "identity": "2026-11-01|labitoautunnaledelbosco",
         "publisherOnly": false,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -1141,7 +1141,7 @@
         "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-11-03T20:30:00+01:00",
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -1208,7 +1208,7 @@
         "identity": "luv3erc4375enmbp02vnfqfpdp@google.com|2026-11-04T17:00:00+01:00",
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -1276,7 +1276,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -1343,7 +1343,7 @@
         "identity": "2025|1794042000-1794047400",
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -1411,7 +1411,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -1478,7 +1478,7 @@
         "identity": "2026-11-15|lesorgentidelparco",
         "publisherOnly": false,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -1545,7 +1545,7 @@
         "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-11-17T20:30:00+01:00",
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -1612,7 +1612,7 @@
         "identity": "2027|1795107600-1795113000",
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -1680,7 +1680,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -1747,7 +1747,7 @@
         "identity": "4f424nrjlfos40uo83f59a8eq9@google.com|2026-11-28T16:00:00+00:00",
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -1814,7 +1814,7 @@
         "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-12-01T20:30:00+01:00",
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -1881,7 +1881,7 @@
         "identity": "luv3erc4375enmbp02vnfqfpdp@google.com|2026-12-02T17:00:00+01:00",
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -1949,7 +1949,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -2017,7 +2017,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -2084,7 +2084,7 @@
         "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-12-15T20:30:00+01:00",
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -2152,7 +2152,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -2219,7 +2219,7 @@
         "identity": "2028|1800032400-1800037800",
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -2287,7 +2287,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -2355,7 +2355,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -2423,7 +2423,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -2491,7 +2491,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     },
     {
@@ -2559,7 +2559,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-10-19",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-10-19T17:58:17+02:00"
+        "lastSeenAt": "2026-10-19T18:23:26+02:00"
       }
     }
   ],
@@ -2593,29 +2593,29 @@
     {
       "id": "proloco",
       "owner": "ProMontevecchia",
-      "checkedAt": "2026-10-19T17:58:17+02:00",
+      "checkedAt": "2026-10-19T18:23:26+02:00",
       "ok": true,
       "issues": [
-        "Trucco make up adolescenti 1: Luogo non dichiarato nella fonte",
-        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
-        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
-        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
-        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
-        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
-        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
-        "Valcurone in musica 2ª Edizione: Music on the Road: Luogo non dichiarato nella fonte",
         "Cena sociale ProMontevecchia: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
         "Festa di Natale di Montevecchia: Luogo non dichiarato nella fonte",
+        "Trucco make up adolescenti 1: Luogo non dichiarato nella fonte",
         "Trucco make up adolescenti 2: Luogo non dichiarato nella fonte",
-        "Valcurone in musica 2ª Edizione: Black Vibes: Neo-Soul & R&B con i Nukinda: Luogo non dichiarato nella fonte"
+        "Valcurone in musica 2ª Edizione: Black Vibes: Neo-Soul & R&B con i Nukinda: Luogo non dichiarato nella fonte",
+        "Valcurone in musica 2ª Edizione: Music on the Road: Luogo non dichiarato nella fonte"
       ],
-      "sha256": "dda137ac59ced08e239d10da4b7ce83dc08807c730fd6dbf287148dccd8a9f2b",
+      "sha256": "f77ddbafabb1fd11221adbe08e70b55ca141f5a11d2bc7869cda6e0f63afc377",
       "eventCount": 26
     },
     {
       "id": "parco",
       "owner": "Parco di Montevecchia e della Valle del Curone",
-      "checkedAt": "2026-10-19T17:58:17+02:00",
+      "checkedAt": "2026-10-19T18:23:26+02:00",
       "ok": true,
       "issues": [],
       "sha256": "a8ff3595d06e938f8a531b65b90f11151db665537f111963bc2ce11c132b1a15",
@@ -2625,7 +2625,7 @@
     {
       "id": "comune",
       "owner": "Comune di Montevecchia",
-      "checkedAt": "2026-10-19T17:58:17+02:00",
+      "checkedAt": "2026-10-19T18:23:26+02:00",
       "ok": true,
       "issues": [],
       "sha256": "97612fcd34bf2db4f74be7d2d05e2b7dc5f405bcb8b80cea71a0c5e58fb81b26",

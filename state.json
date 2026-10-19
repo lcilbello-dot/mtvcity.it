@@ -1,32 +1,32 @@
 {
-  "checkedAt": "2026-10-19T17:58:17+02:00",
+  "checkedAt": "2026-10-19T18:23:26+02:00",
   "sources": [
     {
       "id": "proloco",
       "owner": "ProMontevecchia",
-      "checkedAt": "2026-10-19T17:58:17+02:00",
+      "checkedAt": "2026-10-19T18:23:26+02:00",
       "ok": true,
       "issues": [
-        "Trucco make up adolescenti 1: Luogo non dichiarato nella fonte",
-        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
-        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
-        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
-        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
-        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
-        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
-        "Valcurone in musica 2ª Edizione: Music on the Road: Luogo non dichiarato nella fonte",
         "Cena sociale ProMontevecchia: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
         "Festa di Natale di Montevecchia: Luogo non dichiarato nella fonte",
+        "Trucco make up adolescenti 1: Luogo non dichiarato nella fonte",
         "Trucco make up adolescenti 2: Luogo non dichiarato nella fonte",
-        "Valcurone in musica 2ª Edizione: Black Vibes: Neo-Soul & R&B con i Nukinda: Luogo non dichiarato nella fonte"
+        "Valcurone in musica 2ª Edizione: Black Vibes: Neo-Soul & R&B con i Nukinda: Luogo non dichiarato nella fonte",
+        "Valcurone in musica 2ª Edizione: Music on the Road: Luogo non dichiarato nella fonte"
       ],
-      "sha256": "dda137ac59ced08e239d10da4b7ce83dc08807c730fd6dbf287148dccd8a9f2b",
+      "sha256": "f77ddbafabb1fd11221adbe08e70b55ca141f5a11d2bc7869cda6e0f63afc377",
       "eventCount": 26
     },
     {
       "id": "parco",
       "owner": "Parco di Montevecchia e della Valle del Curone",
-      "checkedAt": "2026-10-19T17:58:17+02:00",
+      "checkedAt": "2026-10-19T18:23:26+02:00",
       "ok": true,
       "issues": [],
       "sha256": "a8ff3595d06e938f8a531b65b90f11151db665537f111963bc2ce11c132b1a15",
@@ -36,13 +36,13 @@
     {
       "id": "comune",
       "owner": "Comune di Montevecchia",
-      "checkedAt": "2026-10-19T17:58:17+02:00",
+      "checkedAt": "2026-10-19T18:23:26+02:00",
       "ok": true,
       "issues": [],
       "sha256": "97612fcd34bf2db4f74be7d2d05e2b7dc5f405bcb8b80cea71a0c5e58fb81b26",
       "eventCount": 9
     }
   ],
-  "lastPublishedFingerprint": "c90002cad806f8d0f20743c6b4766044db6ee4aa607033b8bc18531b6b5836c3",
-  "alertFingerprint": "bfe1e047a8027124234d96a9bd7e7d81b4ed60a5bee24fbd875e8de034ca3caa"
+  "lastPublishedFingerprint": "1ae316f01a2f4089120baf0bc5973169183bc1cfec1b457c4e7abc425ac0fae7",
+  "alertFingerprint": "9b2752cba35d7291fc64cb1b819a8cadf236f2d795936df0998e62e31a4b4b17"
 }
