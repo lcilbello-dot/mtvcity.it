@@ -38,21 +38,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Prepara sorgenti dal pacchetto iniziale, se presente
-        run: |
-          python - <<'PY'
-          import base64, hashlib, json, pathlib, zlib
-          package=pathlib.Path('bootstrap.json')
-          if package.is_file():
-              envelope=json.loads(package.read_text())
-              payload=zlib.decompress(base64.b64decode(envelope['payload'],validate=True))
-              assert len(payload)<100000 and hashlib.sha256(payload).hexdigest()==envelope['sha256']
-              files=json.loads(payload)
-              allowed={'.gitignore','README.md','monitor_events.py','validate_feed.py','test_automation.py','requirements.txt','sources.json','seed-events.json'}
-              assert set(files)==allowed
-              for name,source in files.items():
-                  pathlib.Path(name).write_text(source,encoding='utf-8')
-          PY
+          cache: pip
+          cache-dependency-path: requirements.txt
       - name: Prepara lettura calendari
         run: python -m pip install -r requirements.txt
       - name: Verifica ricorrenze, annullamenti e dati incompleti
@@ -68,8 +55,7 @@ jobs:
         run: |
           git config user.name 'mtvcity-events[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add .gitignore README.md monitor_events.py validate_feed.py test_automation.py requirements.txt sources.json seed-events.json events-feed.json public/assets/data/events-feed.json state.json
-          if [ -f bootstrap.json ]; then git rm bootstrap.json; fi
+          git add events-feed.json public/assets/data/events-feed.json state.json
           if ! git diff --cached --quiet; then
             git commit -m 'Aggiorna calendario dalle fonti ufficiali [skip ci]'
             git push origin HEAD:main
@@ -80,8 +66,7 @@ jobs:
           git config user.name 'mtvcity-events[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git switch -C automation/events
-          git add .gitignore README.md monitor_events.py validate_feed.py test_automation.py requirements.txt sources.json seed-events.json events-feed.json public/assets/data/events-feed.json state.json
-          if [ -f bootstrap.json ]; then git rm bootstrap.json; fi
+          git add events-feed.json public/assets/data/events-feed.json state.json
           git commit -m 'Propone aggiornamento calendario'
           git push --force-with-lease origin automation/events
           pr_url="$(gh pr list --head automation/events --base main --json url --jq '.[0].url // empty')"
