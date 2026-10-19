@@ -1,0 +1,124 @@
+name: Aggiornamento automatico eventi MTV City
+
+on:
+  schedule:
+    - cron: '17 6 * * *'
+      timezone: Europe/Rome
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '*.py'
+      - 'sources.json'
+      - 'requirements.txt'
+      - 'seed-events.json'
+      - '.github/workflows/events.yml'
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+concurrency:
+  group: mtvcity-events
+  cancel-in-progress: false
+
+jobs:
+  calendar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      GH_TOKEN: ${{ github.token }}
+      OWNER: ${{ github.repository_owner }}
+      PUBLISH_MODE: ${{ vars.EVENTS_PUBLISH_MODE || 'automatic' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Prepara sorgenti dal pacchetto iniziale, se presente
+        run: |
+          python - <<'PY'
+          import base64, hashlib, json, pathlib, zlib
+          package=pathlib.Path('bootstrap.json')
+          if package.is_file():
+              envelope=json.loads(package.read_text())
+              payload=zlib.decompress(base64.b64decode(envelope['payload'],validate=True))
+              assert len(payload)<100000 and hashlib.sha256(payload).hexdigest()==envelope['sha256']
+              files=json.loads(payload)
+              allowed={'.gitignore','README.md','monitor_events.py','validate_feed.py','test_automation.py','requirements.txt','sources.json','seed-events.json'}
+              assert set(files)==allowed
+              for name,source in files.items():
+                  pathlib.Path(name).write_text(source,encoding='utf-8')
+          PY
+      - name: Prepara lettura calendari
+        run: python -m pip install -r requirements.txt
+      - name: Verifica ricorrenze, annullamenti e dati incompleti
+        run: python -m unittest -v test_automation
+      - name: Leggi fonti e aggiorna dati
+        id: monitor
+        continue-on-error: true
+        run: python monitor_events.py --apply
+      - name: Verifica il catalogo prodotto
+        run: python validate_feed.py
+      - name: Registra il controllo o pubblica i dati
+        if: env.PUBLISH_MODE == 'automatic' || steps.monitor.outputs.changed == 'false'
+        run: |
+          git config user.name 'mtvcity-events[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add .gitignore README.md monitor_events.py validate_feed.py test_automation.py requirements.txt sources.json seed-events.json events-feed.json public/assets/data/events-feed.json state.json
+          if [ -f bootstrap.json ]; then git rm bootstrap.json; fi
+          if ! git diff --cached --quiet; then
+            git commit -m 'Aggiorna calendario dalle fonti ufficiali [skip ci]'
+            git push origin HEAD:main
+          fi
+      - name: Prepara aggiornamento da confermare, se richiesto
+        if: env.PUBLISH_MODE == 'review' && steps.monitor.outputs.changed == 'true'
+        run: |
+          git config user.name 'mtvcity-events[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git switch -C automation/events
+          git add .gitignore README.md monitor_events.py validate_feed.py test_automation.py requirements.txt sources.json seed-events.json events-feed.json public/assets/data/events-feed.json state.json
+          if [ -f bootstrap.json ]; then git rm bootstrap.json; fi
+          git commit -m 'Propone aggiornamento calendario'
+          git push --force-with-lease origin automation/events
+          pr_url="$(gh pr list --head automation/events --base main --json url --jq '.[0].url // empty')"
+          if [ -z "$pr_url" ]; then
+            gh pr create --base main --head automation/events --title 'Calendario: aggiornamento fonti' --body-file run/report.md
+          else
+            gh pr edit "$pr_url" --body-file run/report.md
+          fi
+      - name: Segnala soltanto nuove anomalie o risoluzioni
+        if: steps.monitor.outputs.attention == 'true'
+        env:
+          HAS_ISSUES: ${{ steps.monitor.outputs.has_issues }}
+        run: |
+          issue_url="$(gh issue list --state open --search 'in:title "MTV City: fonti eventi da verificare"' --json url --jq '.[0].url // empty')"
+          if [ "$HAS_ISSUES" = 'true' ]; then
+            if [ -z "$issue_url" ]; then
+              gh issue create --title 'MTV City: fonti eventi da verificare' --body-file run/report.md --assignee "$OWNER"
+            else
+              gh issue edit "$issue_url" --body-file run/report.md
+              gh issue comment "$issue_url" --body-file run/report.md
+            fi
+          elif [ -n "$issue_url" ]; then
+            gh issue close "$issue_url" --comment 'Le fonti sono tornate leggibili e non presentano anomalie nel controllo corrente.'
+          fi
+      - name: Segnala indisponibilità totale nel controllo
+        if: steps.monitor.outcome == 'failure'
+        run: exit 1
+      - name: Riepilogo
+        if: always()
+        run: |
+          if [ -f run/report.md ]; then
+            cat run/report.md >> "$GITHUB_STEP_SUMMARY"
+          fi
+      - name: Conserva il rapporto
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: rapporto-eventi
+          path: run/
+          retention-days: 14
