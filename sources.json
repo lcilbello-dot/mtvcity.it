@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "timezone": "Europe/Rome",
+  "publishMode": "automatic",
+  "daysAhead": 180,
+  "maxStaleHours": 72,
+  "sources": [
+    {
+      "id": "proloco",
+      "owner": "ProMontevecchia",
+      "kind": "ical",
+      "url": "https://calendar.google.com/calendar/ical/promontevecchia%40gmail.com/public/basic.ics",
+      "page": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "hosts": ["calendar.google.com", "www.promontevecchia.it"],
+      "fixture": "proloco.ics",
+      "area": "Montevecchia e dintorni"
+    },
+    {
+      "id": "parco",
+      "owner": "Parco di Montevecchia e della Valle del Curone",
+      "kind": "parco_pdf",
+      "url": "https://www.parcocurone.it/iniziative/visitegev.php",
+      "page": "https://www.parcocurone.it/iniziative/visitegev.php",
+      "hosts": ["www.parcocurone.it"],
+      "fixture": "parco-visite.html",
+      "documentFixture": "parco-calendario.pdf",
+      "area": "Parco di Montevecchia e della Valle del Curone"
+    },
+    {
+      "id": "comune",
+      "owner": "Comune di Montevecchia",
+      "kind": "opencity",
+      "url": "https://www.comune.montevecchia.lc.it/opendata/api/content/search/?q=classes%20%5Bevent%5D%20limit%20100",
+      "page": "https://www.comune.montevecchia.lc.it/Vivere-il-comune/Eventi",
+      "hosts": ["www.comune.montevecchia.lc.it"],
+      "fixture": "comune.json",
+      "detailPath": "/Vivere-il-comune/Eventi/",
+      "area": "Montevecchia"
+    }
+  ]
+}

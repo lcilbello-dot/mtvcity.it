@@ -1,0 +1,2636 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-19T17:51:23+02:00",
+  "events": [
+    {
+      "id": "auto-comune-a8388be5610e3c49ca53",
+      "type": "event",
+      "name": {
+        "it": "Allenamenti al Parco - settembre e ottobre",
+        "en": "Allenamenti al Parco - settembre e ottobre"
+      },
+      "title": {
+        "it": "Allenamenti al Parco - settembre e ottobre | MTV City",
+        "en": "Allenamenti al Parco - settembre e ottobre | MTV City"
+      },
+      "metaDescription": {
+        "it": "Allenamenti al Parco - settembre e ottobre: appuntamento del 2026-09-01. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Allenamenti al Parco - settembre e ottobre: event on 2026-09-01. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-09-01: Allenamenti al Parco - settembre e ottobre. Appuntamento presente nel programma di Comune di Montevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-09-01: Allenamenti al Parco - settembre e ottobre. An event listed by Comune di Montevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "19:00",
+        "en": "19:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-09-01",
+      "endDate": "2026-10-08",
+      "startTime": "19:00",
+      "organiser": "Comune di Montevecchia",
+      "officialUrl": "https://www.comune.montevecchia.lc.it/Vivere-il-comune/Eventi/Allenamenti-al-Parco-settembre-e-ottobre",
+      "contact": null,
+      "meetingPoint": "Parco Fontanile",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-comune"
+      ],
+      "verified": "2026-10-19",
+      "publication": "archive",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-comune-a8388be5610e3c49ca53/",
+        "en": "/en/events/auto-comune-a8388be5610e3c49ca53/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "comune",
+        "uid": "1991",
+        "identity": "1991|1788282000-1791482400",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-comune-58f1632def7f6ca96aa4",
+      "type": "event",
+      "name": {
+        "it": "Coro Pop & Gospel di Montevecchia",
+        "en": "Coro Pop & Gospel di Montevecchia"
+      },
+      "title": {
+        "it": "Coro Pop & Gospel di Montevecchia | MTV City",
+        "en": "Coro Pop & Gospel di Montevecchia | MTV City"
+      },
+      "metaDescription": {
+        "it": "Coro Pop & Gospel di Montevecchia: appuntamento del 2026-09-08. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Coro Pop & Gospel di Montevecchia: event on 2026-09-08. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-09-08: Coro Pop & Gospel di Montevecchia. Appuntamento presente nel programma di Comune di Montevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-09-08: Coro Pop & Gospel di Montevecchia. An event listed by Comune di Montevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "20:30",
+        "en": "20:30"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-09-08",
+      "endDate": "2026-10-14",
+      "startTime": "20:30",
+      "organiser": "Comune di Montevecchia",
+      "officialUrl": "https://www.comune.montevecchia.lc.it/Vivere-il-comune/Eventi/Coro-Pop-Gospel-di-Montevecchia",
+      "contact": null,
+      "meetingPoint": "Sala Civica",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-comune"
+      ],
+      "verified": "2026-10-19",
+      "publication": "archive",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-comune-58f1632def7f6ca96aa4/",
+        "en": "/en/events/auto-comune-58f1632def7f6ca96aa4/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "comune",
+        "uid": "1993",
+        "identity": "1993|1788892200-1792008000",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-comune-f815da8068317e6cba81",
+      "type": "event",
+      "name": {
+        "it": "English Book Club",
+        "en": "English Book Club"
+      },
+      "title": {
+        "it": "English Book Club | MTV City",
+        "en": "English Book Club | MTV City"
+      },
+      "metaDescription": {
+        "it": "English Book Club: appuntamento del 2026-09-10. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "English Book Club: event on 2026-09-10. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-09-10: English Book Club. Appuntamento presente nel programma di Comune di Montevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-09-10: English Book Club. An event listed by Comune di Montevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "10:00",
+        "en": "10:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-09-10",
+      "endDate": "2026-10-14",
+      "startTime": "10:00",
+      "organiser": "Comune di Montevecchia",
+      "officialUrl": "https://www.comune.montevecchia.lc.it/Vivere-il-comune/Eventi/English-Book-Club",
+      "contact": null,
+      "meetingPoint": "Casetta Bis",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-comune"
+      ],
+      "verified": "2026-10-19",
+      "publication": "archive",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-comune-f815da8068317e6cba81/",
+        "en": "/en/events/auto-comune-f815da8068317e6cba81/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "comune",
+        "uid": "1995",
+        "identity": "1995|1789027200-1792008000",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-comune-b4d3071cf517e0ec2491",
+      "type": "event",
+      "name": {
+        "it": "Pensiero d'autunno 2026",
+        "en": "Pensiero d'autunno 2026"
+      },
+      "title": {
+        "it": "Pensiero d'autunno 2026 | MTV City",
+        "en": "Pensiero d'autunno 2026 | MTV City"
+      },
+      "metaDescription": {
+        "it": "Pensiero d'autunno 2026: appuntamento del 2026-10-05. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Pensiero d'autunno 2026: event on 2026-10-05. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-10-05: Pensiero d'autunno 2026. Appuntamento presente nel programma di Comune di Montevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-10-05: Pensiero d'autunno 2026. An event listed by Comune di Montevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "00:00",
+        "en": "00:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-30",
+      "startTime": "00:00",
+      "organiser": "Comune di Montevecchia",
+      "officialUrl": "https://www.comune.montevecchia.lc.it/Vivere-il-comune/Eventi/Pensiero-d-autunno-2026",
+      "contact": null,
+      "meetingPoint": "Municipio",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-comune"
+      ],
+      "verified": "2026-10-19",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-comune-b4d3071cf517e0ec2491/",
+        "en": "/en/events/auto-comune-b4d3071cf517e0ec2491/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "comune",
+        "uid": "2005",
+        "identity": "2005|1791151200-1793401200",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-ef229d6e29af3bb2e16c",
+      "type": "event",
+      "name": {
+        "it": "Coro Pop",
+        "en": "Coro Pop"
+      },
+      "title": {
+        "it": "Coro Pop | MTV City",
+        "en": "Coro Pop | MTV City"
+      },
+      "metaDescription": {
+        "it": "Coro Pop: appuntamento del 2026-10-06. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Coro Pop: event on 2026-10-06. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-10-06: Coro Pop. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-10-06: Coro Pop. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "20:30",
+        "en": "20:30"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-10-06",
+      "endDate": "2026-10-06",
+      "startTime": "20:30",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": "SALA CIVICA, Via del Fontanile, 6, 23874 Montevecchia LC, Italia",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "archive",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-ef229d6e29af3bb2e16c/",
+        "en": "/en/events/auto-proloco-ef229d6e29af3bb2e16c/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "5vmn17pik6atshak43kmvstpvl@google.com",
+        "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-10-06T20:30:00+02:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-a4e55c70a4f46733f46c",
+      "type": "event",
+      "name": {
+        "it": "ENGLISH BOOK",
+        "en": "ENGLISH BOOK"
+      },
+      "title": {
+        "it": "ENGLISH BOOK | MTV City",
+        "en": "ENGLISH BOOK | MTV City"
+      },
+      "metaDescription": {
+        "it": "ENGLISH BOOK: appuntamento del 2026-10-09. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "ENGLISH BOOK: event on 2026-10-09. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-10-09: ENGLISH BOOK. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-10-09: ENGLISH BOOK. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "10:00",
+        "en": "10:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-09",
+      "startTime": "10:00",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": null,
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "draft",
+      "status": "pending_automation_review",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-a4e55c70a4f46733f46c/",
+        "en": "/en/events/auto-proloco-a4e55c70a4f46733f46c/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
+        "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2026-10-09T10:00:00+02:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "issue": "Luogo non dichiarato nella fonte",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-aaac59f4ee5af7c0016e",
+      "type": "event",
+      "name": {
+        "it": "Aspettando la Festa d'Autunno - aperitivo in Musica",
+        "en": "Aspettando la Festa d'Autunno - aperitivo in Musica"
+      },
+      "title": {
+        "it": "Aspettando la Festa d'Autunno - aperitivo in Musica | MTV City",
+        "en": "Aspettando la Festa d'Autunno - aperitivo in Musica | MTV City"
+      },
+      "metaDescription": {
+        "it": "Aspettando la Festa d'Autunno - aperitivo in Musica: appuntamento del 2026-10-10. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Aspettando la Festa d'Autunno - aperitivo in Musica: event on 2026-10-10. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-10-10: Aspettando la Festa d'Autunno - aperitivo in Musica. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-10-10: Aspettando la Festa d'Autunno - aperitivo in Musica. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "18:30",
+        "en": "18:30"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "startTime": "18:30",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": "Associazione Pro Loco ProMontevecchia APS, Via del Fontanile, 8, 23874 Quattro Strade LC, Italia",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "archive",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-aaac59f4ee5af7c0016e/",
+        "en": "/en/events/auto-proloco-aaac59f4ee5af7c0016e/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "4o26oc06i9kum6p20vflj8d2nq@google.com",
+        "identity": "4o26oc06i9kum6p20vflj8d2nq@google.com|2026-10-10T16:30:00+00:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-861316897598494dad90",
+      "type": "event",
+      "name": {
+        "it": "Festa d'Autunno",
+        "en": "Festa d'Autunno"
+      },
+      "title": {
+        "it": "Festa d'Autunno | MTV City",
+        "en": "Festa d'Autunno | MTV City"
+      },
+      "metaDescription": {
+        "it": "Festa d'Autunno: appuntamento del 2026-10-11. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Festa d'Autunno: event on 2026-10-11. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-10-11: Festa d'Autunno. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-10-11: Festa d'Autunno. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "10:00",
+        "en": "10:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-11",
+      "startTime": "10:00",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": "Via Del Fontanile - casetta, area parco scuole e impianti sportivi",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "archive",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-861316897598494dad90/",
+        "en": "/en/events/auto-proloco-861316897598494dad90/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "4livm3jo3r26j11r1mifijcbsu@google.com",
+        "identity": "4livm3jo3r26j11r1mifijcbsu@google.com|2026-10-11T08:00:00+00:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-750919aa55a498b79a3c",
+      "type": "event",
+      "name": {
+        "it": "Percorsi femm. Mamma figlia 9-12",
+        "en": "Percorsi femm. Mamma figlia 9-12"
+      },
+      "title": {
+        "it": "Percorsi femm. Mamma figlia 9-12 | MTV City",
+        "en": "Percorsi femm. Mamma figlia 9-12 | MTV City"
+      },
+      "metaDescription": {
+        "it": "Percorsi femm. Mamma figlia 9-12: appuntamento del 2026-10-17. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Percorsi femm. Mamma figlia 9-12: event on 2026-10-17. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-10-17: Percorsi femm. Mamma figlia 9-12. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-10-17: Percorsi femm. Mamma figlia 9-12. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "09:00",
+        "en": "09:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-17",
+      "startTime": "09:00",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": null,
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "draft",
+      "status": "pending_automation_review",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-750919aa55a498b79a3c/",
+        "en": "/en/events/auto-proloco-750919aa55a498b79a3c/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "c9j3ceb36pj3gb9o64o3gb9k74s34bb261hmcbb56cq32phocgr3cchj6o@google.com",
+        "identity": "c9j3ceb36pj3gb9o64o3gb9k74s34bb261hmcbb56cq32phocgr3cchj6o@google.com|2026-10-17T07:00:00+00:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "issue": "Luogo non dichiarato nella fonte",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-comune-b8ff0c7c62df85bbedd7",
+      "type": "event",
+      "name": {
+        "it": "Quattro strade centro 1 tavolo",
+        "en": "Quattro strade centro 1 tavolo"
+      },
+      "title": {
+        "it": "Quattro strade centro 1 tavolo | MTV City",
+        "en": "Quattro strade centro 1 tavolo | MTV City"
+      },
+      "metaDescription": {
+        "it": "Quattro strade centro 1 tavolo: appuntamento del 2026-10-19. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Quattro strade centro 1 tavolo: event on 2026-10-19. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-10-19: Quattro strade centro 1 tavolo. Appuntamento presente nel programma di Comune di Montevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-10-19: Quattro strade centro 1 tavolo. An event listed by Comune di Montevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "18:00",
+        "en": "18:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-10-19",
+      "endDate": "2026-10-19",
+      "startTime": "18:00",
+      "organiser": "Comune di Montevecchia",
+      "officialUrl": "https://www.comune.montevecchia.lc.it/Vivere-il-comune/Eventi/Quattro-strade-centro-1-tavolo",
+      "contact": null,
+      "meetingPoint": "Teatro Parrocchiale",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-comune"
+      ],
+      "verified": "2026-10-19",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-comune-b8ff0c7c62df85bbedd7/",
+        "en": "/en/events/auto-comune-b8ff0c7c62df85bbedd7/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "comune",
+        "uid": "2023",
+        "identity": "2023|1792425600-1792431000",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-892efcc13d4ec524bc8e",
+      "type": "event",
+      "name": {
+        "it": "Coro Pop",
+        "en": "Coro Pop"
+      },
+      "title": {
+        "it": "Coro Pop | MTV City",
+        "en": "Coro Pop | MTV City"
+      },
+      "metaDescription": {
+        "it": "Coro Pop: appuntamento del 2026-10-20. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Coro Pop: event on 2026-10-20. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-10-20: Coro Pop. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-10-20: Coro Pop. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "20:30",
+        "en": "20:30"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-10-20",
+      "endDate": "2026-10-20",
+      "startTime": "20:30",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": "SALA CIVICA, Via del Fontanile, 6, 23874 Montevecchia LC, Italia",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-892efcc13d4ec524bc8e/",
+        "en": "/en/events/auto-proloco-892efcc13d4ec524bc8e/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "5vmn17pik6atshak43kmvstpvl@google.com",
+        "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-10-20T20:30:00+02:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-62284698bd516c0dae28",
+      "type": "event",
+      "name": {
+        "it": "RIMANDATO: Percorsi femm. Mamma figlia 9-12",
+        "en": "RIMANDATO: Percorsi femm. Mamma figlia 9-12"
+      },
+      "title": {
+        "it": "RIMANDATO: Percorsi femm. Mamma figlia 9-12 | MTV City",
+        "en": "RIMANDATO: Percorsi femm. Mamma figlia 9-12 | MTV City"
+      },
+      "metaDescription": {
+        "it": "RIMANDATO: Percorsi femm. Mamma figlia 9-12: appuntamento del 2026-10-23. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "RIMANDATO: Percorsi femm. Mamma figlia 9-12: event on 2026-10-23. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-10-23: RIMANDATO: Percorsi femm. Mamma figlia 9-12. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-10-23: RIMANDATO: Percorsi femm. Mamma figlia 9-12. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "18:00",
+        "en": "18:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-23",
+      "startTime": "18:00",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": null,
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "archive",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-62284698bd516c0dae28/",
+        "en": "/en/events/auto-proloco-62284698bd516c0dae28/"
+      },
+      "eventStatus": "postponed",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "coomcdb574rj2b9oc5h3gb9kclj3ab9occr32b9o74rjachncdgj8dj46o@google.com",
+        "identity": "coomcdb574rj2b9oc5h3gb9kclj3ab9occr32b9o74rjachncdgj8dj46o@google.com|2026-10-23T16:00:00+00:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-comune-b56592c66f6ef0e54f22",
+      "type": "event",
+      "name": {
+        "it": "Castagnata 2026",
+        "en": "Castagnata 2026"
+      },
+      "title": {
+        "it": "Castagnata 2026 | MTV City",
+        "en": "Castagnata 2026 | MTV City"
+      },
+      "metaDescription": {
+        "it": "Castagnata 2026: appuntamento del 2026-10-24. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Castagnata 2026: event on 2026-10-24. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-10-24: Castagnata 2026. Appuntamento presente nel programma di Comune di Montevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-10-24: Castagnata 2026. An event listed by Comune di Montevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "10:00",
+        "en": "10:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-25",
+      "startTime": "10:00",
+      "organiser": "Comune di Montevecchia",
+      "officialUrl": "https://www.comune.montevecchia.lc.it/Vivere-il-comune/Eventi/Castagnata-2026",
+      "contact": null,
+      "meetingPoint": "Casetta Bis",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-comune"
+      ],
+      "verified": "2026-10-19",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-comune-b56592c66f6ef0e54f22/",
+        "en": "/en/events/auto-comune-b56592c66f6ef0e54f22/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "comune",
+        "uid": "1997",
+        "identity": "1997|1792828800-1792958400",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "trekking-autunno-2026",
+      "type": "event",
+      "name": {
+        "it": "Trekking d’Autunno",
+        "en": "Trekking d’Autunno"
+      },
+      "title": {
+        "it": "Trekking d’Autunno | MTV City",
+        "en": "Trekking d’Autunno | MTV City"
+      },
+      "metaDescription": {
+        "it": "Trekking d’Autunno: appuntamento del 2026-10-25. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Trekking d’Autunno: event on 2026-10-25. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-10-25: Trekking d’Autunno. Appuntamento presente nel programma di Parco di Montevecchia e della Valle del Curone. Prenotazione via email a gev@parcocurone.it. Ritrovo e orario vengono comunicati alla conferma.",
+        "en": "2026-10-25: Trekking d’Autunno. An event listed by Parco di Montevecchia e della Valle del Curone. The event title is shown in its original language. Book by email at gev@parcocurone.it. The meeting point and time are provided on confirmation."
+      },
+      "dayPart": {
+        "it": "Tutta la giornata",
+        "en": "All day"
+      },
+      "registration": {
+        "it": "Prenotazione via email a gev@parcocurone.it. Ritrovo e orario vengono comunicati alla conferma.",
+        "en": "Book by email at gev@parcocurone.it. The meeting point and time are provided on confirmation."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-10-25",
+      "endDate": "2026-10-25",
+      "startTime": null,
+      "organiser": "Parco di Montevecchia e della Valle del Curone",
+      "officialUrl": "https://www.parcocurone.it/files/iniziative/visite%20GEV/Locandina%20visite%20guidate%202026.pdf",
+      "contact": "gev@parcocurone.it",
+      "meetingPoint": null,
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "natura"
+      ],
+      "gallery": [],
+      "visualIcon": "walk",
+      "sources": [
+        "AUTO-parco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/trekking-autunno-2026/",
+        "en": "/en/events/trekking-autunno-2026/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "parco",
+        "uid": "2026-10-25|trekkingdautunno",
+        "identity": "2026-10-25|trekkingdautunno",
+        "publisherOnly": false,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-e7320a218ac61062a17c",
+      "type": "event",
+      "name": {
+        "it": "Trucco make up adolescenti 1",
+        "en": "Trucco make up adolescenti 1"
+      },
+      "title": {
+        "it": "Trucco make up adolescenti 1 | MTV City",
+        "en": "Trucco make up adolescenti 1 | MTV City"
+      },
+      "metaDescription": {
+        "it": "Trucco make up adolescenti 1: appuntamento del 2026-10-30. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Trucco make up adolescenti 1: event on 2026-10-30. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-10-30: Trucco make up adolescenti 1. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-10-30: Trucco make up adolescenti 1. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "21:00",
+        "en": "21:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-30",
+      "startTime": "21:00",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": null,
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "draft",
+      "status": "pending_automation_review",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-e7320a218ac61062a17c/",
+        "en": "/en/events/auto-proloco-e7320a218ac61062a17c/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "64sjad1n6hi30b9hclj62b9k6co3eb9p68s6abb16sojce366thjadj16s@google.com",
+        "identity": "64sjad1n6hi30b9hclj62b9k6co3eb9p68s6abb16sojce366thjadj16s@google.com|2026-10-30T20:00:00+00:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "issue": "Luogo non dichiarato nella fonte",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "bosco-autunnale-2026",
+      "type": "event",
+      "name": {
+        "it": "L'abito autunnale del bosco",
+        "en": "L'abito autunnale del bosco"
+      },
+      "title": {
+        "it": "L'abito autunnale del bosco | MTV City",
+        "en": "L'abito autunnale del bosco | MTV City"
+      },
+      "metaDescription": {
+        "it": "L'abito autunnale del bosco: appuntamento del 2026-11-01. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "L'abito autunnale del bosco: event on 2026-11-01. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-01: L'abito autunnale del bosco. Appuntamento presente nel programma di Parco di Montevecchia e della Valle del Curone. Prenotazione via email a gev@parcocurone.it. Ritrovo e orario vengono comunicati alla conferma.",
+        "en": "2026-11-01: L'abito autunnale del bosco. An event listed by Parco di Montevecchia e della Valle del Curone. The event title is shown in its original language. Book by email at gev@parcocurone.it. The meeting point and time are provided on confirmation."
+      },
+      "dayPart": {
+        "it": "Mattina",
+        "en": "Morning"
+      },
+      "registration": {
+        "it": "Prenotazione via email a gev@parcocurone.it. Ritrovo e orario vengono comunicati alla conferma.",
+        "en": "Book by email at gev@parcocurone.it. The meeting point and time are provided on confirmation."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-01",
+      "startTime": null,
+      "organiser": "Parco di Montevecchia e della Valle del Curone",
+      "officialUrl": "https://www.parcocurone.it/files/iniziative/visite%20GEV/Locandina%20visite%20guidate%202026.pdf",
+      "contact": "gev@parcocurone.it",
+      "meetingPoint": null,
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "natura"
+      ],
+      "gallery": [],
+      "visualIcon": "walk",
+      "sources": [
+        "AUTO-parco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/bosco-autunnale-2026/",
+        "en": "/en/events/bosco-autunnale-2026/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "parco",
+        "uid": "2026-11-01|labitoautunnaledelbosco",
+        "identity": "2026-11-01|labitoautunnaledelbosco",
+        "publisherOnly": false,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-cb84b9711763b048eedc",
+      "type": "event",
+      "name": {
+        "it": "Coro Pop",
+        "en": "Coro Pop"
+      },
+      "title": {
+        "it": "Coro Pop | MTV City",
+        "en": "Coro Pop | MTV City"
+      },
+      "metaDescription": {
+        "it": "Coro Pop: appuntamento del 2026-11-03. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Coro Pop: event on 2026-11-03. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-03: Coro Pop. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-03: Coro Pop. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "20:30",
+        "en": "20:30"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-03",
+      "startTime": "20:30",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": "SALA CIVICA, Via del Fontanile, 6, 23874 Montevecchia LC, Italia",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-cb84b9711763b048eedc/",
+        "en": "/en/events/auto-proloco-cb84b9711763b048eedc/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "5vmn17pik6atshak43kmvstpvl@google.com",
+        "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-11-03T20:30:00+01:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-ab4618c75d5e294cbf66",
+      "type": "event",
+      "name": {
+        "it": "Pomeriggio dei Ragazzi - Giochiamo insieme",
+        "en": "Pomeriggio dei Ragazzi - Giochiamo insieme"
+      },
+      "title": {
+        "it": "Pomeriggio dei Ragazzi - Giochiamo insieme | MTV City",
+        "en": "Pomeriggio dei Ragazzi - Giochiamo insieme | MTV City"
+      },
+      "metaDescription": {
+        "it": "Pomeriggio dei Ragazzi - Giochiamo insieme: appuntamento del 2026-11-04. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Pomeriggio dei Ragazzi - Giochiamo insieme: event on 2026-11-04. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-04: Pomeriggio dei Ragazzi - Giochiamo insieme. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-04: Pomeriggio dei Ragazzi - Giochiamo insieme. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "17:00",
+        "en": "17:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-04",
+      "startTime": "17:00",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": "Associazione Pro Loco ProMontevecchia APS, Via del Fontanile, 8, 23874 Quattro Strade LC, Italia",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-ab4618c75d5e294cbf66/",
+        "en": "/en/events/auto-proloco-ab4618c75d5e294cbf66/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "luv3erc4375enmbp02vnfqfpdp@google.com",
+        "identity": "luv3erc4375enmbp02vnfqfpdp@google.com|2026-11-04T17:00:00+01:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-a2c435e86e1dd12568bc",
+      "type": "event",
+      "name": {
+        "it": "Trucco make up adolescenti 2",
+        "en": "Trucco make up adolescenti 2"
+      },
+      "title": {
+        "it": "Trucco make up adolescenti 2 | MTV City",
+        "en": "Trucco make up adolescenti 2 | MTV City"
+      },
+      "metaDescription": {
+        "it": "Trucco make up adolescenti 2: appuntamento del 2026-11-06. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Trucco make up adolescenti 2: event on 2026-11-06. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-06: Trucco make up adolescenti 2. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-06: Trucco make up adolescenti 2. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "21:00",
+        "en": "21:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "startTime": "21:00",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": null,
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "draft",
+      "status": "pending_automation_review",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-a2c435e86e1dd12568bc/",
+        "en": "/en/events/auto-proloco-a2c435e86e1dd12568bc/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "74s38oj16gs6cb9m6crj6b9kcko3gbb1c9gm4bb268o34d9n6cqm4dj36s@google.com",
+        "identity": "74s38oj16gs6cb9m6crj6b9kcko3gbb1c9gm4bb268o34d9n6cqm4dj36s@google.com|2026-11-06T20:00:00+00:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "issue": "Luogo non dichiarato nella fonte",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-comune-6bae61a0a935d51d79d6",
+      "type": "event",
+      "name": {
+        "it": "Quattro strade centro 2 tavolo",
+        "en": "Quattro strade centro 2 tavolo"
+      },
+      "title": {
+        "it": "Quattro strade centro 2 tavolo | MTV City",
+        "en": "Quattro strade centro 2 tavolo | MTV City"
+      },
+      "metaDescription": {
+        "it": "Quattro strade centro 2 tavolo: appuntamento del 2026-11-07. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Quattro strade centro 2 tavolo: event on 2026-11-07. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-07: Quattro strade centro 2 tavolo. Appuntamento presente nel programma di Comune di Montevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-07: Quattro strade centro 2 tavolo. An event listed by Comune di Montevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "10:00",
+        "en": "10:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "startTime": "10:00",
+      "organiser": "Comune di Montevecchia",
+      "officialUrl": "https://www.comune.montevecchia.lc.it/Vivere-il-comune/Eventi/Quattro-strade-centro-2-tavolo",
+      "contact": null,
+      "meetingPoint": "Sala Civica",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-comune"
+      ],
+      "verified": "2026-10-19",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-comune-6bae61a0a935d51d79d6/",
+        "en": "/en/events/auto-comune-6bae61a0a935d51d79d6/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "comune",
+        "uid": "2025",
+        "identity": "2025|1794042000-1794047400",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-d73b0ed86eb0770966c6",
+      "type": "event",
+      "name": {
+        "it": "ENGLISH BOOK",
+        "en": "ENGLISH BOOK"
+      },
+      "title": {
+        "it": "ENGLISH BOOK | MTV City",
+        "en": "ENGLISH BOOK | MTV City"
+      },
+      "metaDescription": {
+        "it": "ENGLISH BOOK: appuntamento del 2026-11-13. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "ENGLISH BOOK: event on 2026-11-13. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-13: ENGLISH BOOK. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-13: ENGLISH BOOK. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "10:00",
+        "en": "10:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "startTime": "10:00",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": null,
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "draft",
+      "status": "pending_automation_review",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-d73b0ed86eb0770966c6/",
+        "en": "/en/events/auto-proloco-d73b0ed86eb0770966c6/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
+        "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2026-11-13T10:00:00+01:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "issue": "Luogo non dichiarato nella fonte",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "sorgenti-parco-2026",
+      "type": "event",
+      "name": {
+        "it": "Le sorgenti del Parco",
+        "en": "Le sorgenti del Parco"
+      },
+      "title": {
+        "it": "Le sorgenti del Parco | MTV City",
+        "en": "Le sorgenti del Parco | MTV City"
+      },
+      "metaDescription": {
+        "it": "Le sorgenti del Parco: appuntamento del 2026-11-15. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Le sorgenti del Parco: event on 2026-11-15. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-15: Le sorgenti del Parco. Appuntamento presente nel programma di Parco di Montevecchia e della Valle del Curone. Prenotazione via email a gev@parcocurone.it. Ritrovo e orario vengono comunicati alla conferma.",
+        "en": "2026-11-15: Le sorgenti del Parco. An event listed by Parco di Montevecchia e della Valle del Curone. The event title is shown in its original language. Book by email at gev@parcocurone.it. The meeting point and time are provided on confirmation."
+      },
+      "dayPart": {
+        "it": "Tutta la giornata",
+        "en": "All day"
+      },
+      "registration": {
+        "it": "Prenotazione via email a gev@parcocurone.it. Ritrovo e orario vengono comunicati alla conferma.",
+        "en": "Book by email at gev@parcocurone.it. The meeting point and time are provided on confirmation."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-15",
+      "startTime": null,
+      "organiser": "Parco di Montevecchia e della Valle del Curone",
+      "officialUrl": "https://www.parcocurone.it/files/iniziative/visite%20GEV/Locandina%20visite%20guidate%202026.pdf",
+      "contact": "gev@parcocurone.it",
+      "meetingPoint": null,
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "natura"
+      ],
+      "gallery": [],
+      "visualIcon": "walk",
+      "sources": [
+        "AUTO-parco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/sorgenti-parco-2026/",
+        "en": "/en/events/sorgenti-parco-2026/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "parco",
+        "uid": "2026-11-15|lesorgentidelparco",
+        "identity": "2026-11-15|lesorgentidelparco",
+        "publisherOnly": false,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-7d4d3d944e0cd1e4fd37",
+      "type": "event",
+      "name": {
+        "it": "Coro Pop",
+        "en": "Coro Pop"
+      },
+      "title": {
+        "it": "Coro Pop | MTV City",
+        "en": "Coro Pop | MTV City"
+      },
+      "metaDescription": {
+        "it": "Coro Pop: appuntamento del 2026-11-17. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Coro Pop: event on 2026-11-17. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-17: Coro Pop. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-17: Coro Pop. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "20:30",
+        "en": "20:30"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-17",
+      "startTime": "20:30",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": "SALA CIVICA, Via del Fontanile, 6, 23874 Montevecchia LC, Italia",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-7d4d3d944e0cd1e4fd37/",
+        "en": "/en/events/auto-proloco-7d4d3d944e0cd1e4fd37/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "5vmn17pik6atshak43kmvstpvl@google.com",
+        "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-11-17T20:30:00+01:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-comune-ab1effd367e60593c8e5",
+      "type": "event",
+      "name": {
+        "it": "Quattro strade centro 3 tavolo",
+        "en": "Quattro strade centro 3 tavolo"
+      },
+      "title": {
+        "it": "Quattro strade centro 3 tavolo | MTV City",
+        "en": "Quattro strade centro 3 tavolo | MTV City"
+      },
+      "metaDescription": {
+        "it": "Quattro strade centro 3 tavolo: appuntamento del 2026-11-19. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Quattro strade centro 3 tavolo: event on 2026-11-19. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-19: Quattro strade centro 3 tavolo. Appuntamento presente nel programma di Comune di Montevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-19: Quattro strade centro 3 tavolo. An event listed by Comune di Montevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "18:00",
+        "en": "18:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-19",
+      "startTime": "18:00",
+      "organiser": "Comune di Montevecchia",
+      "officialUrl": "https://www.comune.montevecchia.lc.it/Vivere-il-comune/Eventi/Quattro-strade-centro-3-tavolo",
+      "contact": null,
+      "meetingPoint": "Sala Civica",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-comune"
+      ],
+      "verified": "2026-10-19",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-comune-ab1effd367e60593c8e5/",
+        "en": "/en/events/auto-comune-ab1effd367e60593c8e5/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "comune",
+        "uid": "2027",
+        "identity": "2027|1795107600-1795113000",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-d83de8432c5d6f996705",
+      "type": "event",
+      "name": {
+        "it": "Cena sociale ProMontevecchia",
+        "en": "Cena sociale ProMontevecchia"
+      },
+      "title": {
+        "it": "Cena sociale ProMontevecchia | MTV City",
+        "en": "Cena sociale ProMontevecchia | MTV City"
+      },
+      "metaDescription": {
+        "it": "Cena sociale ProMontevecchia: appuntamento del 2026-11-21. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Cena sociale ProMontevecchia: event on 2026-11-21. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-21: Cena sociale ProMontevecchia. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-21: Cena sociale ProMontevecchia. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "19:30",
+        "en": "19:30"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "startTime": "19:30",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": null,
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "draft",
+      "status": "pending_automation_review",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-d83de8432c5d6f996705/",
+        "en": "/en/events/auto-proloco-d83de8432c5d6f996705/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "16i6m31cj4gicb1h5mg76qn6ve@google.com",
+        "identity": "16i6m31cj4gicb1h5mg76qn6ve@google.com|2026-11-21T18:30:00+00:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "issue": "Luogo non dichiarato nella fonte",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-fafc518b70ee4ffb766e",
+      "type": "event",
+      "name": {
+        "it": "Cena Thanksgiving",
+        "en": "Cena Thanksgiving"
+      },
+      "title": {
+        "it": "Cena Thanksgiving | MTV City",
+        "en": "Cena Thanksgiving | MTV City"
+      },
+      "metaDescription": {
+        "it": "Cena Thanksgiving: appuntamento del 2026-11-28. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Cena Thanksgiving: event on 2026-11-28. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-28: Cena Thanksgiving. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-28: Cena Thanksgiving. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "17:00",
+        "en": "17:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-28",
+      "startTime": "17:00",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": "Associazione Pro Loco ProMontevecchia APS, Via del Fontanile, 8, 23874 Quattro Strade LC, Italia",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-fafc518b70ee4ffb766e/",
+        "en": "/en/events/auto-proloco-fafc518b70ee4ffb766e/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "4f424nrjlfos40uo83f59a8eq9@google.com",
+        "identity": "4f424nrjlfos40uo83f59a8eq9@google.com|2026-11-28T16:00:00+00:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-42e6cf7bf73009171c13",
+      "type": "event",
+      "name": {
+        "it": "Coro Pop",
+        "en": "Coro Pop"
+      },
+      "title": {
+        "it": "Coro Pop | MTV City",
+        "en": "Coro Pop | MTV City"
+      },
+      "metaDescription": {
+        "it": "Coro Pop: appuntamento del 2026-12-01. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Coro Pop: event on 2026-12-01. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-12-01: Coro Pop. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-12-01: Coro Pop. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "20:30",
+        "en": "20:30"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
+      "startTime": "20:30",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": "SALA CIVICA, Via del Fontanile, 6, 23874 Montevecchia LC, Italia",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-42e6cf7bf73009171c13/",
+        "en": "/en/events/auto-proloco-42e6cf7bf73009171c13/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "5vmn17pik6atshak43kmvstpvl@google.com",
+        "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-12-01T20:30:00+01:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-a7f6d053d4c1bcfd1e01",
+      "type": "event",
+      "name": {
+        "it": "Pomeriggio dei Ragazzi - Giochiamo insieme",
+        "en": "Pomeriggio dei Ragazzi - Giochiamo insieme"
+      },
+      "title": {
+        "it": "Pomeriggio dei Ragazzi - Giochiamo insieme | MTV City",
+        "en": "Pomeriggio dei Ragazzi - Giochiamo insieme | MTV City"
+      },
+      "metaDescription": {
+        "it": "Pomeriggio dei Ragazzi - Giochiamo insieme: appuntamento del 2026-12-02. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Pomeriggio dei Ragazzi - Giochiamo insieme: event on 2026-12-02. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-12-02: Pomeriggio dei Ragazzi - Giochiamo insieme. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-12-02: Pomeriggio dei Ragazzi - Giochiamo insieme. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "17:00",
+        "en": "17:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-02",
+      "startTime": "17:00",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": "Associazione Pro Loco ProMontevecchia APS, Via del Fontanile, 8, 23874 Quattro Strade LC, Italia",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-a7f6d053d4c1bcfd1e01/",
+        "en": "/en/events/auto-proloco-a7f6d053d4c1bcfd1e01/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "luv3erc4375enmbp02vnfqfpdp@google.com",
+        "identity": "luv3erc4375enmbp02vnfqfpdp@google.com|2026-12-02T17:00:00+01:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-d7abc018c7f23876f708",
+      "type": "event",
+      "name": {
+        "it": "ENGLISH BOOK",
+        "en": "ENGLISH BOOK"
+      },
+      "title": {
+        "it": "ENGLISH BOOK | MTV City",
+        "en": "ENGLISH BOOK | MTV City"
+      },
+      "metaDescription": {
+        "it": "ENGLISH BOOK: appuntamento del 2026-12-11. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "ENGLISH BOOK: event on 2026-12-11. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-12-11: ENGLISH BOOK. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-12-11: ENGLISH BOOK. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "10:00",
+        "en": "10:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
+      "startTime": "10:00",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": null,
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "draft",
+      "status": "pending_automation_review",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-d7abc018c7f23876f708/",
+        "en": "/en/events/auto-proloco-d7abc018c7f23876f708/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
+        "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2026-12-11T10:00:00+01:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "issue": "Luogo non dichiarato nella fonte",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-d7a18c4588a3bf7b0c65",
+      "type": "event",
+      "name": {
+        "it": "Festa di Natale di Montevecchia",
+        "en": "Festa di Natale di Montevecchia"
+      },
+      "title": {
+        "it": "Festa di Natale di Montevecchia | MTV City",
+        "en": "Festa di Natale di Montevecchia | MTV City"
+      },
+      "metaDescription": {
+        "it": "Festa di Natale di Montevecchia: appuntamento del 2026-12-13. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Festa di Natale di Montevecchia: event on 2026-12-13. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-12-13: Festa di Natale di Montevecchia. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-12-13: Festa di Natale di Montevecchia. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "07:00",
+        "en": "07:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-12-13",
+      "endDate": "2026-12-13",
+      "startTime": "07:00",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": null,
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "draft",
+      "status": "pending_automation_review",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-d7a18c4588a3bf7b0c65/",
+        "en": "/en/events/auto-proloco-d7a18c4588a3bf7b0c65/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "13qba563hbf2m0hafgqn9r4bfu@google.com",
+        "identity": "13qba563hbf2m0hafgqn9r4bfu@google.com|2026-12-13T06:00:00+00:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "issue": "Luogo non dichiarato nella fonte",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-8331b2ec4ec7d9a6982b",
+      "type": "event",
+      "name": {
+        "it": "Coro Pop",
+        "en": "Coro Pop"
+      },
+      "title": {
+        "it": "Coro Pop | MTV City",
+        "en": "Coro Pop | MTV City"
+      },
+      "metaDescription": {
+        "it": "Coro Pop: appuntamento del 2026-12-15. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Coro Pop: event on 2026-12-15. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-12-15: Coro Pop. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-12-15: Coro Pop. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "20:30",
+        "en": "20:30"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-12-15",
+      "endDate": "2026-12-15",
+      "startTime": "20:30",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": "SALA CIVICA, Via del Fontanile, 6, 23874 Montevecchia LC, Italia",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-8331b2ec4ec7d9a6982b/",
+        "en": "/en/events/auto-proloco-8331b2ec4ec7d9a6982b/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "5vmn17pik6atshak43kmvstpvl@google.com",
+        "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-12-15T20:30:00+01:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-9042c20c70e856a927db",
+      "type": "event",
+      "name": {
+        "it": "ENGLISH BOOK",
+        "en": "ENGLISH BOOK"
+      },
+      "title": {
+        "it": "ENGLISH BOOK | MTV City",
+        "en": "ENGLISH BOOK | MTV City"
+      },
+      "metaDescription": {
+        "it": "ENGLISH BOOK: appuntamento del 2027-01-08. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "ENGLISH BOOK: event on 2027-01-08. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2027-01-08: ENGLISH BOOK. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2027-01-08: ENGLISH BOOK. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "10:00",
+        "en": "10:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2027-01-08",
+      "endDate": "2027-01-08",
+      "startTime": "10:00",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": null,
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "draft",
+      "status": "pending_automation_review",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-9042c20c70e856a927db/",
+        "en": "/en/events/auto-proloco-9042c20c70e856a927db/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
+        "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2027-01-08T10:00:00+01:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "issue": "Luogo non dichiarato nella fonte",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-comune-d57bfb03165eb7e2c703",
+      "type": "event",
+      "name": {
+        "it": "Quattro strade centro 4 tavolo",
+        "en": "Quattro strade centro 4 tavolo"
+      },
+      "title": {
+        "it": "Quattro strade centro 4 tavolo | MTV City",
+        "en": "Quattro strade centro 4 tavolo | MTV City"
+      },
+      "metaDescription": {
+        "it": "Quattro strade centro 4 tavolo: appuntamento del 2027-01-15. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Quattro strade centro 4 tavolo: event on 2027-01-15. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2027-01-15: Quattro strade centro 4 tavolo. Appuntamento presente nel programma di Comune di Montevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2027-01-15: Quattro strade centro 4 tavolo. An event listed by Comune di Montevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "18:00",
+        "en": "18:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2027-01-15",
+      "endDate": "2027-01-15",
+      "startTime": "18:00",
+      "organiser": "Comune di Montevecchia",
+      "officialUrl": "https://www.comune.montevecchia.lc.it/Vivere-il-comune/Eventi/Quattro-strade-centro-4-tavolo",
+      "contact": null,
+      "meetingPoint": "Sala Civica",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-comune"
+      ],
+      "verified": "2026-10-19",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-comune-d57bfb03165eb7e2c703/",
+        "en": "/en/events/auto-comune-d57bfb03165eb7e2c703/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "comune",
+        "uid": "2028",
+        "identity": "2028|1800032400-1800037800",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-b4b4fd0ec57db1117894",
+      "type": "event",
+      "name": {
+        "it": "ENGLISH BOOK",
+        "en": "ENGLISH BOOK"
+      },
+      "title": {
+        "it": "ENGLISH BOOK | MTV City",
+        "en": "ENGLISH BOOK | MTV City"
+      },
+      "metaDescription": {
+        "it": "ENGLISH BOOK: appuntamento del 2027-02-12. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "ENGLISH BOOK: event on 2027-02-12. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2027-02-12: ENGLISH BOOK. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2027-02-12: ENGLISH BOOK. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "10:00",
+        "en": "10:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "startTime": "10:00",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": null,
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "draft",
+      "status": "pending_automation_review",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-b4b4fd0ec57db1117894/",
+        "en": "/en/events/auto-proloco-b4b4fd0ec57db1117894/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
+        "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2027-02-12T10:00:00+01:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "issue": "Luogo non dichiarato nella fonte",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-45cc51b709e4dc380b8b",
+      "type": "event",
+      "name": {
+        "it": "ENGLISH BOOK",
+        "en": "ENGLISH BOOK"
+      },
+      "title": {
+        "it": "ENGLISH BOOK | MTV City",
+        "en": "ENGLISH BOOK | MTV City"
+      },
+      "metaDescription": {
+        "it": "ENGLISH BOOK: appuntamento del 2027-03-12. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "ENGLISH BOOK: event on 2027-03-12. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2027-03-12: ENGLISH BOOK. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2027-03-12: ENGLISH BOOK. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "10:00",
+        "en": "10:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "startTime": "10:00",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": null,
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "draft",
+      "status": "pending_automation_review",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-45cc51b709e4dc380b8b/",
+        "en": "/en/events/auto-proloco-45cc51b709e4dc380b8b/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
+        "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2027-03-12T10:00:00+01:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "issue": "Luogo non dichiarato nella fonte",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-6a9a2b34506288f99eb8",
+      "type": "event",
+      "name": {
+        "it": "Valcurone in musica 2ª Edizione: Black Vibes: Neo-Soul & R&B con i Nukinda",
+        "en": "Valcurone in musica 2ª Edizione: Black Vibes: Neo-Soul & R&B con i Nukinda"
+      },
+      "title": {
+        "it": "Valcurone in musica 2ª Edizione: Black Vibes: Neo-Soul & R&B con i Nukinda | MTV City",
+        "en": "Valcurone in musica 2ª Edizione: Black Vibes: Neo-Soul & R&B con i Nukinda | MTV City"
+      },
+      "metaDescription": {
+        "it": "Valcurone in musica 2ª Edizione: Black Vibes: Neo-Soul & R&B con i Nukinda: appuntamento del 2027-03-20. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Valcurone in musica 2ª Edizione: Black Vibes: Neo-Soul & R&B con i Nukinda: event on 2027-03-20. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2027-03-20: Valcurone in musica 2ª Edizione: Black Vibes: Neo-Soul & R&B con i Nukinda. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2027-03-20: Valcurone in musica 2ª Edizione: Black Vibes: Neo-Soul & R&B con i Nukinda. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "20:45",
+        "en": "20:45"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2027-03-20",
+      "endDate": "2027-03-20",
+      "startTime": "20:45",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": null,
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "draft",
+      "status": "pending_automation_review",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-6a9a2b34506288f99eb8/",
+        "en": "/en/events/auto-proloco-6a9a2b34506288f99eb8/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "6spjceb1c4p6ab9i69gmcb9k70rj2b9p60s68b9gccs32opj6ksj0or26k@google.com",
+        "identity": "6spjceb1c4p6ab9i69gmcb9k70rj2b9p60s68b9gccs32opj6ksj0or26k@google.com|2027-03-20T19:45:00+00:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "issue": "Luogo non dichiarato nella fonte",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-27bce9a606b70742945b",
+      "type": "event",
+      "name": {
+        "it": "ENGLISH BOOK",
+        "en": "ENGLISH BOOK"
+      },
+      "title": {
+        "it": "ENGLISH BOOK | MTV City",
+        "en": "ENGLISH BOOK | MTV City"
+      },
+      "metaDescription": {
+        "it": "ENGLISH BOOK: appuntamento del 2027-04-09. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "ENGLISH BOOK: event on 2027-04-09. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2027-04-09: ENGLISH BOOK. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2027-04-09: ENGLISH BOOK. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "10:00",
+        "en": "10:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2027-04-09",
+      "endDate": "2027-04-09",
+      "startTime": "10:00",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": null,
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "draft",
+      "status": "pending_automation_review",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-27bce9a606b70742945b/",
+        "en": "/en/events/auto-proloco-27bce9a606b70742945b/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
+        "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2027-04-09T10:00:00+02:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "issue": "Luogo non dichiarato nella fonte",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    },
+    {
+      "id": "auto-proloco-ccfd2ccc224758b62011",
+      "type": "event",
+      "name": {
+        "it": "Valcurone in musica 2ª Edizione: Music on the Road",
+        "en": "Valcurone in musica 2ª Edizione: Music on the Road"
+      },
+      "title": {
+        "it": "Valcurone in musica 2ª Edizione: Music on the Road | MTV City",
+        "en": "Valcurone in musica 2ª Edizione: Music on the Road | MTV City"
+      },
+      "metaDescription": {
+        "it": "Valcurone in musica 2ª Edizione: Music on the Road: appuntamento del 2027-04-10. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Valcurone in musica 2ª Edizione: Music on the Road: event on 2027-04-10. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2027-04-10: Valcurone in musica 2ª Edizione: Music on the Road. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2027-04-10: Valcurone in musica 2ª Edizione: Music on the Road. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "20:45",
+        "en": "20:45"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2027-04-10",
+      "endDate": "2027-04-10",
+      "startTime": "20:45",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": null,
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-10-19",
+      "publication": "draft",
+      "status": "pending_automation_review",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-ccfd2ccc224758b62011/",
+        "en": "/en/events/auto-proloco-ccfd2ccc224758b62011/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "6pijiopo6com4b9k6cp3ib9k68sj2b9p6go30bb5cor3apj2cks6ae366s@google.com",
+        "identity": "6pijiopo6com4b9k6cp3ib9k68sj2b9p6go30bb5cor3apj2cks6ae366s@google.com|2027-04-10T18:45:00+00:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-10-19",
+        "issue": "Luogo non dichiarato nella fonte",
+        "lastSeenAt": "2026-10-19T17:51:23+02:00"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "AUTO-proloco",
+      "owner": "ProMontevecchia",
+      "title": "Calendario ufficiale: ProMontevecchia",
+      "url": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "checked": "2026-10-19",
+      "note": "Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata."
+    },
+    {
+      "id": "AUTO-parco",
+      "owner": "Parco di Montevecchia e della Valle del Curone",
+      "title": "Calendario ufficiale: Parco di Montevecchia e della Valle del Curone",
+      "url": "https://www.parcocurone.it/iniziative/visitegev.php",
+      "checked": "2026-10-19",
+      "note": "Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata."
+    },
+    {
+      "id": "AUTO-comune",
+      "owner": "Comune di Montevecchia",
+      "title": "Calendario ufficiale: Comune di Montevecchia",
+      "url": "https://www.comune.montevecchia.lc.it/Vivere-il-comune/Eventi",
+      "checked": "2026-10-19",
+      "note": "Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata."
+    }
+  ],
+  "sourceChecks": [
+    {
+      "id": "proloco",
+      "owner": "ProMontevecchia",
+      "checkedAt": "2026-10-19T17:51:23+02:00",
+      "ok": true,
+      "issues": [
+        "Trucco make up adolescenti 2: Luogo non dichiarato nella fonte",
+        "Festa di Natale di Montevecchia: Luogo non dichiarato nella fonte",
+        "Valcurone in musica 2ª Edizione: Music on the Road: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
+        "Cena sociale ProMontevecchia: Luogo non dichiarato nella fonte",
+        "Valcurone in musica 2ª Edizione: Black Vibes: Neo-Soul & R&B con i Nukinda: Luogo non dichiarato nella fonte",
+        "Trucco make up adolescenti 1: Luogo non dichiarato nella fonte"
+      ],
+      "sha256": "6cda44ec09dd0ccbe88f2c9cce8f6bfcf4ad8f3a1d0962bd7f04529bc8ba7187",
+      "eventCount": 26
+    },
+    {
+      "id": "parco",
+      "owner": "Parco di Montevecchia e della Valle del Curone",
+      "checkedAt": "2026-10-19T17:51:23+02:00",
+      "ok": true,
+      "issues": [],
+      "sha256": "a8ff3595d06e938f8a531b65b90f11151db665537f111963bc2ce11c132b1a15",
+      "documentSha256": "4d831adbf075af3b59cc45820780a2f959e8af3d07d5df878bbac0af09eb309e",
+      "eventCount": 3
+    },
+    {
+      "id": "comune",
+      "owner": "Comune di Montevecchia",
+      "checkedAt": "2026-10-19T17:51:23+02:00",
+      "ok": true,
+      "issues": [],
+      "sha256": "97612fcd34bf2db4f74be7d2d05e2b7dc5f405bcb8b80cea71a0c5e58fb81b26",
+      "eventCount": 9
+    }
+  ],
+  "maxStaleHours": 72
+}

@@ -1,0 +1,48 @@
+{
+  "checkedAt": "2026-10-19T17:51:23+02:00",
+  "sources": [
+    {
+      "id": "proloco",
+      "owner": "ProMontevecchia",
+      "checkedAt": "2026-10-19T17:51:23+02:00",
+      "ok": true,
+      "issues": [
+        "Trucco make up adolescenti 2: Luogo non dichiarato nella fonte",
+        "Festa di Natale di Montevecchia: Luogo non dichiarato nella fonte",
+        "Valcurone in musica 2ª Edizione: Music on the Road: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
+        "ENGLISH BOOK: Luogo non dichiarato nella fonte",
+        "Cena sociale ProMontevecchia: Luogo non dichiarato nella fonte",
+        "Valcurone in musica 2ª Edizione: Black Vibes: Neo-Soul & R&B con i Nukinda: Luogo non dichiarato nella fonte",
+        "Trucco make up adolescenti 1: Luogo non dichiarato nella fonte"
+      ],
+      "sha256": "6cda44ec09dd0ccbe88f2c9cce8f6bfcf4ad8f3a1d0962bd7f04529bc8ba7187",
+      "eventCount": 26
+    },
+    {
+      "id": "parco",
+      "owner": "Parco di Montevecchia e della Valle del Curone",
+      "checkedAt": "2026-10-19T17:51:23+02:00",
+      "ok": true,
+      "issues": [],
+      "sha256": "a8ff3595d06e938f8a531b65b90f11151db665537f111963bc2ce11c132b1a15",
+      "documentSha256": "4d831adbf075af3b59cc45820780a2f959e8af3d07d5df878bbac0af09eb309e",
+      "eventCount": 3
+    },
+    {
+      "id": "comune",
+      "owner": "Comune di Montevecchia",
+      "checkedAt": "2026-10-19T17:51:23+02:00",
+      "ok": true,
+      "issues": [],
+      "sha256": "97612fcd34bf2db4f74be7d2d05e2b7dc5f405bcb8b80cea71a0c5e58fb81b26",
+      "eventCount": 9
+    }
+  ],
+  "lastPublishedFingerprint": "b98a61013e6e610c780b7583dd1ea42a4b8350c0bb409e978bbbecd2939a2da1",
+  "alertFingerprint": "cf7ff1e7dd913716a2f3725df2534e19cc5b41fa25c22e6707d9af1cde5b5062"
+}

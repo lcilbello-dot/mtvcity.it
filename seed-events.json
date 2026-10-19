@@ -1,0 +1,82 @@
+{
+  "events": [
+    {
+      "id": "trekking-autunno-2026",
+      "name": {
+        "it": "Trekking d’Autunno",
+        "en": "Autumn trek"
+      },
+      "startDate": "2026-10-25",
+      "status": "announced_primary",
+      "routes": {
+        "it": "/it/eventi/trekking-autunno-2026/",
+        "en": "/en/events/trekking-autunno-2026/"
+      }
+    },
+    {
+      "id": "bosco-autunnale-2026",
+      "name": {
+        "it": "L’abito autunnale del bosco",
+        "en": "The woodland’s autumn colours"
+      },
+      "startDate": "2026-11-01",
+      "status": "announced_primary",
+      "routes": {
+        "it": "/it/eventi/bosco-autunnale-2026/",
+        "en": "/en/events/bosco-autunnale-2026/"
+      }
+    },
+    {
+      "id": "sorgenti-parco-2026",
+      "name": {
+        "it": "Le sorgenti del Parco",
+        "en": "The park’s springs"
+      },
+      "startDate": "2026-11-15",
+      "status": "announced_primary",
+      "routes": {
+        "it": "/it/eventi/sorgenti-parco-2026/",
+        "en": "/en/events/sorgenti-parco-2026/"
+      }
+    },
+    {
+      "id": "castagnata-2026",
+      "name": {
+        "it": "La Castagnata",
+        "en": "Chestnut festival"
+      },
+      "startDate": "2026-10-24",
+      "status": "announced_tourism_pending_primary",
+      "routes": {
+        "it": "/it/eventi/castagnata-2026/",
+        "en": "/en/events/castagnata-2026/"
+      }
+    },
+    {
+      "id": "festa-autunno-2026",
+      "name": {
+        "it": "Festa d’Autunno · 5ª edizione",
+        "en": "Autumn festival · 5th edition"
+      },
+      "startDate": "2026-10-10",
+      "status": "past",
+      "routes": {
+        "it": "/it/eventi/festa-autunno-2026/",
+        "en": "/en/events/festa-autunno-2026/"
+      }
+    },
+    {
+      "id": "paesaggi-orizzonti-conflitto",
+      "name": {
+        "it": "Montevecchia, paesaggi e orizzonti",
+        "en": "Montevecchia, landscapes and horizons"
+      },
+      "startDate": null,
+      "status": "blocked_conflict",
+      "routes": {
+        "it": "/it/eventi/paesaggi-orizzonti-conflitto/",
+        "en": "/en/events/paesaggi-orizzonti-conflitto/"
+      }
+    }
+  ]
+}
