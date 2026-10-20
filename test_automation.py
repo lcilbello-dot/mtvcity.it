@@ -84,6 +84,20 @@ class Calendars(unittest.TestCase):
         doc={'searchHits':[{'metadata':{'id':42,'published':'2026-01-01'},'extradata':{'ita-IT':{'urlAlias':'/Vivere-il-comune/Eventi/Festa'}},'data':{'ita-IT':{'event_title':'Festa','time_interval':{'recurrences':[{'id':'a','start':'2026-10-25T14:00:00+01:00','end':'2026-10-25T18:00:00+01:00'}]},'takes_place_in':[{'name':{'ita-IT':'Piazza'}}]}}}]}
         rows,issues=opencity_events(doc,source,TODAY)
         self.assertEqual(issues,[]);self.assertEqual(rows[0]['startDate'],'2026-10-25');self.assertEqual(rows[0]['startTime'],'14:00')
+    def municipal_range(self,start,end):
+        source={**SOURCE,'id':'comune','page':'https://www.comune.montevecchia.lc.it/Vivere-il-comune/Eventi','hosts':['www.comune.montevecchia.lc.it']}
+        doc={'searchHits':[{'metadata':{'id':42},'extradata':{'ita-IT':{'urlAlias':'/Vivere-il-comune/Eventi/Raccolta'}},'data':{'ita-IT':{'event_title':'Raccolta','time_interval':{'recurrences':[{'id':'period','start':start,'end':end}]},'takes_place_in':[{'name':{'ita-IT':'Municipio'}}]}}}]}
+        rows,issues=opencity_events(doc,source,TODAY)
+        self.assertEqual(issues,[])
+        return rows[0],source
+    def test_municipal_period_includes_last_date_across_dst(self):
+        row,source=self.municipal_range('2026-10-05T00:00:00+02:00','2026-10-31T00:00:00+01:00')
+        self.assertEqual(row['startDate'],'2026-10-05');self.assertEqual(row['endDate'],'2026-10-31')
+        self.assertIsNone(row['startTime'])
+        self.assertEqual(entity(row,source,TODAY)['dayPart']['en'],'Times on the official programme')
+    def test_municipal_single_day_preserves_declared_midnight(self):
+        row,_=self.municipal_range('2026-10-25T00:00:00+02:00','2026-10-25T01:00:00+02:00')
+        self.assertEqual(row['endDate'],'2026-10-25');self.assertEqual(row['startTime'],'00:00')
     def test_cancelled_master_without_date_is_tombstone(self):
         rows,issues=self.read('UID:a\nSTATUS:CANCELLED')
         self.assertEqual(rows,[]);self.assertEqual(issues,[])
