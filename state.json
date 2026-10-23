@@ -1,10 +1,10 @@
 {
-  "checkedAt": "2026-10-22T06:42:12+02:00",
+  "checkedAt": "2026-10-23T06:42:07+02:00",
   "sources": [
     {
       "id": "proloco",
       "owner": "ProMontevecchia",
-      "checkedAt": "2026-10-22T06:42:12+02:00",
+      "checkedAt": "2026-10-23T06:42:07+02:00",
       "ok": true,
       "issues": [
         "Cena sociale ProMontevecchia: Luogo non dichiarato nella fonte",
@@ -20,13 +20,13 @@
         "Valcurone in musica 2ª Edizione: Black Vibes: Neo-Soul & R&B con i Nukinda: Luogo non dichiarato nella fonte",
         "Valcurone in musica 2ª Edizione: Music on the Road: Luogo non dichiarato nella fonte"
       ],
-      "sha256": "1d42cd745dbe10ed320b38b6a18f713a63a14101335c5cca36d8300276fafd4b",
+      "sha256": "8bd1bdea45d97e437b1f0d3ab7994fc11dc76dbb660e1c30c45d8e94c90b7cd4",
       "eventCount": 25
     },
     {
       "id": "parco",
       "owner": "Parco di Montevecchia e della Valle del Curone",
-      "checkedAt": "2026-10-22T06:42:12+02:00",
+      "checkedAt": "2026-10-23T06:42:07+02:00",
       "ok": true,
       "issues": [],
       "sha256": "a8ff3595d06e938f8a531b65b90f11151db665537f111963bc2ce11c132b1a15",
@@ -36,11 +36,11 @@
     {
       "id": "comune",
       "owner": "Comune di Montevecchia",
-      "checkedAt": "2026-10-22T06:42:12+02:00",
+      "checkedAt": "2026-10-23T06:42:07+02:00",
       "ok": true,
       "issues": [],
       "sha256": "97612fcd34bf2db4f74be7d2d05e2b7dc5f405bcb8b80cea71a0c5e58fb81b26",
-      "eventCount": 9
+      "eventCount": 8
     }
   ],
   "lastPublishedFingerprint": "788154a2df7258bfbeb5c3aee939fdd8138559d47dbff36feb743b364ea75687",
