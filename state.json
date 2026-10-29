@@ -1,13 +1,12 @@
 {
-  "checkedAt": "2026-10-28T06:51:43+01:00",
+  "checkedAt": "2026-10-29T06:53:16+01:00",
   "sources": [
     {
       "id": "proloco",
       "owner": "ProMontevecchia",
-      "checkedAt": "2026-10-28T06:51:43+01:00",
+      "checkedAt": "2026-10-29T06:53:16+01:00",
       "ok": true,
       "issues": [
-        "Cena sociale ProMontevecchia: Luogo non dichiarato nella fonte",
         "ENGLISH BOOK: Luogo non dichiarato nella fonte",
         "ENGLISH BOOK: Luogo non dichiarato nella fonte",
         "ENGLISH BOOK: Luogo non dichiarato nella fonte",
@@ -15,18 +14,20 @@
         "ENGLISH BOOK: Luogo non dichiarato nella fonte",
         "ENGLISH BOOK: Luogo non dichiarato nella fonte",
         "Festa di Natale di Montevecchia: Luogo non dichiarato nella fonte",
+        "Pranzo sociale di Natale ProMontevecchia: Luogo non dichiarato nella fonte",
+        "Presentazione Libro Gianni Vecchi: Luogo non dichiarato nella fonte",
         "Trucco make up adolescenti 1: Luogo non dichiarato nella fonte",
         "Trucco make up adolescenti 2: Luogo non dichiarato nella fonte",
         "Valcurone in musica 2ª Edizione: Black Vibes: Neo-Soul & R&B con i Nukinda: Luogo non dichiarato nella fonte",
         "Valcurone in musica 2ª Edizione: Music on the Road: Luogo non dichiarato nella fonte"
       ],
-      "sha256": "c919d2f7be9c70bf7ca9670201b0a9a3769a52bb83311ed5e3a778e89a49b656",
-      "eventCount": 22
+      "sha256": "2fbc8dcab4fcf5ac28e01ec9f950df300779cc2f16715d122e35ebfefb8cfaf4",
+      "eventCount": 23
     },
     {
       "id": "parco",
       "owner": "Parco di Montevecchia e della Valle del Curone",
-      "checkedAt": "2026-10-28T06:51:43+01:00",
+      "checkedAt": "2026-10-29T06:53:16+01:00",
       "ok": true,
       "issues": [],
       "sha256": "a8ff3595d06e938f8a531b65b90f11151db665537f111963bc2ce11c132b1a15",
@@ -36,13 +37,13 @@
     {
       "id": "comune",
       "owner": "Comune di Montevecchia",
-      "checkedAt": "2026-10-28T06:51:43+01:00",
+      "checkedAt": "2026-10-29T06:53:16+01:00",
       "ok": true,
       "issues": [],
       "sha256": "97612fcd34bf2db4f74be7d2d05e2b7dc5f405bcb8b80cea71a0c5e58fb81b26",
-      "eventCount": 8
+      "eventCount": 6
     }
   ],
-  "lastPublishedFingerprint": "1abbbe48f280ba9628af5fab65b6142d66e59707d2d7c7e506e83f00aa2d9f7f",
-  "alertFingerprint": "9b2752cba35d7291fc64cb1b819a8cadf236f2d795936df0998e62e31a4b4b17"
+  "lastPublishedFingerprint": "8b5468934396085b448f9eb907c06085819a5ad3d894f2582facf1d31949507a",
+  "alertFingerprint": "3016a36ebfc35e4e8c762fb9e511e1543104cbfe8f3356f0494232eb26184a49"
 }
