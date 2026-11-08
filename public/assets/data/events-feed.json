@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T06:54:41+01:00",
+  "generatedAt": "2026-11-08T06:55:57+01:00",
   "events": [
     {
       "id": "auto-comune-a8388be5610e3c49ca53",
@@ -253,7 +253,7 @@
       "sources": [
         "AUTO-comune"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "archive",
       "status": "reviewed",
       "routes": {
@@ -266,8 +266,8 @@
         "uid": "2005",
         "identity": "2005|1791151200-1793401200",
         "publisherOnly": true,
-        "lastSeen": "2026-11-07",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeen": "2026-11-08",
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -858,7 +858,7 @@
       "sources": [
         "AUTO-comune"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "archive",
       "status": "reviewed",
       "routes": {
@@ -871,8 +871,8 @@
         "uid": "1997",
         "identity": "1997|1792828800-1792958400",
         "publisherOnly": true,
-        "lastSeen": "2026-11-07",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeen": "2026-11-08",
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -925,7 +925,7 @@
       "sources": [
         "AUTO-parco"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "archive",
       "status": "reviewed",
       "routes": {
@@ -938,8 +938,8 @@
         "uid": "2026-10-25|trekkingdautunno",
         "identity": "2026-10-25|trekkingdautunno",
         "publisherOnly": false,
-        "lastSeen": "2026-11-07",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeen": "2026-11-08",
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -992,7 +992,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -1005,9 +1005,9 @@
         "uid": "64sjad1n6hi30b9hclj62b9k6co3eb9p68s6abb16sojce366thjadj16s@google.com",
         "identity": "64sjad1n6hi30b9hclj62b9k6co3eb9p68s6abb16sojce366thjadj16s@google.com|2026-10-30T20:00:00+00:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-07",
+        "lastSeen": "2026-11-08",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -1060,7 +1060,7 @@
       "sources": [
         "AUTO-parco"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "archive",
       "status": "reviewed",
       "routes": {
@@ -1073,8 +1073,8 @@
         "uid": "2026-11-01|labitoautunnaledelbosco",
         "identity": "2026-11-01|labitoautunnaledelbosco",
         "publisherOnly": false,
-        "lastSeen": "2026-11-07",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeen": "2026-11-08",
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -1127,7 +1127,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "archive",
       "status": "reviewed",
       "routes": {
@@ -1140,8 +1140,8 @@
         "uid": "5vmn17pik6atshak43kmvstpvl@google.com",
         "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-11-03T20:30:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-07",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeen": "2026-11-08",
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -1261,7 +1261,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -1274,9 +1274,9 @@
         "uid": "74s38oj16gs6cb9m6crj6b9kcko3gbb1c9gm4bb268o34d9n6cqm4dj36s@google.com",
         "identity": "74s38oj16gs6cb9m6crj6b9kcko3gbb1c9gm4bb268o34d9n6cqm4dj36s@google.com|2026-11-06T20:00:00+00:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-07",
+        "lastSeen": "2026-11-08",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -1396,8 +1396,8 @@
       "sources": [
         "AUTO-comune"
       ],
-      "verified": "2026-11-07",
-      "publication": "published",
+      "verified": "2026-11-08",
+      "publication": "archive",
       "status": "reviewed",
       "routes": {
         "it": "/it/eventi/auto-comune-7c8b57c39a778c07d12f/",
@@ -1409,8 +1409,8 @@
         "uid": "2025",
         "identity": "2025|1794042000-1794048300",
         "publisherOnly": true,
-        "lastSeen": "2026-11-07",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeen": "2026-11-08",
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -1463,7 +1463,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -1476,9 +1476,9 @@
         "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
         "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2026-11-13T10:00:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-07",
+        "lastSeen": "2026-11-08",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -1531,7 +1531,7 @@
       "sources": [
         "AUTO-parco"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -1544,8 +1544,8 @@
         "uid": "2026-11-15|lesorgentidelparco",
         "identity": "2026-11-15|lesorgentidelparco",
         "publisherOnly": false,
-        "lastSeen": "2026-11-07",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeen": "2026-11-08",
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -1598,7 +1598,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -1611,8 +1611,8 @@
         "uid": "5vmn17pik6atshak43kmvstpvl@google.com",
         "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-11-17T20:30:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-07",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeen": "2026-11-08",
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -1665,7 +1665,7 @@
       "sources": [
         "AUTO-comune"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -1678,8 +1678,8 @@
         "uid": "2027",
         "identity": "2027|1795107600-1795113000",
         "publisherOnly": true,
-        "lastSeen": "2026-11-07",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeen": "2026-11-08",
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -1800,7 +1800,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -1813,9 +1813,9 @@
         "uid": "5ub29r1hif67vvbjgdamlhho9g@google.com",
         "identity": "5ub29r1hif67vvbjgdamlhho9g@google.com|2026-11-25T20:00:00+00:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-07",
+        "lastSeen": "2026-11-08",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -1935,7 +1935,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -1948,8 +1948,8 @@
         "uid": "5vmn17pik6atshak43kmvstpvl@google.com",
         "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-12-01T20:30:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-07",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeen": "2026-11-08",
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -2069,7 +2069,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -2082,9 +2082,9 @@
         "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
         "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2026-12-11T10:00:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-07",
+        "lastSeen": "2026-11-08",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -2137,7 +2137,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -2150,9 +2150,9 @@
         "uid": "16i6m31cj4gicb1h5mg76qn6ve@google.com",
         "identity": "16i6m31cj4gicb1h5mg76qn6ve@google.com|2026-12-13T11:30:00+00:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-07",
+        "lastSeen": "2026-11-08",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -2205,7 +2205,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -2218,9 +2218,9 @@
         "uid": "13qba563hbf2m0hafgqn9r4bfu@google.com",
         "identity": "13qba563hbf2m0hafgqn9r4bfu@google.com|2026-12-13T06:00:00+00:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-07",
+        "lastSeen": "2026-11-08",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -2273,7 +2273,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -2286,8 +2286,8 @@
         "uid": "5vmn17pik6atshak43kmvstpvl@google.com",
         "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-12-15T20:30:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-07",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeen": "2026-11-08",
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -2340,7 +2340,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -2353,9 +2353,9 @@
         "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
         "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2027-01-08T10:00:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-07",
+        "lastSeen": "2026-11-08",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -2408,7 +2408,7 @@
       "sources": [
         "AUTO-comune"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -2421,8 +2421,8 @@
         "uid": "2028",
         "identity": "2028|1800032400-1800037800",
         "publisherOnly": true,
-        "lastSeen": "2026-11-07",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeen": "2026-11-08",
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -2475,7 +2475,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -2488,9 +2488,9 @@
         "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
         "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2027-02-12T10:00:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-07",
+        "lastSeen": "2026-11-08",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -2543,7 +2543,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -2556,9 +2556,9 @@
         "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
         "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2027-03-12T10:00:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-07",
+        "lastSeen": "2026-11-08",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -2611,7 +2611,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -2624,9 +2624,9 @@
         "uid": "6spjceb1c4p6ab9i69gmcb9k70rj2b9p60s68b9gccs32opj6ksj0or26k@google.com",
         "identity": "6spjceb1c4p6ab9i69gmcb9k70rj2b9p60s68b9gccs32opj6ksj0or26k@google.com|2027-03-20T19:45:00+00:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-07",
+        "lastSeen": "2026-11-08",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -2679,7 +2679,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -2692,9 +2692,9 @@
         "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
         "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2027-04-09T10:00:00+02:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-07",
+        "lastSeen": "2026-11-08",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     },
     {
@@ -2747,7 +2747,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-07",
+      "verified": "2026-11-08",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -2760,9 +2760,9 @@
         "uid": "6pijiopo6com4b9k6cp3ib9k68sj2b9p6go30bb5cor3apj2cks6ae366s@google.com",
         "identity": "6pijiopo6com4b9k6cp3ib9k68sj2b9p6go30bb5cor3apj2cks6ae366s@google.com|2027-04-10T18:45:00+00:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-07",
+        "lastSeen": "2026-11-08",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-07T06:54:41+01:00"
+        "lastSeenAt": "2026-11-08T06:55:57+01:00"
       }
     }
   ],
@@ -2772,7 +2772,7 @@
       "owner": "ProMontevecchia",
       "title": "Calendario ufficiale: ProMontevecchia",
       "url": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "note": "Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata."
     },
     {
@@ -2780,7 +2780,7 @@
       "owner": "Parco di Montevecchia e della Valle del Curone",
       "title": "Calendario ufficiale: Parco di Montevecchia e della Valle del Curone",
       "url": "https://www.parcocurone.it/iniziative/visitegev.php",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "note": "Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata."
     },
     {
@@ -2788,7 +2788,7 @@
       "owner": "Comune di Montevecchia",
       "title": "Calendario ufficiale: Comune di Montevecchia",
       "url": "https://www.comune.montevecchia.lc.it/Vivere-il-comune/Eventi",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "note": "Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata."
     }
   ],
@@ -2796,7 +2796,7 @@
     {
       "id": "proloco",
       "owner": "ProMontevecchia",
-      "checkedAt": "2026-11-07T06:54:41+01:00",
+      "checkedAt": "2026-11-08T06:55:57+01:00",
       "ok": true,
       "issues": [
         "ENGLISH BOOK: Luogo non dichiarato nella fonte",
@@ -2811,13 +2811,13 @@
         "Valcurone in musica 2ª Edizione: Black Vibes: Neo-Soul & R&B con i Nukinda: Luogo non dichiarato nella fonte",
         "Valcurone in musica 2ª Edizione: Music on the Road: Luogo non dichiarato nella fonte"
       ],
-      "sha256": "4fd75b261f96209267a95ccf0d82a886aa2bd548750877e4e2ab1fdd0c435f62",
+      "sha256": "e11dc96d244c761fddf6b6c5245cc96bc2943f4d6c5912ea9d296ea54857ff64",
       "eventCount": 17
     },
     {
       "id": "parco",
       "owner": "Parco di Montevecchia e della Valle del Curone",
-      "checkedAt": "2026-11-07T06:54:41+01:00",
+      "checkedAt": "2026-11-08T06:55:57+01:00",
       "ok": true,
       "issues": [],
       "sha256": "a8ff3595d06e938f8a531b65b90f11151db665537f111963bc2ce11c132b1a15",
@@ -2827,7 +2827,7 @@
     {
       "id": "comune",
       "owner": "Comune di Montevecchia",
-      "checkedAt": "2026-11-07T06:54:41+01:00",
+      "checkedAt": "2026-11-08T06:55:57+01:00",
       "ok": true,
       "issues": [],
       "sha256": "97612fcd34bf2db4f74be7d2d05e2b7dc5f405bcb8b80cea71a0c5e58fb81b26",
