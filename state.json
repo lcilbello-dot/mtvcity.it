@@ -1,10 +1,10 @@
 {
-  "checkedAt": "2026-11-10T07:01:01+01:00",
+  "checkedAt": "2026-11-11T07:08:34+01:00",
   "sources": [
     {
       "id": "proloco",
       "owner": "ProMontevecchia",
-      "checkedAt": "2026-11-10T07:01:01+01:00",
+      "checkedAt": "2026-11-11T07:08:34+01:00",
       "ok": true,
       "issues": [
         "ENGLISH BOOK: Luogo non dichiarato nella fonte",
@@ -14,18 +14,19 @@
         "ENGLISH BOOK: Luogo non dichiarato nella fonte",
         "ENGLISH BOOK: Luogo non dichiarato nella fonte",
         "Festa di Natale di Montevecchia: Luogo non dichiarato nella fonte",
+        "LA SIGNORA DELLA CURVA – Maria Gaetana Agnesi: Luogo non dichiarato nella fonte",
         "Pranzo sociale di Natale ProMontevecchia: Luogo non dichiarato nella fonte",
         "Presentazione Libro Gianni Vecchi: Luogo non dichiarato nella fonte",
         "Valcurone in musica 2ª Edizione: Black Vibes: Neo-Soul & R&B con i Nukinda: Luogo non dichiarato nella fonte",
         "Valcurone in musica 2ª Edizione: Music on the Road: Luogo non dichiarato nella fonte"
       ],
-      "sha256": "9a343b3371f16066eea22c15dfb2eca26973260a13bd26855d8b31b3fa126122",
-      "eventCount": 17
+      "sha256": "ef0d5d270247220567316548d0411a2e2c5194cd9ae6ec16333ee31c72b08aee",
+      "eventCount": 18
     },
     {
       "id": "parco",
       "owner": "Parco di Montevecchia e della Valle del Curone",
-      "checkedAt": "2026-11-10T07:01:01+01:00",
+      "checkedAt": "2026-11-11T07:08:34+01:00",
       "ok": true,
       "issues": [],
       "sha256": "a8ff3595d06e938f8a531b65b90f11151db665537f111963bc2ce11c132b1a15",
@@ -35,13 +36,13 @@
     {
       "id": "comune",
       "owner": "Comune di Montevecchia",
-      "checkedAt": "2026-11-10T07:01:01+01:00",
+      "checkedAt": "2026-11-11T07:08:34+01:00",
       "ok": true,
       "issues": [],
       "sha256": "97612fcd34bf2db4f74be7d2d05e2b7dc5f405bcb8b80cea71a0c5e58fb81b26",
       "eventCount": 4
     }
   ],
-  "lastPublishedFingerprint": "3dfc322adcda9890bf0bbac787f5049a9854bd09fdba8504af104f16c9be1030",
-  "alertFingerprint": "ba031c9a8a1b20b317b0874a175213a19f5aab50af1dca471c83989e14bb8eae"
+  "lastPublishedFingerprint": "be580fe79448106c9a4b00155e60d1dc326cfada872c346d398700eabab566ee",
+  "alertFingerprint": "228439a7ee2a3faf4bb166534eb0991fa89a6478904a6592bef348b1ade1e66f"
 }
