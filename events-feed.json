@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T07:08:34+01:00",
+  "generatedAt": "2026-11-12T07:12:53+01:00",
   "events": [
     {
       "id": "auto-comune-a8388be5610e3c49ca53",
@@ -253,7 +253,7 @@
       "sources": [
         "AUTO-comune"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "archive",
       "status": "reviewed",
       "routes": {
@@ -266,8 +266,8 @@
         "uid": "2005",
         "identity": "2005|1791151200-1793401200",
         "publisherOnly": true,
-        "lastSeen": "2026-11-11",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeen": "2026-11-12",
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -992,7 +992,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -1005,9 +1005,9 @@
         "uid": "64sjad1n6hi30b9hclj62b9k6co3eb9p68s6abb16sojce366thjadj16s@google.com",
         "identity": "64sjad1n6hi30b9hclj62b9k6co3eb9p68s6abb16sojce366thjadj16s@google.com|2026-10-30T20:00:00+00:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-11",
+        "lastSeen": "2026-11-12",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -1060,7 +1060,7 @@
       "sources": [
         "AUTO-parco"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "archive",
       "status": "reviewed",
       "routes": {
@@ -1073,8 +1073,8 @@
         "uid": "2026-11-01|labitoautunnaledelbosco",
         "identity": "2026-11-01|labitoautunnaledelbosco",
         "publisherOnly": false,
-        "lastSeen": "2026-11-11",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeen": "2026-11-12",
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -1127,7 +1127,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "archive",
       "status": "reviewed",
       "routes": {
@@ -1140,8 +1140,8 @@
         "uid": "5vmn17pik6atshak43kmvstpvl@google.com",
         "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-11-03T20:30:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-11",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeen": "2026-11-12",
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -1261,7 +1261,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -1274,9 +1274,9 @@
         "uid": "74s38oj16gs6cb9m6crj6b9kcko3gbb1c9gm4bb268o34d9n6cqm4dj36s@google.com",
         "identity": "74s38oj16gs6cb9m6crj6b9kcko3gbb1c9gm4bb268o34d9n6cqm4dj36s@google.com|2026-11-06T20:00:00+00:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-11",
+        "lastSeen": "2026-11-12",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -1396,7 +1396,7 @@
       "sources": [
         "AUTO-comune"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "archive",
       "status": "reviewed",
       "routes": {
@@ -1409,8 +1409,8 @@
         "uid": "2025",
         "identity": "2025|1794042000-1794048300",
         "publisherOnly": true,
-        "lastSeen": "2026-11-11",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeen": "2026-11-12",
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -1463,7 +1463,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -1476,9 +1476,9 @@
         "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
         "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2026-11-13T10:00:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-11",
+        "lastSeen": "2026-11-12",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -1531,7 +1531,7 @@
       "sources": [
         "AUTO-parco"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -1544,8 +1544,8 @@
         "uid": "2026-11-15|lesorgentidelparco",
         "identity": "2026-11-15|lesorgentidelparco",
         "publisherOnly": false,
-        "lastSeen": "2026-11-11",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeen": "2026-11-12",
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -1598,7 +1598,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -1611,8 +1611,8 @@
         "uid": "5vmn17pik6atshak43kmvstpvl@google.com",
         "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-11-17T20:30:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-11",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeen": "2026-11-12",
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -1665,7 +1665,7 @@
       "sources": [
         "AUTO-comune"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -1678,8 +1678,8 @@
         "uid": "2027",
         "identity": "2027|1795107600-1795113000",
         "publisherOnly": true,
-        "lastSeen": "2026-11-11",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeen": "2026-11-12",
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -1748,6 +1748,73 @@
         "lastSeen": "2026-10-28",
         "issue": "Luogo non dichiarato nella fonte",
         "lastSeenAt": "2026-10-28T06:51:43+01:00"
+      }
+    },
+    {
+      "id": "auto-comune-1c3a2c6896d834368c8a",
+      "type": "event",
+      "name": {
+        "it": "LA SIGNORA DELLA CURVA - Maria Gaetana",
+        "en": "LA SIGNORA DELLA CURVA - Maria Gaetana"
+      },
+      "title": {
+        "it": "LA SIGNORA DELLA CURVA - Maria Gaetana | MTV City",
+        "en": "LA SIGNORA DELLA CURVA - Maria Gaetana | MTV City"
+      },
+      "metaDescription": {
+        "it": "LA SIGNORA DELLA CURVA - Maria Gaetana: appuntamento del 2026-11-25. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "LA SIGNORA DELLA CURVA - Maria Gaetana: event on 2026-11-25. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-25: LA SIGNORA DELLA CURVA - Maria Gaetana. Appuntamento presente nel programma di Comune di Montevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-25: LA SIGNORA DELLA CURVA - Maria Gaetana. An event listed by Comune di Montevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "21:00",
+        "en": "21:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-25",
+      "startTime": "21:00",
+      "organiser": "Comune di Montevecchia",
+      "officialUrl": "https://www.comune.montevecchia.lc.it/Vivere-il-comune/Eventi/LA-SIGNORA-DELLA-CURVA-Maria-Gaetana",
+      "contact": null,
+      "meetingPoint": "Teatro Parrocchiale",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-comune"
+      ],
+      "verified": "2026-11-12",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-comune-1c3a2c6896d834368c8a/",
+        "en": "/en/events/auto-comune-1c3a2c6896d834368c8a/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "comune",
+        "uid": "2048",
+        "identity": "2048|1795636800-1795644000",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-12",
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -1868,7 +1935,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -1881,9 +1948,76 @@
         "uid": "cgs34c9lc9hjgb9g74ojgb9k6kq68b9o6tj34b9jchijec1jc4pjgp9gc8@google.com",
         "identity": "cgs34c9lc9hjgb9g74ojgb9k6kq68b9o6tj34b9jchijec1jc4pjgp9gc8@google.com|2026-11-25T12:30:00+00:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-11",
+        "lastSeen": "2026-11-12",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
+      }
+    },
+    {
+      "id": "auto-comune-d5c20e89765f945171e2",
+      "type": "event",
+      "name": {
+        "it": "Delitti in Valcurone",
+        "en": "Delitti in Valcurone"
+      },
+      "title": {
+        "it": "Delitti in Valcurone | MTV City",
+        "en": "Delitti in Valcurone | MTV City"
+      },
+      "metaDescription": {
+        "it": "Delitti in Valcurone: appuntamento del 2026-11-26. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Delitti in Valcurone: event on 2026-11-26. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-26: Delitti in Valcurone. Appuntamento presente nel programma di Comune di Montevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-26: Delitti in Valcurone. An event listed by Comune di Montevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "21:00",
+        "en": "21:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "startTime": "21:00",
+      "organiser": "Comune di Montevecchia",
+      "officialUrl": "https://www.comune.montevecchia.lc.it/Vivere-il-comune/Eventi/Delitti-in-Valcurone",
+      "contact": null,
+      "meetingPoint": "Casetta Bis",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-comune"
+      ],
+      "verified": "2026-11-12",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-comune-d5c20e89765f945171e2/",
+        "en": "/en/events/auto-comune-d5c20e89765f945171e2/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "comune",
+        "uid": "2046",
+        "identity": "2046|1795723200-1795730400",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-12",
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -1936,7 +2070,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -1949,9 +2083,9 @@
         "uid": "5ub29r1hif67vvbjgdamlhho9g@google.com",
         "identity": "5ub29r1hif67vvbjgdamlhho9g@google.com|2026-11-26T20:00:00+00:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-11",
+        "lastSeen": "2026-11-12",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -2071,7 +2205,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -2084,8 +2218,8 @@
         "uid": "5vmn17pik6atshak43kmvstpvl@google.com",
         "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-12-01T20:30:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-11",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeen": "2026-11-12",
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -2205,7 +2339,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -2218,9 +2352,9 @@
         "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
         "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2026-12-11T10:00:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-11",
+        "lastSeen": "2026-11-12",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -2273,7 +2407,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -2286,9 +2420,9 @@
         "uid": "16i6m31cj4gicb1h5mg76qn6ve@google.com",
         "identity": "16i6m31cj4gicb1h5mg76qn6ve@google.com|2026-12-13T11:30:00+00:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-11",
+        "lastSeen": "2026-11-12",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -2341,7 +2475,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -2354,9 +2488,9 @@
         "uid": "13qba563hbf2m0hafgqn9r4bfu@google.com",
         "identity": "13qba563hbf2m0hafgqn9r4bfu@google.com|2026-12-13T06:00:00+00:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-11",
+        "lastSeen": "2026-11-12",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -2409,7 +2543,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -2422,8 +2556,8 @@
         "uid": "5vmn17pik6atshak43kmvstpvl@google.com",
         "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-12-15T20:30:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-11",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeen": "2026-11-12",
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -2476,7 +2610,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -2489,9 +2623,9 @@
         "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
         "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2027-01-08T10:00:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-11",
+        "lastSeen": "2026-11-12",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -2544,7 +2678,7 @@
       "sources": [
         "AUTO-comune"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -2557,8 +2691,8 @@
         "uid": "2028",
         "identity": "2028|1800032400-1800037800",
         "publisherOnly": true,
-        "lastSeen": "2026-11-11",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeen": "2026-11-12",
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -2611,7 +2745,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -2624,9 +2758,9 @@
         "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
         "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2027-02-12T10:00:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-11",
+        "lastSeen": "2026-11-12",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -2679,7 +2813,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -2692,9 +2826,9 @@
         "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
         "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2027-03-12T10:00:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-11",
+        "lastSeen": "2026-11-12",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -2747,7 +2881,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -2760,9 +2894,9 @@
         "uid": "6spjceb1c4p6ab9i69gmcb9k70rj2b9p60s68b9gccs32opj6ksj0or26k@google.com",
         "identity": "6spjceb1c4p6ab9i69gmcb9k70rj2b9p60s68b9gccs32opj6ksj0or26k@google.com|2027-03-20T19:45:00+00:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-11",
+        "lastSeen": "2026-11-12",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -2815,7 +2949,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -2828,9 +2962,9 @@
         "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
         "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2027-04-09T10:00:00+02:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-11",
+        "lastSeen": "2026-11-12",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     },
     {
@@ -2883,7 +3017,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-11",
+      "verified": "2026-11-12",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -2896,9 +3030,9 @@
         "uid": "6pijiopo6com4b9k6cp3ib9k68sj2b9p6go30bb5cor3apj2cks6ae366s@google.com",
         "identity": "6pijiopo6com4b9k6cp3ib9k68sj2b9p6go30bb5cor3apj2cks6ae366s@google.com|2027-04-10T18:45:00+00:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-11",
+        "lastSeen": "2026-11-12",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-11T07:08:34+01:00"
+        "lastSeenAt": "2026-11-12T07:12:53+01:00"
       }
     }
   ],
@@ -2908,7 +3042,7 @@
       "owner": "ProMontevecchia",
       "title": "Calendario ufficiale: ProMontevecchia",
       "url": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "note": "Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata."
     },
     {
@@ -2916,7 +3050,7 @@
       "owner": "Parco di Montevecchia e della Valle del Curone",
       "title": "Calendario ufficiale: Parco di Montevecchia e della Valle del Curone",
       "url": "https://www.parcocurone.it/iniziative/visitegev.php",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "note": "Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata."
     },
     {
@@ -2924,7 +3058,7 @@
       "owner": "Comune di Montevecchia",
       "title": "Calendario ufficiale: Comune di Montevecchia",
       "url": "https://www.comune.montevecchia.lc.it/Vivere-il-comune/Eventi",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "note": "Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata."
     }
   ],
@@ -2932,7 +3066,7 @@
     {
       "id": "proloco",
       "owner": "ProMontevecchia",
-      "checkedAt": "2026-11-11T07:08:34+01:00",
+      "checkedAt": "2026-11-12T07:12:53+01:00",
       "ok": true,
       "issues": [
         "ENGLISH BOOK: Luogo non dichiarato nella fonte",
@@ -2948,13 +3082,13 @@
         "Valcurone in musica 2ª Edizione: Black Vibes: Neo-Soul & R&B con i Nukinda: Luogo non dichiarato nella fonte",
         "Valcurone in musica 2ª Edizione: Music on the Road: Luogo non dichiarato nella fonte"
       ],
-      "sha256": "ef0d5d270247220567316548d0411a2e2c5194cd9ae6ec16333ee31c72b08aee",
+      "sha256": "341d06838ea5187237004814d12df8e6f25f9c76c3b799efd5ff372a3b37905c",
       "eventCount": 18
     },
     {
       "id": "parco",
       "owner": "Parco di Montevecchia e della Valle del Curone",
-      "checkedAt": "2026-11-11T07:08:34+01:00",
+      "checkedAt": "2026-11-12T07:12:53+01:00",
       "ok": true,
       "issues": [],
       "sha256": "a8ff3595d06e938f8a531b65b90f11151db665537f111963bc2ce11c132b1a15",
@@ -2964,11 +3098,11 @@
     {
       "id": "comune",
       "owner": "Comune di Montevecchia",
-      "checkedAt": "2026-11-11T07:08:34+01:00",
+      "checkedAt": "2026-11-12T07:12:53+01:00",
       "ok": true,
       "issues": [],
-      "sha256": "97612fcd34bf2db4f74be7d2d05e2b7dc5f405bcb8b80cea71a0c5e58fb81b26",
-      "eventCount": 4
+      "sha256": "1467c1932450cd83e9f1b27198c95c5b314eefb18dd9173d6974ae4eec8c4396",
+      "eventCount": 6
     }
   ],
   "maxStaleHours": 72
