@@ -73,7 +73,7 @@ class Calendars(unittest.TestCase):
         self.assertNotIn('<script>',rows[0]['name'])
     def test_generated_feed_validates(self):
         row=entity(self.read(BASE)[0][0],SOURCE,TODAY)
-        self.assertEqual(validate({'schemaVersion':1,'sources':[{'id':'AUTO-proloco'}],'events':[row]}),1)
+        self.assertEqual(validate({'schemaVersion':1,'sources':[{'id':'AUTO-proloco','url':'https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/'}],'events':[row]}),1)
     def test_removed_incomplete_event_stays_private(self):
         row=entity(self.read(BASE.replace('\nLOCATION:Montevecchia',''))[0][0],SOURCE,TODAY)
         self.assertEqual(reconcile([row],[],set(),date(2026,10,25))[0]['publication'],'draft')
@@ -101,5 +101,24 @@ class Calendars(unittest.TestCase):
     def test_cancelled_master_without_date_is_tombstone(self):
         rows,issues=self.read('UID:a\nSTATUS:CANCELLED')
         self.assertEqual(rows,[]);self.assertEqual(issues,[])
+
+class NearbyCalendars(unittest.TestCase):
+    def test_market_uses_published_dates_only(self):
+        from nearby_events import collect
+        from monitor_events import checked_url
+        url = 'https://prolocoimbersago.it/il-mercatino-dellantico/'
+        config = {'kind':'market_html', 'url':url, 'page':url, 'hosts':['prolocoimbersago.it'],
+                  'municipality':'Imbersago'}
+        page = b'<p>Date 2026</p><table class="tabella-date"><tr><td>18 ottobre</td><td>15 novembre</td></tr></table>'
+        events, issues = collect(page, config, date(2026, 11, 13), 180, None, checked_url)
+        self.assertFalse(issues)
+        self.assertEqual([e['startDate'] for e in events], ['2026-11-15'])
+        self.assertEqual(events[0]['municipality'], 'Imbersago')
+
+    def test_missing_ongoing_event_is_withdrawn_after_complete_check(self):
+        event = {'id':'auto-test','startDate':'2026-11-01','endDate':'2026-11-22',
+                 'publication':'published','eventStatus':'scheduled','automation':{'sourceId':'merate'}}
+        self.assertEqual(reconcile([event], [], {'merate'}, date(2026,11,13))[0]['eventStatus'], 'withdrawn')
+        self.assertEqual(reconcile([event], [], set(), date(2026,11,13))[0]['eventStatus'], 'scheduled')
 
 if __name__=='__main__':unittest.main()

@@ -36,6 +36,56 @@
       "fixture": "comune.json",
       "detailPath": "/Vivere-il-comune/Eventi/",
       "area": "Montevecchia"
+    },
+    {
+      "id": "merate",
+      "owner": "Comune di Merate",
+      "kind": "municipal_html",
+      "url": "https://www.comune.merate.lc.it/EG0/EGSCHTST38.HBL?MESSA=PUBBLICA&en=eg402",
+      "page": "https://www.comune.merate.lc.it/EG0/EGSCHTST38.HBL?MESSA=PUBBLICA&en=eg402",
+      "hosts": ["www.comune.merate.lc.it"],
+      "area": "Merate",
+      "municipality": "Merate"
+    },
+    {
+      "id": "missaglia",
+      "owner": "Comune di Missaglia",
+      "kind": "municipal_html",
+      "url": "https://www.comune.missaglia.lc.it/EG0/EGSCHTST38.HBL?MESSA=PUBBLICA&en=eg402",
+      "page": "https://www.comune.missaglia.lc.it/EG0/EGSCHTST38.HBL?MESSA=PUBBLICA&en=eg402",
+      "hosts": ["www.comune.missaglia.lc.it"],
+      "area": "Missaglia",
+      "municipality": "Missaglia"
+    },
+    {
+      "id": "villa-greppi",
+      "owner": "Consorzio Brianteo Villa Greppi",
+      "kind": "greppi_html",
+      "url": "https://www.villagreppi.it/eventi/",
+      "page": "https://www.villagreppi.it/eventi/",
+      "hosts": ["www.villagreppi.it"],
+      "area": "Brianza lecchese",
+      "municipalities": ["Monticello Brianza", "Missaglia", "Merate", "Cernusco Lombardone", "Casatenovo", "La Valletta Brianza", "Imbersago", "Paderno d’Adda"]
+    },
+    {
+      "id": "imbersago",
+      "owner": "Pro Loco Imbersago",
+      "kind": "market_html",
+      "url": "https://prolocoimbersago.it/il-mercatino-dellantico/",
+      "page": "https://prolocoimbersago.it/il-mercatino-dellantico/",
+      "hosts": ["prolocoimbersago.it"],
+      "area": "Imbersago",
+      "municipality": "Imbersago"
+    },
+    {
+      "id": "casatenovo",
+      "owner": "Auditorium di Casatenovo",
+      "kind": "theatre_html",
+      "url": "https://www.auditoriumcasatenovo.com/",
+      "page": "https://www.auditoriumcasatenovo.com/",
+      "hosts": ["www.auditoriumcasatenovo.com"],
+      "area": "Casatenovo",
+      "municipality": "Casatenovo"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T07:09:26+01:00",
+  "generatedAt": "2026-11-13T18:53:02+01:00",
   "events": [
     {
       "id": "auto-comune-a8388be5610e3c49ca53",
@@ -267,7 +267,7 @@
         "identity": "2005|1791151200-1793401200",
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -1007,7 +1007,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -1074,7 +1074,7 @@
         "identity": "2026-11-01|labitoautunnaledelbosco",
         "publisherOnly": false,
         "lastSeen": "2026-11-13",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -1141,7 +1141,7 @@
         "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-11-03T20:30:00+01:00",
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -1276,7 +1276,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -1410,7 +1410,7 @@
         "identity": "2025|1794042000-1794048300",
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -1478,7 +1478,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -1545,7 +1545,7 @@
         "identity": "2026-11-15|lesorgentidelparco",
         "publisherOnly": false,
         "lastSeen": "2026-11-13",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -1612,7 +1612,7 @@
         "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-11-17T20:30:00+01:00",
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -1679,7 +1679,7 @@
         "identity": "2027|1795107600-1795113000",
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -1814,7 +1814,7 @@
         "identity": "2048|1795636800-1795644000",
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -1950,7 +1950,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -2017,7 +2017,7 @@
         "identity": "2046|1795723200-1795730400",
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -2085,7 +2085,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -2219,7 +2219,7 @@
         "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-12-01T20:30:00+01:00",
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -2354,7 +2354,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -2422,7 +2422,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -2489,7 +2489,7 @@
         "identity": "20hgd1evb83dm3lckb1g1ba68r@google.com|2026-12-12T20:00:00+00:00",
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -2625,7 +2625,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -2760,7 +2760,7 @@
         "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-12-15T20:30:00+01:00",
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -2827,7 +2827,7 @@
         "identity": "2l04smdak4gpdekfn25k4ce2qe@google.com|2026-12-20T16:30:00+00:00",
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -2895,7 +2895,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -2962,7 +2962,7 @@
         "identity": "2028|1800032400-1800037800",
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -3030,7 +3030,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -3098,7 +3098,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -3166,7 +3166,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -3234,7 +3234,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     },
     {
@@ -3302,7 +3302,7 @@
         "publisherOnly": true,
         "lastSeen": "2026-11-13",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-13T07:09:26+01:00"
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
       }
     }
   ],
@@ -3332,11 +3332,2775 @@
       "note": "Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata."
     }
   ],
+  "nearbyEvents": [
+    {
+      "id": "auto-merate-63f1ee7b6ada3b555b55",
+      "type": "event",
+      "name": {
+        "it": "Dalle stelle alle galassie",
+        "en": "Dalle stelle alle galassie"
+      },
+      "title": {
+        "it": "Dalle stelle alle galassie | MTV City",
+        "en": "Dalle stelle alle galassie | MTV City"
+      },
+      "metaDescription": {
+        "it": "Dalle stelle alle galassie: appuntamento del 2026-09-24. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Dalle stelle alle galassie: event on 2026-09-24. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-09-24: Dalle stelle alle galassie. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-09-24: Dalle stelle alle galassie. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "Orari sul programma ufficiale",
+        "en": "Times on the official programme"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-09-24",
+      "endDate": "2026-11-19",
+      "startTime": null,
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_482.html",
+      "contact": null,
+      "meetingPoint": "Sala Civica \"Fratelli Cernuschi\" - Viale Lombardia, 14, 23807 - Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-63f1ee7b6ada3b555b55/",
+        "en": "/en/events/auto-merate-63f1ee7b6ada3b555b55/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_482.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_482.html|2026-09-24",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-merate-261433c5d9bcd3f3fb01",
+      "type": "event",
+      "name": {
+        "it": "10° Festival nazionale di teatro città di Merate",
+        "en": "10° Festival nazionale di teatro città di Merate"
+      },
+      "title": {
+        "it": "10° Festival nazionale di teatro città di Merate | MTV City",
+        "en": "10° Festival nazionale di teatro città di Merate | MTV City"
+      },
+      "metaDescription": {
+        "it": "10° Festival nazionale di teatro città di Merate: appuntamento del 2026-10-03. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "10° Festival nazionale di teatro città di Merate: event on 2026-10-03. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-10-03: 10° Festival nazionale di teatro città di Merate. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-10-03: 10° Festival nazionale di teatro città di Merate. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "Orari sul programma ufficiale",
+        "en": "Times on the official programme"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-10-03",
+      "endDate": "2026-12-12",
+      "startTime": null,
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_498.html",
+      "contact": null,
+      "meetingPoint": "Auditorium comunale \"Giusi Spezzaferri\" - Piazza degli Eroi, 3 - 23807 Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-261433c5d9bcd3f3fb01/",
+        "en": "/en/events/auto-merate-261433c5d9bcd3f3fb01/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_498.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_498.html|2026-10-03",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-merate-3f4955d5a8a22884ae16",
+      "type": "event",
+      "name": {
+        "it": "Ora Basta 2026",
+        "en": "Ora Basta 2026"
+      },
+      "title": {
+        "it": "Ora Basta 2026 | MTV City",
+        "en": "Ora Basta 2026 | MTV City"
+      },
+      "metaDescription": {
+        "it": "Ora Basta 2026: appuntamento del 2026-10-03. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Ora Basta 2026: event on 2026-10-03. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-10-03: Ora Basta 2026. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-10-03: Ora Basta 2026. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "Orari sul programma ufficiale",
+        "en": "Times on the official programme"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-10-03",
+      "endDate": "2026-11-21",
+      "startTime": null,
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_514.html",
+      "contact": null,
+      "meetingPoint": "Auditorium comunale \"Giusi Spezzaferri\" - Piazza degli Eroi, 3 - 23807 Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-3f4955d5a8a22884ae16/",
+        "en": "/en/events/auto-merate-3f4955d5a8a22884ae16/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_514.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_514.html|2026-10-03",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-merate-61fea7c20acacb30373a",
+      "type": "event",
+      "name": {
+        "it": "Lunessai",
+        "en": "Lunessai"
+      },
+      "title": {
+        "it": "Lunessai | MTV City",
+        "en": "Lunessai | MTV City"
+      },
+      "metaDescription": {
+        "it": "Lunessai: appuntamento del 2026-10-20. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Lunessai: event on 2026-10-20. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-10-20: Lunessai. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-10-20: Lunessai. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "Orari sul programma ufficiale",
+        "en": "Times on the official programme"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-10-20",
+      "endDate": "2026-11-16",
+      "startTime": null,
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_484.html",
+      "contact": null,
+      "meetingPoint": "Cineteatro Manzoni - Via Papa Giovanni XXIII°, 24 - 23807 - Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-61fea7c20acacb30373a/",
+        "en": "/en/events/auto-merate-61fea7c20acacb30373a/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_484.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_484.html|2026-10-20",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-merate-e5956b62cc7983c09c6a",
+      "type": "event",
+      "name": {
+        "it": "Cinema Spazio 50",
+        "en": "Cinema Spazio 50"
+      },
+      "title": {
+        "it": "Cinema Spazio 50 | MTV City",
+        "en": "Cinema Spazio 50 | MTV City"
+      },
+      "metaDescription": {
+        "it": "Cinema Spazio 50: appuntamento del 2026-10-23. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Cinema Spazio 50: event on 2026-10-23. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-10-23: Cinema Spazio 50. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-10-23: Cinema Spazio 50. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "Orari sul programma ufficiale",
+        "en": "Times on the official programme"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-10-23",
+      "endDate": "2027-03-12",
+      "startTime": null,
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
+      "contact": null,
+      "meetingPoint": "Ronzinante Teatro - Via Vittorio Veneto, 1 - 23807 Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-e5956b62cc7983c09c6a/",
+        "en": "/en/events/auto-merate-e5956b62cc7983c09c6a/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html|2026-10-23",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-merate-4cae6b263305bbca97ee",
+      "type": "event",
+      "name": {
+        "it": "10° Festival nazionale di teatro città di Merate",
+        "en": "10° Festival nazionale di teatro città di Merate"
+      },
+      "title": {
+        "it": "10° Festival nazionale di teatro città di Merate | MTV City",
+        "en": "10° Festival nazionale di teatro città di Merate | MTV City"
+      },
+      "metaDescription": {
+        "it": "10° Festival nazionale di teatro città di Merate: appuntamento del 2026-10-31. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "10° Festival nazionale di teatro città di Merate: event on 2026-10-31. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-10-31: 10° Festival nazionale di teatro città di Merate. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-10-31: 10° Festival nazionale di teatro città di Merate. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "20:30",
+        "en": "20:30"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "startTime": "20:30",
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_498.html",
+      "contact": null,
+      "meetingPoint": "Auditorium comunale \"Giusi Spezzaferri\" - Piazza degli Eroi, 3 - 23807 Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "archive",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-4cae6b263305bbca97ee/",
+        "en": "/en/events/auto-merate-4cae6b263305bbca97ee/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_498.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_498.html|2026-10-31",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-merate-9e1d88b30068e48787f9",
+      "type": "event",
+      "name": {
+        "it": "DIALOGO CON IL VUOTO. L'OPERA DI ANTONIO SCACCABAROZZI",
+        "en": "DIALOGO CON IL VUOTO. L'OPERA DI ANTONIO SCACCABAROZZI"
+      },
+      "title": {
+        "it": "DIALOGO CON IL VUOTO. L'OPERA DI ANTONIO SCACCABAROZZI | MTV City",
+        "en": "DIALOGO CON IL VUOTO. L'OPERA DI ANTONIO SCACCABAROZZI | MTV City"
+      },
+      "metaDescription": {
+        "it": "DIALOGO CON IL VUOTO. L'OPERA DI ANTONIO SCACCABAROZZI: appuntamento del 2026-10-31. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "DIALOGO CON IL VUOTO. L'OPERA DI ANTONIO SCACCABAROZZI: event on 2026-10-31. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-10-31: DIALOGO CON IL VUOTO. L'OPERA DI ANTONIO SCACCABAROZZI. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-10-31: DIALOGO CON IL VUOTO. L'OPERA DI ANTONIO SCACCABAROZZI. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "Orari sul programma ufficiale",
+        "en": "Times on the official programme"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-22",
+      "startTime": null,
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_518.html",
+      "contact": null,
+      "meetingPoint": "Villa Confalonieri - Via Giuseppe Garibaldi, 17 - 23807 Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-9e1d88b30068e48787f9/",
+        "en": "/en/events/auto-merate-9e1d88b30068e48787f9/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_518.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_518.html|2026-10-31",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-merate-7aacc1e2189bc2b250bb",
+      "type": "event",
+      "name": {
+        "it": "Corso Antiaggressione Femminile",
+        "en": "Corso Antiaggressione Femminile"
+      },
+      "title": {
+        "it": "Corso Antiaggressione Femminile | MTV City",
+        "en": "Corso Antiaggressione Femminile | MTV City"
+      },
+      "metaDescription": {
+        "it": "Corso Antiaggressione Femminile: appuntamento del 2026-11-04. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Corso Antiaggressione Femminile: event on 2026-11-04. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-04: Corso Antiaggressione Femminile. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-04: Corso Antiaggressione Femminile. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "Orari sul programma ufficiale",
+        "en": "Times on the official programme"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-25",
+      "startTime": null,
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_535.html",
+      "contact": null,
+      "meetingPoint": "Palestra Istituto F. Viganò - Via dei Lodovichi,2, 23807 - Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-7aacc1e2189bc2b250bb/",
+        "en": "/en/events/auto-merate-7aacc1e2189bc2b250bb/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_535.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_535.html|2026-11-04",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-merate-9bf2426026b0b55e82d4",
+      "type": "event",
+      "name": {
+        "it": "Cinema Spazio 50",
+        "en": "Cinema Spazio 50"
+      },
+      "title": {
+        "it": "Cinema Spazio 50 | MTV City",
+        "en": "Cinema Spazio 50 | MTV City"
+      },
+      "metaDescription": {
+        "it": "Cinema Spazio 50: appuntamento del 2026-11-06. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Cinema Spazio 50: event on 2026-11-06. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-06: Cinema Spazio 50. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-06: Cinema Spazio 50. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "20:45",
+        "en": "20:45"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "startTime": "20:45",
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
+      "contact": null,
+      "meetingPoint": "Ronzinante Teatro - Via Vittorio Veneto, 1 - 23807 Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "archive",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-9bf2426026b0b55e82d4/",
+        "en": "/en/events/auto-merate-9bf2426026b0b55e82d4/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html|2026-11-06",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-villa-greppi-0171b49a4db98495e574",
+      "type": "event",
+      "name": {
+        "it": "Storie di fiumi. Il Reno, cerniera di un continente",
+        "en": "Storie di fiumi. Il Reno, cerniera di un continente"
+      },
+      "title": {
+        "it": "Storie di fiumi. Il Reno, cerniera di un continente | MTV City",
+        "en": "Storie di fiumi. Il Reno, cerniera di un continente | MTV City"
+      },
+      "metaDescription": {
+        "it": "Storie di fiumi. Il Reno, cerniera di un continente: appuntamento del 2026-11-07. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Storie di fiumi. Il Reno, cerniera di un continente: event on 2026-11-07. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-07: Storie di fiumi. Il Reno, cerniera di un continente. Appuntamento presente nel programma di Consorzio Brianteo Villa Greppi. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-07: Storie di fiumi. Il Reno, cerniera di un continente. An event listed by Consorzio Brianteo Villa Greppi. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "16:30",
+        "en": "16:30"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "startTime": "16:30",
+      "organiser": "Consorzio Brianteo Villa Greppi",
+      "officialUrl": "https://www.villagreppi.it/evento/storie-di-fiumi-il-reno-cerniera-di-un-continente/",
+      "contact": null,
+      "meetingPoint": "Municipio via Lina Castelbarco 1 Imbersago",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-villa-greppi"
+      ],
+      "verified": "2026-11-13",
+      "publication": "archive",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-villa-greppi-0171b49a4db98495e574/",
+        "en": "/en/events/auto-villa-greppi-0171b49a4db98495e574/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "villa-greppi",
+        "uid": "https://www.villagreppi.it/evento/storie-di-fiumi-il-reno-cerniera-di-un-continente/",
+        "identity": "https://www.villagreppi.it/evento/storie-di-fiumi-il-reno-cerniera-di-un-continente/|2026-11-07",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Imbersago"
+    },
+    {
+      "id": "auto-merate-ff431b8e8467366a0569",
+      "type": "event",
+      "name": {
+        "it": "Lo sciopero delle bambine",
+        "en": "Lo sciopero delle bambine"
+      },
+      "title": {
+        "it": "Lo sciopero delle bambine | MTV City",
+        "en": "Lo sciopero delle bambine | MTV City"
+      },
+      "metaDescription": {
+        "it": "Lo sciopero delle bambine: appuntamento del 2026-11-13. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Lo sciopero delle bambine: event on 2026-11-13. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-13: Lo sciopero delle bambine. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-13: Lo sciopero delle bambine. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "21:00",
+        "en": "21:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "startTime": "21:00",
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_538.html",
+      "contact": null,
+      "meetingPoint": "Auditorium comunale \"Giusi Spezzaferri\" - Piazza degli Eroi, 3 - 23807 Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-ff431b8e8467366a0569/",
+        "en": "/en/events/auto-merate-ff431b8e8467366a0569/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_538.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_538.html|2026-11-13",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-merate-1fd05b2fe9c8597de614",
+      "type": "event",
+      "name": {
+        "it": "BIBLIOTECA: NATI PER LEGGERE novembre 2026",
+        "en": "BIBLIOTECA: NATI PER LEGGERE novembre 2026"
+      },
+      "title": {
+        "it": "BIBLIOTECA: NATI PER LEGGERE novembre 2026 | MTV City",
+        "en": "BIBLIOTECA: NATI PER LEGGERE novembre 2026 | MTV City"
+      },
+      "metaDescription": {
+        "it": "BIBLIOTECA: NATI PER LEGGERE novembre 2026: appuntamento del 2026-11-14. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "BIBLIOTECA: NATI PER LEGGERE novembre 2026: event on 2026-11-14. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-14: BIBLIOTECA: NATI PER LEGGERE novembre 2026. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-14: BIBLIOTECA: NATI PER LEGGERE novembre 2026. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "10:30",
+        "en": "10:30"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-14",
+      "startTime": "10:30",
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_403.html",
+      "contact": null,
+      "meetingPoint": "Biblioteca Comunale di Merate \"Alessandro Manzoni\" - Piazza Riva Spoleti, 1 - 23807 Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-1fd05b2fe9c8597de614/",
+        "en": "/en/events/auto-merate-1fd05b2fe9c8597de614/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_403.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_403.html|2026-11-14",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-missaglia-163f8d95da51057011d3",
+      "type": "event",
+      "name": {
+        "it": "Letture di novembre",
+        "en": "Letture di novembre"
+      },
+      "title": {
+        "it": "Letture di novembre | MTV City",
+        "en": "Letture di novembre | MTV City"
+      },
+      "metaDescription": {
+        "it": "Letture di novembre: appuntamento del 2026-11-14. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Letture di novembre: event on 2026-11-14. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-14: Letture di novembre. Appuntamento presente nel programma di Comune di Missaglia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-14: Letture di novembre. An event listed by Comune di Missaglia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "10:00",
+        "en": "10:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-14",
+      "startTime": "10:00",
+      "organiser": "Comune di Missaglia",
+      "officialUrl": "https://www.comune.missaglia.lc.it/vivere_il_comune/eventi/evento_88.html",
+      "contact": null,
+      "meetingPoint": "Biblioteca \"Francesco Cherubini\" - Via Ugo Merlini, 2 - 23873 Missaglia (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-missaglia"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-missaglia-163f8d95da51057011d3/",
+        "en": "/en/events/auto-missaglia-163f8d95da51057011d3/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "missaglia",
+        "uid": "https://www.comune.missaglia.lc.it/vivere_il_comune/eventi/evento_88.html",
+        "identity": "https://www.comune.missaglia.lc.it/vivere_il_comune/eventi/evento_88.html|2026-11-14",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Missaglia"
+    },
+    {
+      "id": "auto-imbersago-f6326061e7bc54757a31",
+      "type": "event",
+      "name": {
+        "it": "Mercatino dell’Antico",
+        "en": "Mercatino dell’Antico"
+      },
+      "title": {
+        "it": "Mercatino dell’Antico | MTV City",
+        "en": "Mercatino dell’Antico | MTV City"
+      },
+      "metaDescription": {
+        "it": "Mercatino dell’Antico: appuntamento del 2026-11-15. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Mercatino dell’Antico: event on 2026-11-15. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-15: Mercatino dell’Antico. Appuntamento presente nel programma di Pro Loco Imbersago. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-15: Mercatino dell’Antico. An event listed by Pro Loco Imbersago. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "Orari sul programma ufficiale",
+        "en": "Times on the official programme"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-15",
+      "startTime": null,
+      "organiser": "Pro Loco Imbersago",
+      "officialUrl": "https://prolocoimbersago.it/il-mercatino-dellantico/",
+      "contact": null,
+      "meetingPoint": "Piazza Garibaldi e vie del centro",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "mercatini"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-imbersago"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-imbersago-f6326061e7bc54757a31/",
+        "en": "/en/events/auto-imbersago-f6326061e7bc54757a31/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "imbersago",
+        "uid": "https://prolocoimbersago.it/il-mercatino-dellantico/",
+        "identity": "https://prolocoimbersago.it/il-mercatino-dellantico/|2026-11-15",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Imbersago"
+    },
+    {
+      "id": "auto-merate-163d7a291085d9db54ee",
+      "type": "event",
+      "name": {
+        "it": "10° Festival nazionale di teatro città di Merate",
+        "en": "10° Festival nazionale di teatro città di Merate"
+      },
+      "title": {
+        "it": "10° Festival nazionale di teatro città di Merate | MTV City",
+        "en": "10° Festival nazionale di teatro città di Merate | MTV City"
+      },
+      "metaDescription": {
+        "it": "10° Festival nazionale di teatro città di Merate: appuntamento del 2026-11-15. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "10° Festival nazionale di teatro città di Merate: event on 2026-11-15. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-15: 10° Festival nazionale di teatro città di Merate. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-15: 10° Festival nazionale di teatro città di Merate. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "17:30",
+        "en": "17:30"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-15",
+      "startTime": "17:30",
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_498.html",
+      "contact": null,
+      "meetingPoint": "Auditorium comunale \"Giusi Spezzaferri\" - Piazza degli Eroi, 3 - 23807 Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-163d7a291085d9db54ee/",
+        "en": "/en/events/auto-merate-163d7a291085d9db54ee/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_498.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_498.html|2026-11-15",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-villa-greppi-47c42746948a3b41b2c8",
+      "type": "event",
+      "name": {
+        "it": "Oltre il paesaggio Segni, trasparenze e colori per reinventare il paesaggio con l’acquerello",
+        "en": "Oltre il paesaggio Segni, trasparenze e colori per reinventare il paesaggio con l’acquerello"
+      },
+      "title": {
+        "it": "Oltre il paesaggio Segni, trasparenze e colori per reinventare il paesaggio con l’acquerello | MTV City",
+        "en": "Oltre il paesaggio Segni, trasparenze e colori per reinventare il paesaggio con l’acquerello | MTV City"
+      },
+      "metaDescription": {
+        "it": "Oltre il paesaggio Segni, trasparenze e colori per reinventare il paesaggio con l’acquerello: appuntamento del 2026-11-15. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Oltre il paesaggio Segni, trasparenze e colori per reinventare il paesaggio con l’acquerello: event on 2026-11-15. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-15: Oltre il paesaggio Segni, trasparenze e colori per reinventare il paesaggio con l’acquerello. Appuntamento presente nel programma di Consorzio Brianteo Villa Greppi. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-15: Oltre il paesaggio Segni, trasparenze e colori per reinventare il paesaggio con l’acquerello. An event listed by Consorzio Brianteo Villa Greppi. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "10:00",
+        "en": "10:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-15",
+      "startTime": "10:00",
+      "organiser": "Consorzio Brianteo Villa Greppi",
+      "officialUrl": "https://www.villagreppi.it/evento/oltre-il-paesaggio-segni-trasparenze-e-colori-per-reinventare-il-paesaggio-con-lacquerello/",
+      "contact": null,
+      "meetingPoint": "Villa Facchi via Castelbarco, 7 Casatenovo",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-villa-greppi"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-villa-greppi-47c42746948a3b41b2c8/",
+        "en": "/en/events/auto-villa-greppi-47c42746948a3b41b2c8/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "villa-greppi",
+        "uid": "https://www.villagreppi.it/evento/oltre-il-paesaggio-segni-trasparenze-e-colori-per-reinventare-il-paesaggio-con-lacquerello/",
+        "identity": "https://www.villagreppi.it/evento/oltre-il-paesaggio-segni-trasparenze-e-colori-per-reinventare-il-paesaggio-con-lacquerello/|2026-11-15",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Casatenovo"
+    },
+    {
+      "id": "auto-merate-876833f1d831cae497a4",
+      "type": "event",
+      "name": {
+        "it": "Cinema Spazio 50",
+        "en": "Cinema Spazio 50"
+      },
+      "title": {
+        "it": "Cinema Spazio 50 | MTV City",
+        "en": "Cinema Spazio 50 | MTV City"
+      },
+      "metaDescription": {
+        "it": "Cinema Spazio 50: appuntamento del 2026-11-20. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Cinema Spazio 50: event on 2026-11-20. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-20: Cinema Spazio 50. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-20: Cinema Spazio 50. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "20:45",
+        "en": "20:45"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-20",
+      "startTime": "20:45",
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
+      "contact": null,
+      "meetingPoint": "Ronzinante Teatro - Via Vittorio Veneto, 1 - 23807 Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-876833f1d831cae497a4/",
+        "en": "/en/events/auto-merate-876833f1d831cae497a4/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html|2026-11-20",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-villa-greppi-6cd2bcc8c0ce3bd4ca96",
+      "type": "event",
+      "name": {
+        "it": "800 Narrazioni a Villa Greppi",
+        "en": "800 Narrazioni a Villa Greppi"
+      },
+      "title": {
+        "it": "800 Narrazioni a Villa Greppi | MTV City",
+        "en": "800 Narrazioni a Villa Greppi | MTV City"
+      },
+      "metaDescription": {
+        "it": "800 Narrazioni a Villa Greppi: appuntamento del 2026-11-20. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "800 Narrazioni a Villa Greppi: event on 2026-11-20. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-20: 800 Narrazioni a Villa Greppi. Appuntamento presente nel programma di Consorzio Brianteo Villa Greppi. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-20: 800 Narrazioni a Villa Greppi. An event listed by Consorzio Brianteo Villa Greppi. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "Orari sul programma ufficiale",
+        "en": "Times on the official programme"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "startTime": null,
+      "organiser": "Consorzio Brianteo Villa Greppi",
+      "officialUrl": "https://www.villagreppi.it/evento/800-narrazioni-a-villa-greppi/",
+      "contact": null,
+      "meetingPoint": "Villa Greppi via Monte Grappa, 21 Monticello Brianza",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-villa-greppi"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-villa-greppi-6cd2bcc8c0ce3bd4ca96/",
+        "en": "/en/events/auto-villa-greppi-6cd2bcc8c0ce3bd4ca96/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "villa-greppi",
+        "uid": "https://www.villagreppi.it/evento/800-narrazioni-a-villa-greppi/",
+        "identity": "https://www.villagreppi.it/evento/800-narrazioni-a-villa-greppi/|2026-11-20",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Monticello Brianza"
+    },
+    {
+      "id": "auto-merate-094f527d57891fa4ba4d",
+      "type": "event",
+      "name": {
+        "it": "BIBLIOTECA: leggimi una storia",
+        "en": "BIBLIOTECA: leggimi una storia"
+      },
+      "title": {
+        "it": "BIBLIOTECA: leggimi una storia | MTV City",
+        "en": "BIBLIOTECA: leggimi una storia | MTV City"
+      },
+      "metaDescription": {
+        "it": "BIBLIOTECA: leggimi una storia: appuntamento del 2026-11-21. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "BIBLIOTECA: leggimi una storia: event on 2026-11-21. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-21: BIBLIOTECA: leggimi una storia. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-21: BIBLIOTECA: leggimi una storia. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "10:30",
+        "en": "10:30"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "startTime": "10:30",
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_224.html",
+      "contact": null,
+      "meetingPoint": "Biblioteca Comunale di Merate \"Alessandro Manzoni\" - Piazza Riva Spoleti, 1 - 23807 Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-094f527d57891fa4ba4d/",
+        "en": "/en/events/auto-merate-094f527d57891fa4ba4d/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_224.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_224.html|2026-11-21",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-merate-f445bbb1f81a973353d7",
+      "type": "event",
+      "name": {
+        "it": "La violenza sull donna dal melodramma ad oggi",
+        "en": "La violenza sull donna dal melodramma ad oggi"
+      },
+      "title": {
+        "it": "La violenza sull donna dal melodramma ad oggi | MTV City",
+        "en": "La violenza sull donna dal melodramma ad oggi | MTV City"
+      },
+      "metaDescription": {
+        "it": "La violenza sull donna dal melodramma ad oggi: appuntamento del 2026-11-21. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "La violenza sull donna dal melodramma ad oggi: event on 2026-11-21. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-21: La violenza sull donna dal melodramma ad oggi. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-21: La violenza sull donna dal melodramma ad oggi. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "21:00",
+        "en": "21:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "startTime": "21:00",
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_537.html",
+      "contact": null,
+      "meetingPoint": "Auditorium comunale \"Giusi Spezzaferri\" - Piazza degli Eroi, 3 - 23807 Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-f445bbb1f81a973353d7/",
+        "en": "/en/events/auto-merate-f445bbb1f81a973353d7/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_537.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_537.html|2026-11-21",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-merate-40608a118fb21699514e",
+      "type": "event",
+      "name": {
+        "it": "Riparo",
+        "en": "Riparo"
+      },
+      "title": {
+        "it": "Riparo | MTV City",
+        "en": "Riparo | MTV City"
+      },
+      "metaDescription": {
+        "it": "Riparo: appuntamento del 2026-11-27. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Riparo: event on 2026-11-27. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-27: Riparo. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-27: Riparo. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "21:00",
+        "en": "21:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "startTime": "21:00",
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_539.html",
+      "contact": null,
+      "meetingPoint": "Ronzinante Teatro - Via Vittorio Veneto, 1 - 23807 Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-40608a118fb21699514e/",
+        "en": "/en/events/auto-merate-40608a118fb21699514e/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_539.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_539.html|2026-11-27",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-merate-f17ee11136f1e8dcda8b",
+      "type": "event",
+      "name": {
+        "it": "10° Festival nazionale di teatro città di Merate",
+        "en": "10° Festival nazionale di teatro città di Merate"
+      },
+      "title": {
+        "it": "10° Festival nazionale di teatro città di Merate | MTV City",
+        "en": "10° Festival nazionale di teatro città di Merate | MTV City"
+      },
+      "metaDescription": {
+        "it": "10° Festival nazionale di teatro città di Merate: appuntamento del 2026-11-28. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "10° Festival nazionale di teatro città di Merate: event on 2026-11-28. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-28: 10° Festival nazionale di teatro città di Merate. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-28: 10° Festival nazionale di teatro città di Merate. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "21:00",
+        "en": "21:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-28",
+      "startTime": "21:00",
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_498.html",
+      "contact": null,
+      "meetingPoint": "Auditorium comunale \"Giusi Spezzaferri\" - Piazza degli Eroi, 3 - 23807 Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-f17ee11136f1e8dcda8b/",
+        "en": "/en/events/auto-merate-f17ee11136f1e8dcda8b/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_498.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_498.html|2026-11-28",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-villa-greppi-4f118e3ed5c2c6a0cce2",
+      "type": "event",
+      "name": {
+        "it": "Pagine illustrate",
+        "en": "Pagine illustrate"
+      },
+      "title": {
+        "it": "Pagine illustrate | MTV City",
+        "en": "Pagine illustrate | MTV City"
+      },
+      "metaDescription": {
+        "it": "Pagine illustrate: appuntamento del 2026-11-28. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Pagine illustrate: event on 2026-11-28. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-28: Pagine illustrate. Appuntamento presente nel programma di Consorzio Brianteo Villa Greppi. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-28: Pagine illustrate. An event listed by Consorzio Brianteo Villa Greppi. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "16:30",
+        "en": "16:30"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-28",
+      "startTime": "16:30",
+      "organiser": "Consorzio Brianteo Villa Greppi",
+      "officialUrl": "https://www.villagreppi.it/evento/pagine-illustrate-2-3-2-2/",
+      "contact": null,
+      "meetingPoint": "Villa Confalonieri via Garibaldi, 17 Merate",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-villa-greppi"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-villa-greppi-4f118e3ed5c2c6a0cce2/",
+        "en": "/en/events/auto-villa-greppi-4f118e3ed5c2c6a0cce2/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "villa-greppi",
+        "uid": "https://www.villagreppi.it/evento/pagine-illustrate-2-3-2-2/",
+        "identity": "https://www.villagreppi.it/evento/pagine-illustrate-2-3-2-2/|2026-11-28",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-villa-greppi-19ed914107c06b2906a5",
+      "type": "event",
+      "name": {
+        "it": "ITALIA 1943-1946: NASCITA DI UNA REPUBBLICA",
+        "en": "ITALIA 1943-1946: NASCITA DI UNA REPUBBLICA"
+      },
+      "title": {
+        "it": "ITALIA 1943-1946: NASCITA DI UNA REPUBBLICA | MTV City",
+        "en": "ITALIA 1943-1946: NASCITA DI UNA REPUBBLICA | MTV City"
+      },
+      "metaDescription": {
+        "it": "ITALIA 1943-1946: NASCITA DI UNA REPUBBLICA: appuntamento del 2026-11-29. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "ITALIA 1943-1946: NASCITA DI UNA REPUBBLICA: event on 2026-11-29. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-29: ITALIA 1943-1946: NASCITA DI UNA REPUBBLICA. Appuntamento presente nel programma di Consorzio Brianteo Villa Greppi. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-29: ITALIA 1943-1946: NASCITA DI UNA REPUBBLICA. An event listed by Consorzio Brianteo Villa Greppi. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "16:30",
+        "en": "16:30"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-29",
+      "endDate": "2026-11-29",
+      "startTime": "16:30",
+      "organiser": "Consorzio Brianteo Villa Greppi",
+      "officialUrl": "https://www.villagreppi.it/evento/italia-1943-1946-nascita-di-una-repubblica/",
+      "contact": null,
+      "meetingPoint": "Antico Granaio di Villa Greppi via Monte Grappa, 21 Monticello Brianza",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-villa-greppi"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-villa-greppi-19ed914107c06b2906a5/",
+        "en": "/en/events/auto-villa-greppi-19ed914107c06b2906a5/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "villa-greppi",
+        "uid": "https://www.villagreppi.it/evento/italia-1943-1946-nascita-di-una-repubblica/",
+        "identity": "https://www.villagreppi.it/evento/italia-1943-1946-nascita-di-una-repubblica/|2026-11-29",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Monticello Brianza"
+    },
+    {
+      "id": "auto-villa-greppi-52577a9716a8525280b0",
+      "type": "event",
+      "name": {
+        "it": "CANTO A LAS MUJERES",
+        "en": "CANTO A LAS MUJERES"
+      },
+      "title": {
+        "it": "CANTO A LAS MUJERES | MTV City",
+        "en": "CANTO A LAS MUJERES | MTV City"
+      },
+      "metaDescription": {
+        "it": "CANTO A LAS MUJERES: appuntamento del 2026-11-29. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "CANTO A LAS MUJERES: event on 2026-11-29. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-29: CANTO A LAS MUJERES. Appuntamento presente nel programma di Consorzio Brianteo Villa Greppi. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-29: CANTO A LAS MUJERES. An event listed by Consorzio Brianteo Villa Greppi. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "17:45",
+        "en": "17:45"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-29",
+      "endDate": "2026-11-29",
+      "startTime": "17:45",
+      "organiser": "Consorzio Brianteo Villa Greppi",
+      "officialUrl": "https://www.villagreppi.it/evento/canto-a-las-mujeres/",
+      "contact": null,
+      "meetingPoint": "Antico Granaio di Villa Greppi via Monte Grappa, 21 Monticello Brianza",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-villa-greppi"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-villa-greppi-52577a9716a8525280b0/",
+        "en": "/en/events/auto-villa-greppi-52577a9716a8525280b0/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "villa-greppi",
+        "uid": "https://www.villagreppi.it/evento/canto-a-las-mujeres/",
+        "identity": "https://www.villagreppi.it/evento/canto-a-las-mujeres/|2026-11-29",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Monticello Brianza"
+    },
+    {
+      "id": "auto-casatenovo-1122cddb13f8036cb21c",
+      "type": "event",
+      "name": {
+        "it": "Ma per fortuna che c’era il Gaber",
+        "en": "Ma per fortuna che c’era il Gaber"
+      },
+      "title": {
+        "it": "Ma per fortuna che c’era il Gaber | MTV City",
+        "en": "Ma per fortuna che c’era il Gaber | MTV City"
+      },
+      "metaDescription": {
+        "it": "Ma per fortuna che c’era il Gaber: appuntamento del 2026-12-04. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Ma per fortuna che c’era il Gaber: event on 2026-12-04. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-12-04: Ma per fortuna che c’era il Gaber. Appuntamento presente nel programma di Auditorium di Casatenovo. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-12-04: Ma per fortuna che c’era il Gaber. An event listed by Auditorium di Casatenovo. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "21:00",
+        "en": "21:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-04",
+      "startTime": "21:00",
+      "organiser": "Auditorium di Casatenovo",
+      "officialUrl": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/Gaber.htm",
+      "contact": null,
+      "meetingPoint": "Auditorium di Casatenovo",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "teatro"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-casatenovo"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-casatenovo-1122cddb13f8036cb21c/",
+        "en": "/en/events/auto-casatenovo-1122cddb13f8036cb21c/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "casatenovo",
+        "uid": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/Gaber.htm",
+        "identity": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/Gaber.htm|2026-12-04",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Casatenovo"
+    },
+    {
+      "id": "auto-merate-1c412315eb2b1b0e73d2",
+      "type": "event",
+      "name": {
+        "it": "Cinema Spazio 50",
+        "en": "Cinema Spazio 50"
+      },
+      "title": {
+        "it": "Cinema Spazio 50 | MTV City",
+        "en": "Cinema Spazio 50 | MTV City"
+      },
+      "metaDescription": {
+        "it": "Cinema Spazio 50: appuntamento del 2026-12-04. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Cinema Spazio 50: event on 2026-12-04. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-12-04: Cinema Spazio 50. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-12-04: Cinema Spazio 50. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "20:45",
+        "en": "20:45"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-04",
+      "startTime": "20:45",
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
+      "contact": null,
+      "meetingPoint": "Ronzinante Teatro - Via Vittorio Veneto, 1 - 23807 Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-1c412315eb2b1b0e73d2/",
+        "en": "/en/events/auto-merate-1c412315eb2b1b0e73d2/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html|2026-12-04",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-casatenovo-72e61a18a7572af933fd",
+      "type": "event",
+      "name": {
+        "it": "Ma per fortuna che c’era il Gaber",
+        "en": "Ma per fortuna che c’era il Gaber"
+      },
+      "title": {
+        "it": "Ma per fortuna che c’era il Gaber | MTV City",
+        "en": "Ma per fortuna che c’era il Gaber | MTV City"
+      },
+      "metaDescription": {
+        "it": "Ma per fortuna che c’era il Gaber: appuntamento del 2026-12-09. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Ma per fortuna che c’era il Gaber: event on 2026-12-09. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-12-09: Ma per fortuna che c’era il Gaber. Appuntamento presente nel programma di Auditorium di Casatenovo. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-12-09: Ma per fortuna che c’era il Gaber. An event listed by Auditorium di Casatenovo. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "21:00",
+        "en": "21:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-09",
+      "startTime": "21:00",
+      "organiser": "Auditorium di Casatenovo",
+      "officialUrl": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/Gaber.htm",
+      "contact": null,
+      "meetingPoint": "Auditorium di Casatenovo",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "teatro"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-casatenovo"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-casatenovo-72e61a18a7572af933fd/",
+        "en": "/en/events/auto-casatenovo-72e61a18a7572af933fd/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "casatenovo",
+        "uid": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/Gaber.htm",
+        "identity": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/Gaber.htm|2026-12-09",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Casatenovo"
+    },
+    {
+      "id": "auto-villa-greppi-9f3fabc3b9900207fbdf",
+      "type": "event",
+      "name": {
+        "it": "Il cielo diviso . Berlino 1961: una città, un paese, un continente",
+        "en": "Il cielo diviso . Berlino 1961: una città, un paese, un continente"
+      },
+      "title": {
+        "it": "Il cielo diviso . Berlino 1961: una città, un paese, un continente | MTV City",
+        "en": "Il cielo diviso . Berlino 1961: una città, un paese, un continente | MTV City"
+      },
+      "metaDescription": {
+        "it": "Il cielo diviso . Berlino 1961: una città, un paese, un continente: appuntamento del 2026-12-10. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Il cielo diviso . Berlino 1961: una città, un paese, un continente: event on 2026-12-10. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-12-10: Il cielo diviso . Berlino 1961: una città, un paese, un continente. Appuntamento presente nel programma di Consorzio Brianteo Villa Greppi. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-12-10: Il cielo diviso . Berlino 1961: una città, un paese, un continente. An event listed by Consorzio Brianteo Villa Greppi. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "21:00",
+        "en": "21:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-12-10",
+      "endDate": "2026-12-10",
+      "startTime": "21:00",
+      "organiser": "Consorzio Brianteo Villa Greppi",
+      "officialUrl": "https://www.villagreppi.it/evento/1956-lanno-che-ha-cambiato-il-novecento-2/",
+      "contact": null,
+      "meetingPoint": "Sala Consiliare piazza Repubblica, 7 Casatenovo",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-villa-greppi"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-villa-greppi-9f3fabc3b9900207fbdf/",
+        "en": "/en/events/auto-villa-greppi-9f3fabc3b9900207fbdf/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "villa-greppi",
+        "uid": "https://www.villagreppi.it/evento/1956-lanno-che-ha-cambiato-il-novecento-2/",
+        "identity": "https://www.villagreppi.it/evento/1956-lanno-che-ha-cambiato-il-novecento-2/|2026-12-10",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Casatenovo"
+    },
+    {
+      "id": "auto-missaglia-5b5970f13a2133b6db2c",
+      "type": "event",
+      "name": {
+        "it": "Notte dei pupazzi in Biblioteca - Natale 2026",
+        "en": "Notte dei pupazzi in Biblioteca - Natale 2026"
+      },
+      "title": {
+        "it": "Notte dei pupazzi in Biblioteca - Natale 2026 | MTV City",
+        "en": "Notte dei pupazzi in Biblioteca - Natale 2026 | MTV City"
+      },
+      "metaDescription": {
+        "it": "Notte dei pupazzi in Biblioteca - Natale 2026: appuntamento del 2026-12-11. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Notte dei pupazzi in Biblioteca - Natale 2026: event on 2026-12-11. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-12-11: Notte dei pupazzi in Biblioteca - Natale 2026. Appuntamento presente nel programma di Comune di Missaglia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-12-11: Notte dei pupazzi in Biblioteca - Natale 2026. An event listed by Comune di Missaglia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "18:00",
+        "en": "18:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
+      "startTime": "18:00",
+      "organiser": "Comune di Missaglia",
+      "officialUrl": "https://www.comune.missaglia.lc.it/vivere_il_comune/eventi/evento_90.html",
+      "contact": null,
+      "meetingPoint": "Biblioteca \"Francesco Cherubini\" - Via Ugo Merlini, 2 - 23873 Missaglia (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-missaglia"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-missaglia-5b5970f13a2133b6db2c/",
+        "en": "/en/events/auto-missaglia-5b5970f13a2133b6db2c/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "missaglia",
+        "uid": "https://www.comune.missaglia.lc.it/vivere_il_comune/eventi/evento_90.html",
+        "identity": "https://www.comune.missaglia.lc.it/vivere_il_comune/eventi/evento_90.html|2026-12-11",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Missaglia"
+    },
+    {
+      "id": "auto-villa-greppi-7e5a13ed70e63c218a15",
+      "type": "event",
+      "name": {
+        "it": "ATTENZIONE: CAMBIO DATA – Cercare l’Europa significa crearla: la lunga storia di un’idea",
+        "en": "ATTENZIONE: CAMBIO DATA – Cercare l’Europa significa crearla: la lunga storia di un’idea"
+      },
+      "title": {
+        "it": "ATTENZIONE: CAMBIO DATA – Cercare l’Europa significa crearla: la lunga storia di un’idea | MTV City",
+        "en": "ATTENZIONE: CAMBIO DATA – Cercare l’Europa significa crearla: la lunga storia di un’idea | MTV City"
+      },
+      "metaDescription": {
+        "it": "ATTENZIONE: CAMBIO DATA – Cercare l’Europa significa crearla: la lunga storia di un’idea: appuntamento del 2026-12-11. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "ATTENZIONE: CAMBIO DATA – Cercare l’Europa significa crearla: la lunga storia di un’idea: event on 2026-12-11. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-12-11: ATTENZIONE: CAMBIO DATA – Cercare l’Europa significa crearla: la lunga storia di un’idea. Appuntamento presente nel programma di Consorzio Brianteo Villa Greppi. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-12-11: ATTENZIONE: CAMBIO DATA – Cercare l’Europa significa crearla: la lunga storia di un’idea. An event listed by Consorzio Brianteo Villa Greppi. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "20:30",
+        "en": "20:30"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
+      "startTime": "20:30",
+      "organiser": "Consorzio Brianteo Villa Greppi",
+      "officialUrl": "https://www.villagreppi.it/evento/cercare-leuropa-significa-crearla-la-lunga-storia-di-unidea-2/",
+      "contact": null,
+      "meetingPoint": "Sala civica Teodolinda, piazza Teodolinda Missaglia",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-villa-greppi"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-villa-greppi-7e5a13ed70e63c218a15/",
+        "en": "/en/events/auto-villa-greppi-7e5a13ed70e63c218a15/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "villa-greppi",
+        "uid": "https://www.villagreppi.it/evento/cercare-leuropa-significa-crearla-la-lunga-storia-di-unidea-2/",
+        "identity": "https://www.villagreppi.it/evento/cercare-leuropa-significa-crearla-la-lunga-storia-di-unidea-2/|2026-12-11",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Missaglia"
+    },
+    {
+      "id": "auto-merate-646896fe19ee2078494f",
+      "type": "event",
+      "name": {
+        "it": "10° Festival nazionale di teatro città di Merate",
+        "en": "10° Festival nazionale di teatro città di Merate"
+      },
+      "title": {
+        "it": "10° Festival nazionale di teatro città di Merate | MTV City",
+        "en": "10° Festival nazionale di teatro città di Merate | MTV City"
+      },
+      "metaDescription": {
+        "it": "10° Festival nazionale di teatro città di Merate: appuntamento del 2026-12-12. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "10° Festival nazionale di teatro città di Merate: event on 2026-12-12. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-12-12: 10° Festival nazionale di teatro città di Merate. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-12-12: 10° Festival nazionale di teatro città di Merate. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "21:00",
+        "en": "21:00"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-12",
+      "startTime": "21:00",
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_498.html",
+      "contact": null,
+      "meetingPoint": "Auditorium comunale \"Giusi Spezzaferri\" - Piazza degli Eroi, 3 - 23807 Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-646896fe19ee2078494f/",
+        "en": "/en/events/auto-merate-646896fe19ee2078494f/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_498.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_498.html|2026-12-12",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-casatenovo-83617486d190b5deadbe",
+      "type": "event",
+      "name": {
+        "it": "Gin Game",
+        "en": "Gin Game"
+      },
+      "title": {
+        "it": "Gin Game | MTV City",
+        "en": "Gin Game | MTV City"
+      },
+      "metaDescription": {
+        "it": "Gin Game: appuntamento del 2027-01-13. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Gin Game: event on 2027-01-13. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2027-01-13: Gin Game. Appuntamento presente nel programma di Auditorium di Casatenovo. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2027-01-13: Gin Game. An event listed by Auditorium di Casatenovo. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "Orari sul programma ufficiale",
+        "en": "Times on the official programme"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2027-01-13",
+      "endDate": "2027-01-13",
+      "startTime": null,
+      "organiser": "Auditorium di Casatenovo",
+      "officialUrl": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/GinGame.htm",
+      "contact": null,
+      "meetingPoint": "Auditorium di Casatenovo",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "teatro"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-casatenovo"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-casatenovo-83617486d190b5deadbe/",
+        "en": "/en/events/auto-casatenovo-83617486d190b5deadbe/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "casatenovo",
+        "uid": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/GinGame.htm",
+        "identity": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/GinGame.htm|2027-01-13",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Casatenovo"
+    },
+    {
+      "id": "auto-merate-6ff780db8a4d88a231af",
+      "type": "event",
+      "name": {
+        "it": "Cinema Spazio 50",
+        "en": "Cinema Spazio 50"
+      },
+      "title": {
+        "it": "Cinema Spazio 50 | MTV City",
+        "en": "Cinema Spazio 50 | MTV City"
+      },
+      "metaDescription": {
+        "it": "Cinema Spazio 50: appuntamento del 2027-01-15. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Cinema Spazio 50: event on 2027-01-15. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2027-01-15: Cinema Spazio 50. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2027-01-15: Cinema Spazio 50. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "20:45",
+        "en": "20:45"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2027-01-15",
+      "endDate": "2027-01-15",
+      "startTime": "20:45",
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
+      "contact": null,
+      "meetingPoint": "Ronzinante Teatro - Via Vittorio Veneto, 1 - 23807 Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-6ff780db8a4d88a231af/",
+        "en": "/en/events/auto-merate-6ff780db8a4d88a231af/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html|2027-01-15",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-merate-91d082c3039fc9989587",
+      "type": "event",
+      "name": {
+        "it": "Cinema Spazio 50",
+        "en": "Cinema Spazio 50"
+      },
+      "title": {
+        "it": "Cinema Spazio 50 | MTV City",
+        "en": "Cinema Spazio 50 | MTV City"
+      },
+      "metaDescription": {
+        "it": "Cinema Spazio 50: appuntamento del 2027-01-29. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Cinema Spazio 50: event on 2027-01-29. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2027-01-29: Cinema Spazio 50. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2027-01-29: Cinema Spazio 50. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "20:45",
+        "en": "20:45"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2027-01-29",
+      "endDate": "2027-01-29",
+      "startTime": "20:45",
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
+      "contact": null,
+      "meetingPoint": "Ronzinante Teatro - Via Vittorio Veneto, 1 - 23807 Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-91d082c3039fc9989587/",
+        "en": "/en/events/auto-merate-91d082c3039fc9989587/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html|2027-01-29",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-merate-879988a7aa9bd3d26abc",
+      "type": "event",
+      "name": {
+        "it": "Cinema Spazio 50",
+        "en": "Cinema Spazio 50"
+      },
+      "title": {
+        "it": "Cinema Spazio 50 | MTV City",
+        "en": "Cinema Spazio 50 | MTV City"
+      },
+      "metaDescription": {
+        "it": "Cinema Spazio 50: appuntamento del 2027-02-12. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Cinema Spazio 50: event on 2027-02-12. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2027-02-12: Cinema Spazio 50. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2027-02-12: Cinema Spazio 50. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "20:45",
+        "en": "20:45"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-12",
+      "startTime": "20:45",
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
+      "contact": null,
+      "meetingPoint": "Ronzinante Teatro - Via Vittorio Veneto, 1 - 23807 Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-879988a7aa9bd3d26abc/",
+        "en": "/en/events/auto-merate-879988a7aa9bd3d26abc/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html|2027-02-12",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-casatenovo-e9b47c315d5f7788754d",
+      "type": "event",
+      "name": {
+        "it": "Buongiorno, ministro!",
+        "en": "Buongiorno, ministro!"
+      },
+      "title": {
+        "it": "Buongiorno, ministro! | MTV City",
+        "en": "Buongiorno, ministro! | MTV City"
+      },
+      "metaDescription": {
+        "it": "Buongiorno, ministro!: appuntamento del 2027-02-24. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Buongiorno, ministro!: event on 2027-02-24. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2027-02-24: Buongiorno, ministro!. Appuntamento presente nel programma di Auditorium di Casatenovo. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2027-02-24: Buongiorno, ministro!. An event listed by Auditorium di Casatenovo. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "Orari sul programma ufficiale",
+        "en": "Times on the official programme"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2027-02-24",
+      "endDate": "2027-02-24",
+      "startTime": null,
+      "organiser": "Auditorium di Casatenovo",
+      "officialUrl": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/ministro.htm",
+      "contact": null,
+      "meetingPoint": "Auditorium di Casatenovo",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "teatro"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-casatenovo"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-casatenovo-e9b47c315d5f7788754d/",
+        "en": "/en/events/auto-casatenovo-e9b47c315d5f7788754d/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "casatenovo",
+        "uid": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/ministro.htm",
+        "identity": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/ministro.htm|2027-02-24",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Casatenovo"
+    },
+    {
+      "id": "auto-merate-a2563f7a91524f7b0f25",
+      "type": "event",
+      "name": {
+        "it": "Cinema Spazio 50",
+        "en": "Cinema Spazio 50"
+      },
+      "title": {
+        "it": "Cinema Spazio 50 | MTV City",
+        "en": "Cinema Spazio 50 | MTV City"
+      },
+      "metaDescription": {
+        "it": "Cinema Spazio 50: appuntamento del 2027-02-26. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Cinema Spazio 50: event on 2027-02-26. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2027-02-26: Cinema Spazio 50. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2027-02-26: Cinema Spazio 50. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "20:45",
+        "en": "20:45"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-26",
+      "startTime": "20:45",
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
+      "contact": null,
+      "meetingPoint": "Ronzinante Teatro - Via Vittorio Veneto, 1 - 23807 Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-a2563f7a91524f7b0f25/",
+        "en": "/en/events/auto-merate-a2563f7a91524f7b0f25/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html|2027-02-26",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-merate-b9bd9dde68f4a7abfc7e",
+      "type": "event",
+      "name": {
+        "it": "Cinema Spazio 50",
+        "en": "Cinema Spazio 50"
+      },
+      "title": {
+        "it": "Cinema Spazio 50 | MTV City",
+        "en": "Cinema Spazio 50 | MTV City"
+      },
+      "metaDescription": {
+        "it": "Cinema Spazio 50: appuntamento del 2027-03-12. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Cinema Spazio 50: event on 2027-03-12. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2027-03-12: Cinema Spazio 50. Appuntamento presente nel programma di Comune di Merate. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2027-03-12: Cinema Spazio 50. An event listed by Comune di Merate. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "20:45",
+        "en": "20:45"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-12",
+      "startTime": "20:45",
+      "organiser": "Comune di Merate",
+      "officialUrl": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
+      "contact": null,
+      "meetingPoint": "Ronzinante Teatro - Via Vittorio Veneto, 1 - 23807 Merate (LC)",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-merate"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-merate-b9bd9dde68f4a7abfc7e/",
+        "en": "/en/events/auto-merate-b9bd9dde68f4a7abfc7e/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "merate",
+        "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
+        "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html|2027-03-12",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Merate"
+    },
+    {
+      "id": "auto-casatenovo-23df6912a275bdf136dd",
+      "type": "event",
+      "name": {
+        "it": "Il gufo e la gattina",
+        "en": "Il gufo e la gattina"
+      },
+      "title": {
+        "it": "Il gufo e la gattina | MTV City",
+        "en": "Il gufo e la gattina | MTV City"
+      },
+      "metaDescription": {
+        "it": "Il gufo e la gattina: appuntamento del 2027-04-22. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Il gufo e la gattina: event on 2027-04-22. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2027-04-22: Il gufo e la gattina. Appuntamento presente nel programma di Auditorium di Casatenovo. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2027-04-22: Il gufo e la gattina. An event listed by Auditorium di Casatenovo. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "Orari sul programma ufficiale",
+        "en": "Times on the official programme"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2027-04-22",
+      "endDate": "2027-04-22",
+      "startTime": null,
+      "organiser": "Auditorium di Casatenovo",
+      "officialUrl": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/gufo.htm",
+      "contact": null,
+      "meetingPoint": "Auditorium di Casatenovo",
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "teatro"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-casatenovo"
+      ],
+      "verified": "2026-11-13",
+      "publication": "published",
+      "status": "reviewed",
+      "routes": {
+        "it": "/it/eventi/auto-casatenovo-23df6912a275bdf136dd/",
+        "en": "/en/events/auto-casatenovo-23df6912a275bdf136dd/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "casatenovo",
+        "uid": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/gufo.htm",
+        "identity": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/gufo.htm|2027-04-22",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-13",
+        "lastSeenAt": "2026-11-13T18:53:02+01:00"
+      },
+      "municipality": "Casatenovo"
+    }
+  ],
+  "nearbySources": [
+    {
+      "id": "AUTO-merate",
+      "owner": "Comune di Merate",
+      "title": "Calendario ufficiale: Comune di Merate",
+      "url": "https://www.comune.merate.lc.it/EG0/EGSCHTST38.HBL?MESSA=PUBBLICA&en=eg402",
+      "checked": "2026-11-13",
+      "note": "Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata."
+    },
+    {
+      "id": "AUTO-missaglia",
+      "owner": "Comune di Missaglia",
+      "title": "Calendario ufficiale: Comune di Missaglia",
+      "url": "https://www.comune.missaglia.lc.it/EG0/EGSCHTST38.HBL?MESSA=PUBBLICA&en=eg402",
+      "checked": "2026-11-13",
+      "note": "Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata."
+    },
+    {
+      "id": "AUTO-villa-greppi",
+      "owner": "Consorzio Brianteo Villa Greppi",
+      "title": "Calendario ufficiale: Consorzio Brianteo Villa Greppi",
+      "url": "https://www.villagreppi.it/eventi/",
+      "checked": "2026-11-13",
+      "note": "Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata."
+    },
+    {
+      "id": "AUTO-imbersago",
+      "owner": "Pro Loco Imbersago",
+      "title": "Calendario ufficiale: Pro Loco Imbersago",
+      "url": "https://prolocoimbersago.it/il-mercatino-dellantico/",
+      "checked": "2026-11-13",
+      "note": "Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata."
+    },
+    {
+      "id": "AUTO-casatenovo",
+      "owner": "Auditorium di Casatenovo",
+      "title": "Calendario ufficiale: Auditorium di Casatenovo",
+      "url": "https://www.auditoriumcasatenovo.com/",
+      "checked": "2026-11-13",
+      "note": "Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata."
+    }
+  ],
   "sourceChecks": [
     {
       "id": "proloco",
       "owner": "ProMontevecchia",
-      "checkedAt": "2026-11-13T07:09:26+01:00",
+      "checkedAt": "2026-11-13T18:53:02+01:00",
       "ok": true,
       "issues": [
         "Cena sociale di Natale ProMontevecchia: Luogo non dichiarato nella fonte",
@@ -3352,13 +6116,13 @@
         "Valcurone in musica 2ª Edizione: Black Vibes: Neo-Soul & R&B con i Nukinda: Luogo non dichiarato nella fonte",
         "Valcurone in musica 2ª Edizione: Music on the Road: Luogo non dichiarato nella fonte"
       ],
-      "sha256": "48dd85bebbcb93dbc7ea4120685b38891cf0e2085ca014a9a41c344af95a27e9",
+      "sha256": "1261aae2f92950a1ecf9322e5d09d7150b986226ab4da89ed8fec893d56fe1da",
       "eventCount": 20
     },
     {
       "id": "parco",
       "owner": "Parco di Montevecchia e della Valle del Curone",
-      "checkedAt": "2026-11-13T07:09:26+01:00",
+      "checkedAt": "2026-11-13T18:53:02+01:00",
       "ok": true,
       "issues": [],
       "sha256": "a8ff3595d06e938f8a531b65b90f11151db665537f111963bc2ce11c132b1a15",
@@ -3368,11 +6132,56 @@
     {
       "id": "comune",
       "owner": "Comune di Montevecchia",
-      "checkedAt": "2026-11-13T07:09:26+01:00",
+      "checkedAt": "2026-11-13T18:53:02+01:00",
       "ok": true,
       "issues": [],
       "sha256": "1467c1932450cd83e9f1b27198c95c5b314eefb18dd9173d6974ae4eec8c4396",
       "eventCount": 6
+    },
+    {
+      "id": "merate",
+      "owner": "Comune di Merate",
+      "checkedAt": "2026-11-13T18:53:02+01:00",
+      "ok": true,
+      "issues": [],
+      "sha256": "d0a58e7ad78fc1b33f452100682ace05d9b91dab002c62267b356a68cae27875",
+      "eventCount": 24
+    },
+    {
+      "id": "missaglia",
+      "owner": "Comune di Missaglia",
+      "checkedAt": "2026-11-13T18:53:02+01:00",
+      "ok": true,
+      "issues": [],
+      "sha256": "20afc881b6c48b7defdb919f3379166c85937fad10bf221fd6c4c0e0aefcdc16",
+      "eventCount": 2
+    },
+    {
+      "id": "villa-greppi",
+      "owner": "Consorzio Brianteo Villa Greppi",
+      "checkedAt": "2026-11-13T18:53:02+01:00",
+      "ok": true,
+      "issues": [],
+      "sha256": "ca132d650e15b1eb7a6811d3d3e908552c7033515d9ec9c7957061dfc2047e6a",
+      "eventCount": 8
+    },
+    {
+      "id": "imbersago",
+      "owner": "Pro Loco Imbersago",
+      "checkedAt": "2026-11-13T18:53:02+01:00",
+      "ok": true,
+      "issues": [],
+      "sha256": "5e2a244e5d868992d11de4ba8b8b09531e0a7d31c6c3b989ebc041bc8eefbfaa",
+      "eventCount": 1
+    },
+    {
+      "id": "casatenovo",
+      "owner": "Auditorium di Casatenovo",
+      "checkedAt": "2026-11-13T18:53:02+01:00",
+      "ok": true,
+      "issues": [],
+      "sha256": "d2fd57fce34ab4e0374685ae8e512efd01648144bc7af2d8d8c3660139ffb39a",
+      "eventCount": 5
     }
   ],
   "maxStaleHours": 72
