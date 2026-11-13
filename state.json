@@ -1,12 +1,13 @@
 {
-  "checkedAt": "2026-11-12T07:12:53+01:00",
+  "checkedAt": "2026-11-13T07:09:26+01:00",
   "sources": [
     {
       "id": "proloco",
       "owner": "ProMontevecchia",
-      "checkedAt": "2026-11-12T07:12:53+01:00",
+      "checkedAt": "2026-11-13T07:09:26+01:00",
       "ok": true,
       "issues": [
+        "Cena sociale di Natale ProMontevecchia: Luogo non dichiarato nella fonte",
         "ENGLISH BOOK: Luogo non dichiarato nella fonte",
         "ENGLISH BOOK: Luogo non dichiarato nella fonte",
         "ENGLISH BOOK: Luogo non dichiarato nella fonte",
@@ -15,18 +16,17 @@
         "ENGLISH BOOK: Luogo non dichiarato nella fonte",
         "Festa di Natale di Montevecchia: Luogo non dichiarato nella fonte",
         "LA SIGNORA DELLA CURVA – Maria Gaetana Agnesi: Luogo non dichiarato nella fonte",
-        "Pranzo sociale di Natale ProMontevecchia: Luogo non dichiarato nella fonte",
         "Presentazione Libro Gianni Vecchi: Luogo non dichiarato nella fonte",
         "Valcurone in musica 2ª Edizione: Black Vibes: Neo-Soul & R&B con i Nukinda: Luogo non dichiarato nella fonte",
         "Valcurone in musica 2ª Edizione: Music on the Road: Luogo non dichiarato nella fonte"
       ],
-      "sha256": "341d06838ea5187237004814d12df8e6f25f9c76c3b799efd5ff372a3b37905c",
-      "eventCount": 18
+      "sha256": "48dd85bebbcb93dbc7ea4120685b38891cf0e2085ca014a9a41c344af95a27e9",
+      "eventCount": 20
     },
     {
       "id": "parco",
       "owner": "Parco di Montevecchia e della Valle del Curone",
-      "checkedAt": "2026-11-12T07:12:53+01:00",
+      "checkedAt": "2026-11-13T07:09:26+01:00",
       "ok": true,
       "issues": [],
       "sha256": "a8ff3595d06e938f8a531b65b90f11151db665537f111963bc2ce11c132b1a15",
@@ -36,13 +36,13 @@
     {
       "id": "comune",
       "owner": "Comune di Montevecchia",
-      "checkedAt": "2026-11-12T07:12:53+01:00",
+      "checkedAt": "2026-11-13T07:09:26+01:00",
       "ok": true,
       "issues": [],
       "sha256": "1467c1932450cd83e9f1b27198c95c5b314eefb18dd9173d6974ae4eec8c4396",
       "eventCount": 6
     }
   ],
-  "lastPublishedFingerprint": "d8eda605de77cce6ba51a3f150c105af6324a650878491fd027ac4bd2a228b20",
-  "alertFingerprint": "228439a7ee2a3faf4bb166534eb0991fa89a6478904a6592bef348b1ade1e66f"
+  "lastPublishedFingerprint": "c947239e143fc92697d1ce3febe53dbc36dcc2c8854f54a374f6a98af6af874f",
+  "alertFingerprint": "7655adfe01a9c1e1aecb75bab8717afa1f09b578edbc20c3de138614a9cdf7a8"
 }
