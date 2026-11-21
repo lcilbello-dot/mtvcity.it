@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:00:03+01:00",
+  "generatedAt": "2026-11-21T14:28:00+01:00",
   "events": [
     {
       "id": "auto-comune-a8388be5610e3c49ca53",
@@ -1396,7 +1396,7 @@
       "sources": [
         "AUTO-comune"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "archive",
       "status": "reviewed",
       "routes": {
@@ -1409,8 +1409,8 @@
         "uid": "2025",
         "identity": "2025|1794042000-1794048300",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     },
     {
@@ -1463,7 +1463,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -1476,9 +1476,9 @@
         "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
         "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2026-11-13T10:00:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
+        "lastSeen": "2026-11-21",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     },
     {
@@ -1531,7 +1531,7 @@
       "sources": [
         "AUTO-parco"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "archive",
       "status": "reviewed",
       "routes": {
@@ -1544,8 +1544,8 @@
         "uid": "2026-11-15|lesorgentidelparco",
         "identity": "2026-11-15|lesorgentidelparco",
         "publisherOnly": false,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     },
     {
@@ -1598,7 +1598,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "archive",
       "status": "reviewed",
       "routes": {
@@ -1611,8 +1611,8 @@
         "uid": "5vmn17pik6atshak43kmvstpvl@google.com",
         "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-11-17T20:30:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     },
     {
@@ -1665,7 +1665,7 @@
       "sources": [
         "AUTO-comune"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "archive",
       "status": "reviewed",
       "routes": {
@@ -1678,8 +1678,8 @@
         "uid": "2027",
         "identity": "2027|1795107600-1795113000",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     },
     {
@@ -1800,7 +1800,7 @@
       "sources": [
         "AUTO-comune"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -1813,8 +1813,8 @@
         "uid": "2048",
         "identity": "2048|1795636800-1795644000",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     },
     {
@@ -1935,7 +1935,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -1948,9 +1948,9 @@
         "uid": "cgs34c9lc9hjgb9g74ojgb9k6kq68b9o6tj34b9jchijec1jc4pjgp9gc8@google.com",
         "identity": "cgs34c9lc9hjgb9g74ojgb9k6kq68b9o6tj34b9jchijec1jc4pjgp9gc8@google.com|2026-11-25T12:30:00+00:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
+        "lastSeen": "2026-11-21",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     },
     {
@@ -2003,7 +2003,7 @@
       "sources": [
         "AUTO-comune"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -2016,8 +2016,8 @@
         "uid": "2046",
         "identity": "2046|1795723200-1795730400",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     },
     {
@@ -2070,7 +2070,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -2083,9 +2083,9 @@
         "uid": "5ub29r1hif67vvbjgdamlhho9g@google.com",
         "identity": "5ub29r1hif67vvbjgdamlhho9g@google.com|2026-11-26T20:00:00+00:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
+        "lastSeen": "2026-11-21",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     },
     {
@@ -2156,6 +2156,74 @@
       }
     },
     {
+      "id": "auto-proloco-e0d62b5dbaab1985fd02",
+      "type": "event",
+      "name": {
+        "it": "Plasticfree",
+        "en": "Plasticfree"
+      },
+      "title": {
+        "it": "Plasticfree | MTV City",
+        "en": "Plasticfree | MTV City"
+      },
+      "metaDescription": {
+        "it": "Plasticfree: appuntamento del 2026-11-29. Programma e aggiornamenti sulla fonte ufficiale.",
+        "en": "Plasticfree: event on 2026-11-29. Programme and updates on the official source."
+      },
+      "description": {
+        "it": "2026-11-29: Plasticfree. Appuntamento presente nel programma di ProMontevecchia. Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "2026-11-29: Plasticfree. An event listed by ProMontevecchia. The event title is shown in its original language. See the official programme for participation, bookings, any fees and updates."
+      },
+      "dayPart": {
+        "it": "09:30",
+        "en": "09:30"
+      },
+      "registration": {
+        "it": "Consulta il programma ufficiale per partecipazione, prenotazioni, eventuali quote e aggiornamenti.",
+        "en": "See the official programme for participation, bookings, any fees and updates."
+      },
+      "audienceNote": {
+        "it": "Verifica con l’organizzatore requisiti, accessibilità e idoneità per bambini.",
+        "en": "Check requirements, accessibility and suitability for children with the organiser."
+      },
+      "startDate": "2026-11-29",
+      "endDate": "2026-11-29",
+      "startTime": "09:30",
+      "organiser": "ProMontevecchia",
+      "officialUrl": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
+      "contact": null,
+      "meetingPoint": null,
+      "meetingPointVerified": false,
+      "coordinates": null,
+      "coordinateVerified": false,
+      "audience": "general",
+      "categories": [
+        "cultura"
+      ],
+      "gallery": [],
+      "visualIcon": "calendar",
+      "sources": [
+        "AUTO-proloco"
+      ],
+      "verified": "2026-11-21",
+      "publication": "draft",
+      "status": "pending_automation_review",
+      "routes": {
+        "it": "/it/eventi/auto-proloco-e0d62b5dbaab1985fd02/",
+        "en": "/en/events/auto-proloco-e0d62b5dbaab1985fd02/"
+      },
+      "eventStatus": "scheduled",
+      "automation": {
+        "sourceId": "proloco",
+        "uid": "c8s3icb56lijebb26or3gb9k60om2b9o65h38b9ic5hm4dhl6ss32cj46o@google.com",
+        "identity": "c8s3icb56lijebb26or3gb9k60om2b9o65h38b9ic5hm4dhl6ss32cj46o@google.com|2026-11-29T08:30:00+00:00",
+        "publisherOnly": true,
+        "lastSeen": "2026-11-21",
+        "issue": "Luogo non dichiarato nella fonte",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
+      }
+    },
+    {
       "id": "auto-proloco-42e6cf7bf73009171c13",
       "type": "event",
       "name": {
@@ -2205,7 +2273,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -2218,8 +2286,8 @@
         "uid": "5vmn17pik6atshak43kmvstpvl@google.com",
         "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-12-01T20:30:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     },
     {
@@ -2339,7 +2407,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -2352,9 +2420,9 @@
         "uid": "16i6m31cj4gicb1h5mg76qn6ve@google.com",
         "identity": "16i6m31cj4gicb1h5mg76qn6ve@google.com|2026-12-06T19:00:00+00:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
+        "lastSeen": "2026-11-21",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     },
     {
@@ -2407,7 +2475,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -2420,9 +2488,9 @@
         "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
         "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2026-12-11T10:00:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
+        "lastSeen": "2026-11-21",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     },
     {
@@ -2475,7 +2543,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -2488,8 +2556,8 @@
         "uid": "20hgd1evb83dm3lckb1g1ba68r@google.com",
         "identity": "20hgd1evb83dm3lckb1g1ba68r@google.com|2026-12-12T20:00:00+00:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     },
     {
@@ -2610,7 +2678,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -2623,9 +2691,9 @@
         "uid": "13qba563hbf2m0hafgqn9r4bfu@google.com",
         "identity": "13qba563hbf2m0hafgqn9r4bfu@google.com|2026-12-13T13:00:00+00:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
+        "lastSeen": "2026-11-21",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     },
     {
@@ -2746,7 +2814,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -2759,8 +2827,8 @@
         "uid": "5vmn17pik6atshak43kmvstpvl@google.com",
         "identity": "5vmn17pik6atshak43kmvstpvl@google.com|2026-12-15T20:30:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     },
     {
@@ -2813,7 +2881,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -2826,8 +2894,8 @@
         "uid": "2l04smdak4gpdekfn25k4ce2qe@google.com",
         "identity": "2l04smdak4gpdekfn25k4ce2qe@google.com|2026-12-20T16:30:00+00:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     },
     {
@@ -2880,7 +2948,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -2893,9 +2961,9 @@
         "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
         "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2027-01-08T10:00:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
+        "lastSeen": "2026-11-21",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     },
     {
@@ -2948,7 +3016,7 @@
       "sources": [
         "AUTO-comune"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -2961,8 +3029,8 @@
         "uid": "2028",
         "identity": "2028|1800032400-1800037800",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     },
     {
@@ -3015,7 +3083,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -3028,9 +3096,9 @@
         "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
         "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2027-02-12T10:00:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
+        "lastSeen": "2026-11-21",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     },
     {
@@ -3083,7 +3151,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -3096,9 +3164,9 @@
         "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
         "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2027-03-12T10:00:00+01:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
+        "lastSeen": "2026-11-21",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     },
     {
@@ -3151,7 +3219,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -3164,9 +3232,9 @@
         "uid": "6spjceb1c4p6ab9i69gmcb9k70rj2b9p60s68b9gccs32opj6ksj0or26k@google.com",
         "identity": "6spjceb1c4p6ab9i69gmcb9k70rj2b9p60s68b9gccs32opj6ksj0or26k@google.com|2027-03-20T19:45:00+00:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
+        "lastSeen": "2026-11-21",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     },
     {
@@ -3219,7 +3287,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -3232,9 +3300,9 @@
         "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
         "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2027-04-09T10:00:00+02:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
+        "lastSeen": "2026-11-21",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     },
     {
@@ -3287,7 +3355,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -3300,9 +3368,9 @@
         "uid": "6pijiopo6com4b9k6cp3ib9k68sj2b9p6go30bb5cor3apj2cks6ae366s@google.com",
         "identity": "6pijiopo6com4b9k6cp3ib9k68sj2b9p6go30bb5cor3apj2cks6ae366s@google.com|2027-04-10T18:45:00+00:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
+        "lastSeen": "2026-11-21",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     },
     {
@@ -3355,7 +3423,7 @@
       "sources": [
         "AUTO-proloco"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "draft",
       "status": "pending_automation_review",
       "routes": {
@@ -3368,9 +3436,9 @@
         "uid": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com",
         "identity": "5iud9s0mn4jt31o7d1oc2ke5vs@google.com|2027-05-14T10:00:00+02:00",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
+        "lastSeen": "2026-11-21",
         "issue": "Luogo non dichiarato nella fonte",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       }
     }
   ],
@@ -3380,7 +3448,7 @@
       "owner": "ProMontevecchia",
       "title": "Calendario ufficiale: ProMontevecchia",
       "url": "https://www.promontevecchia.it/index.php/iniziative-eventi/archivioeventi/calendario-eventi-montevecchia-intorni/",
-      "checked": "2026-11-20",
+      "checked": "2026-11-21",
       "note": "Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata."
     },
     {
@@ -3388,7 +3456,7 @@
       "owner": "Parco di Montevecchia e della Valle del Curone",
       "title": "Calendario ufficiale: Parco di Montevecchia e della Valle del Curone",
       "url": "https://www.parcocurone.it/iniziative/visitegev.php",
-      "checked": "2026-11-20",
+      "checked": "2026-11-21",
       "note": "Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata."
     },
     {
@@ -3396,7 +3464,7 @@
       "owner": "Comune di Montevecchia",
       "title": "Calendario ufficiale: Comune di Montevecchia",
       "url": "https://www.comune.montevecchia.lc.it/Vivere-il-comune/Eventi",
-      "checked": "2026-11-20",
+      "checked": "2026-11-21",
       "note": "Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata."
     }
   ],
@@ -3519,7 +3587,7 @@
       "sources": [
         "AUTO-merate"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -3532,8 +3600,8 @@
         "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_498.html",
         "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_498.html|2026-10-03",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Merate"
     },
@@ -3587,7 +3655,7 @@
       "sources": [
         "AUTO-merate"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -3600,8 +3668,8 @@
         "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_514.html",
         "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_514.html|2026-10-03",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Merate"
     },
@@ -3723,7 +3791,7 @@
       "sources": [
         "AUTO-merate"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -3736,8 +3804,8 @@
         "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
         "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html|2026-10-23",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Merate"
     },
@@ -3859,7 +3927,7 @@
       "sources": [
         "AUTO-merate"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -3872,8 +3940,8 @@
         "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_518.html",
         "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_518.html|2026-10-31",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Merate"
     },
@@ -3927,7 +3995,7 @@
       "sources": [
         "AUTO-merate"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -3940,8 +4008,8 @@
         "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_535.html",
         "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_535.html|2026-11-04",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Merate"
     },
@@ -4063,7 +4131,7 @@
       "sources": [
         "AUTO-villa-greppi"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "archive",
       "status": "reviewed",
       "routes": {
@@ -4076,8 +4144,8 @@
         "uid": "https://www.villagreppi.it/evento/storie-di-fiumi-il-reno-cerniera-di-un-continente/",
         "identity": "https://www.villagreppi.it/evento/storie-di-fiumi-il-reno-cerniera-di-un-continente/|2026-11-07",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Imbersago"
     },
@@ -4403,7 +4471,7 @@
       "sources": [
         "AUTO-merate"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "archive",
       "status": "reviewed",
       "routes": {
@@ -4416,8 +4484,8 @@
         "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_498.html",
         "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_498.html|2026-11-15",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Merate"
     },
@@ -4471,7 +4539,7 @@
       "sources": [
         "AUTO-villa-greppi"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "archive",
       "status": "reviewed",
       "routes": {
@@ -4484,8 +4552,8 @@
         "uid": "https://www.villagreppi.it/evento/oltre-il-paesaggio-segni-trasparenze-e-colori-per-reinventare-il-paesaggio-con-lacquerello/",
         "identity": "https://www.villagreppi.it/evento/oltre-il-paesaggio-segni-trasparenze-e-colori-per-reinventare-il-paesaggio-con-lacquerello/|2026-11-15",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Casatenovo"
     },
@@ -4539,8 +4607,8 @@
       "sources": [
         "AUTO-merate"
       ],
-      "verified": "2026-11-20",
-      "publication": "published",
+      "verified": "2026-11-21",
+      "publication": "archive",
       "status": "reviewed",
       "routes": {
         "it": "/it/eventi/auto-merate-876833f1d831cae497a4/",
@@ -4552,8 +4620,8 @@
         "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
         "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html|2026-11-20",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Merate"
     },
@@ -4607,7 +4675,7 @@
       "sources": [
         "AUTO-villa-greppi"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -4620,8 +4688,8 @@
         "uid": "https://www.villagreppi.it/evento/800-narrazioni-a-villa-greppi/",
         "identity": "https://www.villagreppi.it/evento/800-narrazioni-a-villa-greppi/|2026-11-20",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Monticello Brianza"
     },
@@ -4675,7 +4743,7 @@
       "sources": [
         "AUTO-merate"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -4688,8 +4756,8 @@
         "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_224.html",
         "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_224.html|2026-11-21",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Merate"
     },
@@ -4743,7 +4811,7 @@
       "sources": [
         "AUTO-merate"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -4756,8 +4824,8 @@
         "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_541.html",
         "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_541.html|2026-11-21",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Merate"
     },
@@ -4811,7 +4879,7 @@
       "sources": [
         "AUTO-merate"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -4824,8 +4892,8 @@
         "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_537.html",
         "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_537.html|2026-11-21",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Merate"
     },
@@ -4879,7 +4947,7 @@
       "sources": [
         "AUTO-merate"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -4892,8 +4960,8 @@
         "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_484.html",
         "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_484.html|2026-11-23",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Merate"
     },
@@ -4947,7 +5015,7 @@
       "sources": [
         "AUTO-merate"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -4960,8 +5028,8 @@
         "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_539.html",
         "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_539.html|2026-11-27",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Merate"
     },
@@ -5015,7 +5083,7 @@
       "sources": [
         "AUTO-merate"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -5028,8 +5096,8 @@
         "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_542.html",
         "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_542.html|2026-11-28",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Merate"
     },
@@ -5083,7 +5151,7 @@
       "sources": [
         "AUTO-merate"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -5096,8 +5164,8 @@
         "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_540.html",
         "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_540.html|2026-11-28",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Merate"
     },
@@ -5151,7 +5219,7 @@
       "sources": [
         "AUTO-merate"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -5164,8 +5232,8 @@
         "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_498.html",
         "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_498.html|2026-11-28",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Merate"
     },
@@ -5219,7 +5287,7 @@
       "sources": [
         "AUTO-villa-greppi"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -5232,8 +5300,8 @@
         "uid": "https://www.villagreppi.it/evento/pagine-illustrate-2-3-2-2/",
         "identity": "https://www.villagreppi.it/evento/pagine-illustrate-2-3-2-2/|2026-11-28",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Merate"
     },
@@ -5287,7 +5355,7 @@
       "sources": [
         "AUTO-villa-greppi"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -5300,8 +5368,8 @@
         "uid": "https://www.villagreppi.it/evento/francoblu-e-mare-in-concerto-3/",
         "identity": "https://www.villagreppi.it/evento/francoblu-e-mare-in-concerto-3/|2026-11-28",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Monticello Brianza"
     },
@@ -5355,7 +5423,7 @@
       "sources": [
         "AUTO-villa-greppi"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -5368,8 +5436,8 @@
         "uid": "https://www.villagreppi.it/evento/italia-1943-1946-nascita-di-una-repubblica/",
         "identity": "https://www.villagreppi.it/evento/italia-1943-1946-nascita-di-una-repubblica/|2026-11-29",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Monticello Brianza"
     },
@@ -5423,7 +5491,7 @@
       "sources": [
         "AUTO-villa-greppi"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -5436,8 +5504,8 @@
         "uid": "https://www.villagreppi.it/evento/canto-a-las-mujeres/",
         "identity": "https://www.villagreppi.it/evento/canto-a-las-mujeres/|2026-11-29",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Monticello Brianza"
     },
@@ -5491,7 +5559,7 @@
       "sources": [
         "AUTO-casatenovo"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -5504,8 +5572,8 @@
         "uid": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/Gaber.htm",
         "identity": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/Gaber.htm|2026-12-04",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Casatenovo"
     },
@@ -5559,7 +5627,7 @@
       "sources": [
         "AUTO-merate"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -5572,8 +5640,8 @@
         "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
         "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html|2026-12-04",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Merate"
     },
@@ -5627,7 +5695,7 @@
       "sources": [
         "AUTO-casatenovo"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -5640,8 +5708,8 @@
         "uid": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/Gaber.htm",
         "identity": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/Gaber.htm|2026-12-09",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Casatenovo"
     },
@@ -5695,7 +5763,7 @@
       "sources": [
         "AUTO-villa-greppi"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -5708,8 +5776,8 @@
         "uid": "https://www.villagreppi.it/evento/1956-lanno-che-ha-cambiato-il-novecento-2/",
         "identity": "https://www.villagreppi.it/evento/1956-lanno-che-ha-cambiato-il-novecento-2/|2026-12-10",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Casatenovo"
     },
@@ -5763,7 +5831,7 @@
       "sources": [
         "AUTO-missaglia"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -5776,8 +5844,8 @@
         "uid": "https://www.comune.missaglia.lc.it/vivere_il_comune/eventi/evento_90.html",
         "identity": "https://www.comune.missaglia.lc.it/vivere_il_comune/eventi/evento_90.html|2026-12-11",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Missaglia"
     },
@@ -5831,7 +5899,7 @@
       "sources": [
         "AUTO-villa-greppi"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -5844,8 +5912,8 @@
         "uid": "https://www.villagreppi.it/evento/cercare-leuropa-significa-crearla-la-lunga-storia-di-unidea-2/",
         "identity": "https://www.villagreppi.it/evento/cercare-leuropa-significa-crearla-la-lunga-storia-di-unidea-2/|2026-12-11",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Missaglia"
     },
@@ -5899,7 +5967,7 @@
       "sources": [
         "AUTO-merate"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -5912,8 +5980,8 @@
         "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_498.html",
         "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_498.html|2026-12-12",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Merate"
     },
@@ -5967,7 +6035,7 @@
       "sources": [
         "AUTO-casatenovo"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -5980,8 +6048,8 @@
         "uid": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/GinGame.htm",
         "identity": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/GinGame.htm|2027-01-13",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Casatenovo"
     },
@@ -6035,7 +6103,7 @@
       "sources": [
         "AUTO-merate"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -6048,8 +6116,8 @@
         "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
         "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html|2027-01-15",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Merate"
     },
@@ -6103,7 +6171,7 @@
       "sources": [
         "AUTO-merate"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -6116,8 +6184,8 @@
         "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
         "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html|2027-01-29",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Merate"
     },
@@ -6171,7 +6239,7 @@
       "sources": [
         "AUTO-merate"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -6184,8 +6252,8 @@
         "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
         "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html|2027-02-12",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Merate"
     },
@@ -6239,7 +6307,7 @@
       "sources": [
         "AUTO-imbersago"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -6252,8 +6320,8 @@
         "uid": "https://prolocoimbersago.it/il-mercatino-dellantico/",
         "identity": "https://prolocoimbersago.it/il-mercatino-dellantico/|2027-02-21",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Imbersago"
     },
@@ -6307,7 +6375,7 @@
       "sources": [
         "AUTO-casatenovo"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -6320,8 +6388,8 @@
         "uid": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/ministro.htm",
         "identity": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/ministro.htm|2027-02-24",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Casatenovo"
     },
@@ -6375,7 +6443,7 @@
       "sources": [
         "AUTO-merate"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -6388,8 +6456,8 @@
         "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
         "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html|2027-02-26",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Merate"
     },
@@ -6443,7 +6511,7 @@
       "sources": [
         "AUTO-merate"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -6456,8 +6524,8 @@
         "uid": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html",
         "identity": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_519.html|2027-03-12",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Merate"
     },
@@ -6511,7 +6579,7 @@
       "sources": [
         "AUTO-imbersago"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -6524,8 +6592,8 @@
         "uid": "https://prolocoimbersago.it/il-mercatino-dellantico/",
         "identity": "https://prolocoimbersago.it/il-mercatino-dellantico/|2027-03-21",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Imbersago"
     },
@@ -6579,7 +6647,7 @@
       "sources": [
         "AUTO-imbersago"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -6592,8 +6660,8 @@
         "uid": "https://prolocoimbersago.it/il-mercatino-dellantico/",
         "identity": "https://prolocoimbersago.it/il-mercatino-dellantico/|2027-04-18",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Imbersago"
     },
@@ -6647,7 +6715,7 @@
       "sources": [
         "AUTO-casatenovo"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -6660,8 +6728,8 @@
         "uid": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/gufo.htm",
         "identity": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/gufo.htm|2027-04-22",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Casatenovo"
     },
@@ -6715,7 +6783,7 @@
       "sources": [
         "AUTO-imbersago"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -6728,8 +6796,8 @@
         "uid": "https://prolocoimbersago.it/il-mercatino-dellantico/",
         "identity": "https://prolocoimbersago.it/il-mercatino-dellantico/|2027-05-16",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Imbersago"
     },
@@ -6783,7 +6851,7 @@
       "sources": [
         "AUTO-casatenovo"
       ],
-      "verified": "2026-11-20",
+      "verified": "2026-11-21",
       "publication": "published",
       "status": "reviewed",
       "routes": {
@@ -6796,8 +6864,8 @@
         "uid": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/prenom.htm",
         "identity": "https://www.auditoriumcasatenovo.com/eventi-2026-2027/prenom.htm|2027-05-19",
         "publisherOnly": true,
-        "lastSeen": "2026-11-20",
-        "lastSeenAt": "2026-11-20T15:00:03+01:00"
+        "lastSeen": "2026-11-21",
+        "lastSeenAt": "2026-11-21T14:28:00+01:00"
       },
       "municipality": "Casatenovo"
     }
@@ -6808,7 +6876,7 @@
       "owner": "Comune di Merate",
       "title": "Calendario ufficiale: Comune di Merate",
       "url": "https://www.comune.merate.lc.it/EG0/EGSCHTST38.HBL?MESSA=PUBBLICA&en=eg402",
-      "checked": "2026-11-20",
+      "checked": "2026-11-21",
       "note": "Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata."
     },
     {
@@ -6816,7 +6884,7 @@
       "owner": "Comune di Missaglia",
       "title": "Calendario ufficiale: Comune di Missaglia",
       "url": "https://www.comune.missaglia.lc.it/EG0/EGSCHTST38.HBL?MESSA=PUBBLICA&en=eg402",
-      "checked": "2026-11-20",
+      "checked": "2026-11-21",
       "note": "Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata."
     },
     {
@@ -6824,7 +6892,7 @@
       "owner": "Consorzio Brianteo Villa Greppi",
       "title": "Calendario ufficiale: Consorzio Brianteo Villa Greppi",
       "url": "https://www.villagreppi.it/eventi/",
-      "checked": "2026-11-20",
+      "checked": "2026-11-21",
       "note": "Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata."
     },
     {
@@ -6832,7 +6900,7 @@
       "owner": "Pro Loco Imbersago",
       "title": "Calendario ufficiale: Pro Loco Imbersago",
       "url": "https://prolocoimbersago.it/il-mercatino-dellantico/",
-      "checked": "2026-11-20",
+      "checked": "2026-11-21",
       "note": "Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata."
     },
     {
@@ -6840,7 +6908,7 @@
       "owner": "Auditorium di Casatenovo",
       "title": "Calendario ufficiale: Auditorium di Casatenovo",
       "url": "https://www.auditoriumcasatenovo.com/",
-      "checked": "2026-11-20",
+      "checked": "2026-11-21",
       "note": "Importazione automatica di dati espliciti. Nessuna fotografia o descrizione editoriale copiata."
     }
   ],
@@ -6848,7 +6916,7 @@
     {
       "id": "proloco",
       "owner": "ProMontevecchia",
-      "checkedAt": "2026-11-20T15:00:03+01:00",
+      "checkedAt": "2026-11-21T14:28:00+01:00",
       "ok": true,
       "issues": [
         "Cena sociale di Natale ProMontevecchia: Luogo non dichiarato nella fonte",
@@ -6860,17 +6928,18 @@
         "ENGLISH BOOK: Luogo non dichiarato nella fonte",
         "Festa di Natale di Montevecchia: Luogo non dichiarato nella fonte",
         "LA SIGNORA DELLA CURVA – Maria Gaetana Agnesi: Luogo non dichiarato nella fonte",
+        "Plasticfree: Luogo non dichiarato nella fonte",
         "Presentazione Libro Gianni Vecchi: Luogo non dichiarato nella fonte",
         "Valcurone in musica 2ª Edizione: Black Vibes: Neo-Soul & R&B con i Nukinda: Luogo non dichiarato nella fonte",
         "Valcurone in musica 2ª Edizione: Music on the Road: Luogo non dichiarato nella fonte"
       ],
-      "sha256": "61b7e5fe632a3ec4d10bea89b3ba26ad0180d897b9378775c855deecf891954c",
+      "sha256": "09ea15e8fde80b1c6c576e8e5f2477dcd53ea87ef9a06c94b1eb3a4481b67ffb",
       "eventCount": 19
     },
     {
       "id": "parco",
       "owner": "Parco di Montevecchia e della Valle del Curone",
-      "checkedAt": "2026-11-20T15:00:03+01:00",
+      "checkedAt": "2026-11-21T14:28:00+01:00",
       "ok": true,
       "issues": [],
       "sha256": "a8ff3595d06e938f8a531b65b90f11151db665537f111963bc2ce11c132b1a15",
@@ -6880,7 +6949,7 @@
     {
       "id": "comune",
       "owner": "Comune di Montevecchia",
-      "checkedAt": "2026-11-20T15:00:03+01:00",
+      "checkedAt": "2026-11-21T14:28:00+01:00",
       "ok": true,
       "issues": [],
       "sha256": "1467c1932450cd83e9f1b27198c95c5b314eefb18dd9173d6974ae4eec8c4396",
@@ -6889,18 +6958,18 @@
     {
       "id": "merate",
       "owner": "Comune di Merate",
-      "checkedAt": "2026-11-20T15:00:03+01:00",
+      "checkedAt": "2026-11-21T14:28:00+01:00",
       "ok": true,
       "issues": [
         "Il calendario comunale ha ulteriori pagine"
       ],
-      "sha256": "5b367e2f4626973ca6667cca57ddfc935a8f2774bb772342751bb144f48f0165",
-      "eventCount": 23
+      "sha256": "2d9fb1a75a54f52fc2b678e905d2a600f2770ba5c2b5ffe80030e5977a7b1b13",
+      "eventCount": 22
     },
     {
       "id": "missaglia",
       "owner": "Comune di Missaglia",
-      "checkedAt": "2026-11-20T15:00:03+01:00",
+      "checkedAt": "2026-11-21T14:28:00+01:00",
       "ok": true,
       "issues": [],
       "sha256": "c8d1bdc826f25671b5eacac4b332e8e01700fe5e0a63799cc1c939518cca9424",
@@ -6909,25 +6978,25 @@
     {
       "id": "villa-greppi",
       "owner": "Consorzio Brianteo Villa Greppi",
-      "checkedAt": "2026-11-20T15:00:03+01:00",
+      "checkedAt": "2026-11-21T14:28:00+01:00",
       "ok": true,
       "issues": [],
-      "sha256": "632747cec8bad9e360cefc2980d67fef75becce85ece9324ffcbc014c8add3ea",
-      "eventCount": 9
+      "sha256": "1d83431795e0adedd5f9b3cabb75817f6ea8b46d73c161f0e313c056cf1d8e34",
+      "eventCount": 10
     },
     {
       "id": "imbersago",
       "owner": "Pro Loco Imbersago",
-      "checkedAt": "2026-11-20T15:00:03+01:00",
+      "checkedAt": "2026-11-21T14:28:00+01:00",
       "ok": true,
       "issues": [],
-      "sha256": "d83449b5be7762e045c9178a1295acddad3c16cce1dd16784f85823ed05754cc",
+      "sha256": "0ec5983e3419bcc6cfc3979bfd6e9aeaba9e0733276b17b2eddff4a4633f3944",
       "eventCount": 4
     },
     {
       "id": "casatenovo",
       "owner": "Auditorium di Casatenovo",
-      "checkedAt": "2026-11-20T15:00:03+01:00",
+      "checkedAt": "2026-11-21T14:28:00+01:00",
       "ok": true,
       "issues": [],
       "sha256": "8a257958fa7a97effebea420bbec89e12c271e7dfb1c0475a0e5e7b1c1b1d209",
