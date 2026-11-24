@@ -1,10 +1,10 @@
 {
-  "checkedAt": "2026-11-23T16:57:43+01:00",
+  "checkedAt": "2026-11-24T16:52:54+01:00",
   "sources": [
     {
       "id": "proloco",
       "owner": "ProMontevecchia",
-      "checkedAt": "2026-11-23T16:57:43+01:00",
+      "checkedAt": "2026-11-24T16:52:54+01:00",
       "ok": true,
       "issues": [
         "Cena sociale di Natale ProMontevecchia: Luogo non dichiarato nella fonte",
@@ -21,13 +21,13 @@
         "Valcurone in musica 2ª Edizione: Black Vibes: Neo-Soul & R&B con i Nukinda: Luogo non dichiarato nella fonte",
         "Valcurone in musica 2ª Edizione: Music on the Road: Luogo non dichiarato nella fonte"
       ],
-      "sha256": "addc60a33dd4d3d1506092baf80b022906acf45215b345c0d648beafd252dc0a",
+      "sha256": "d60517210e14266e4d83a68ec7ce93a59412cd8eee5d2c4ccbe4f87a85ffff49",
       "eventCount": 19
     },
     {
       "id": "parco",
       "owner": "Parco di Montevecchia e della Valle del Curone",
-      "checkedAt": "2026-11-23T16:57:43+01:00",
+      "checkedAt": "2026-11-24T16:52:54+01:00",
       "ok": true,
       "issues": [],
       "sha256": "a8ff3595d06e938f8a531b65b90f11151db665537f111963bc2ce11c132b1a15",
@@ -37,7 +37,7 @@
     {
       "id": "comune",
       "owner": "Comune di Montevecchia",
-      "checkedAt": "2026-11-23T16:57:43+01:00",
+      "checkedAt": "2026-11-24T16:52:54+01:00",
       "ok": true,
       "issues": [],
       "sha256": "1467c1932450cd83e9f1b27198c95c5b314eefb18dd9173d6974ae4eec8c4396",
@@ -46,16 +46,16 @@
     {
       "id": "merate",
       "owner": "Comune di Merate",
-      "checkedAt": "2026-11-23T16:57:43+01:00",
+      "checkedAt": "2026-11-24T16:52:54+01:00",
       "ok": true,
       "issues": [],
-      "sha256": "2c4e59ed4241adf9699f1ce3cd71522ae0210f1b0c85b09042514d2d4a3d3d4d",
-      "eventCount": 19
+      "sha256": "4a62b64382e96bd7b4a9f17014cf721f6c5e216c530c997b6679ce5515c57655",
+      "eventCount": 20
     },
     {
       "id": "missaglia",
       "owner": "Comune di Missaglia",
-      "checkedAt": "2026-11-23T16:57:43+01:00",
+      "checkedAt": "2026-11-24T16:52:54+01:00",
       "ok": true,
       "issues": [],
       "sha256": "c8d1bdc826f25671b5eacac4b332e8e01700fe5e0a63799cc1c939518cca9424",
@@ -64,31 +64,31 @@
     {
       "id": "villa-greppi",
       "owner": "Consorzio Brianteo Villa Greppi",
-      "checkedAt": "2026-11-23T16:57:43+01:00",
+      "checkedAt": "2026-11-24T16:52:54+01:00",
       "ok": true,
       "issues": [],
-      "sha256": "80c5b2dbd0defa0bf4fa517c9df8188fe1edc7fb9beb86d042c9c81bd674ad26",
+      "sha256": "bf565333f79bec6d9c523570112bcb70635e35d43c0f267ee878ca9b5dcc8fff",
       "eventCount": 8
     },
     {
       "id": "imbersago",
       "owner": "Pro Loco Imbersago",
-      "checkedAt": "2026-11-23T16:57:43+01:00",
+      "checkedAt": "2026-11-24T16:52:54+01:00",
       "ok": true,
       "issues": [],
-      "sha256": "03afdd5fd38729f6ff3a23b1df62060c9b5cd288263d46acaefe38b9ee64a93f",
+      "sha256": "fd41c8e9584bba599d729f2a90888ce1ad4a3158c4ce54821853056dba23c5a0",
       "eventCount": 4
     },
     {
       "id": "casatenovo",
       "owner": "Auditorium di Casatenovo",
-      "checkedAt": "2026-11-23T16:57:43+01:00",
+      "checkedAt": "2026-11-24T16:52:54+01:00",
       "ok": true,
       "issues": [],
       "sha256": "8a257958fa7a97effebea420bbec89e12c271e7dfb1c0475a0e5e7b1c1b1d209",
       "eventCount": 6
     }
   ],
-  "lastPublishedFingerprint": "e2e467647401f4ea878faaec7d440ef9b3f16923c78f28db5d2dec309a96e64a",
+  "lastPublishedFingerprint": "ff2e422f70c5d4f65970231fc73b12015c9f55a952e9d102c5093f8d49af2065",
   "alertFingerprint": "632bacbadcf13a32c3baf73574b1f3498b9cfdd7fcae1a3b52ae25b6f65b5020"
 }
